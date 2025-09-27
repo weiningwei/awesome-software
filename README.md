@@ -2,11 +2,17 @@
 A list of awesome softwares.
 
 - [awesome-software](#awesome-software)
-- [windwos](#windwos)
+- [tools](#tools)
+- [包管理器](#包管理器)
+- [下载器](#下载器)
+- [音乐](#音乐)
+- [动漫](#动漫)
+- [markdown](#markdown)
+- [编辑器](#编辑器)
+- [终端](#终端)
 - [Git GUI](#git-gui)
-- [Music](#music)
 
-# windwos
+# tools
 
 - [PixPin](https://pixpin.cn/) - 截图工具
 - [Snipaste](https://www.snipaste.com/) - 截图工具
@@ -20,7 +26,38 @@ A list of awesome softwares.
 - [RedDot](https://github.com/Autumn-one/RedDot) - ![stars](https://img.shields.io/github/stars/Autumn-one/RedDot)
   > 光标处显示中英文状态
 
+# 包管理器
+
+- 
+
+# 下载器
+
+- [Motrix](https://motrix.app/, https://github.com/agalwood/Motrix) - [Github](https://github.com/agalwood/Motrix) - ![stars](https://img.shields.io/github/stars/agalwood/Motrix)
+- [Gopeed](https://gopeed.com/zh-CN) - [Github](https://github.com/GopeedLab/gopeed) - ![stars](https://img.shields.io/github/stars/GopeedLab/gopeed)
+- [ab-download-manager](https://abdownloadmanager.com/) - [github](https://github.com/amir1376/ab-download-manager) - ![stars](https://img.shields.io/github/stars/amir1376/ab-download-manager) - ![release](https://img.shields.io/github/v/release/amir1376/ab-download-manager
+)
+
+- m3u8
+
+
+# 音乐
+
+- 
+
+# 动漫
+
+- 
+
+# markdown
+
+# 编辑器
+
+# 终端
+
+tabby
+warp
+
 # Git GUI
+
 - [sourcegit](https://github.com/sourcegit-scm/sourcegit) - ![stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit)
 
-# Music
