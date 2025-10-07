@@ -11,12 +11,16 @@ A list of awesome softwares.
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
 - [Music](#music)
+- [网站](#网站)
 
 # tools
 
 - [PixPin](https://pixpin.cn/) - 截图工具
 - [Snipaste](https://www.snipaste.com/) - 截图工具
 - [7zip](https://www.7-zip.org/) - 解压软件
+- [Listary](https://www.listary.com/) - 搜索文件, 快速跳转
+- [Bandizip](https://www.bandisoft.com/bandizip/) - 自动解压
+- [Potplayer](https://potplayer.daum.net/) - 视频播放器
 - [memreduct](https://github.com/henrypp/memreduct) - ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct)
   > 内存监视和清理工具.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor)
@@ -27,6 +31,8 @@ A list of awesome softwares.
   > 光标处显示中英文状态
 - [Tai](https://github.com/Planshit/Tai) - ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
+- [Ditto](https://github.com/sabrogden/Ditto) - ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto)
+- 
 
 # 包管理器
 
@@ -73,3 +79,11 @@ A list of awesome softwares.
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop)
 - [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
+- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/algerkong/AlgerMusicPlayer)
+- [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop)
+
+# 网站
+
+- [果核剥壳](https://www.ghxi.com/)
+- [大眼仔旭 ](https://www.dayanzai.me/)
+- 
