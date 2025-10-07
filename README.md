@@ -5,10 +5,12 @@ A list of awesome softwares.
 - [tools](#tools)
 - [包管理器](#包管理器)
 - [下载器](#下载器)
+- [m3u8](#m3u8)
 - [编辑器](#编辑器)
 - [markdown](#markdown)
-- [终端](#终端)
+- [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
+- [Music](#music)
 
 # tools
 
@@ -23,6 +25,8 @@ A list of awesome softwares.
   > 输入法状态管理工具
 - [RedDot](https://github.com/Autumn-one/RedDot) - ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot)
   > 光标处显示中英文状态
+- [Tai](https://github.com/Planshit/Tai) - ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
 
 # 包管理器
 
@@ -37,6 +41,12 @@ A list of awesome softwares.
 - [gopeed](https://github.com/GopeedLab/gopeed) - ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GopeedLab/gopeed)
 - [ab-download-manager](https://github.com/amir1376/ab-download-manager) - ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/amir1376/ab-download-manager)
 
+# m3u8
+
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-CLI)
+- [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-RE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-RE)
+- [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhiyiYo/Fluent-M3U8)
+
 # 编辑器
 
 - [VSCode](https://github.com/microsoft/vscode) - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode)
@@ -47,13 +57,19 @@ A list of awesome softwares.
 - [NoteGen](https://github.com/codexu/note-gen) - ![GitHub Repo stars](https://img.shields.io/github/stars/codexu/note-gen?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codexu/note-gen)
 - [MarkText](https://github.com/marktext/marktext) - ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marktext/marktext)
 
-# 终端
+# terminal/ssh
 
 - [tabby](https://github.com/Eugeny/tabby) - ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Eugeny/tabby)
 - [cmder](https://github.com/cmderdev/cmder) - ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder)
+- [WindTerm](https://github.com/kingToolbox/WindTerm) - ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
+- 
 
 
 # Git GUI
 
 - [sourcegit](https://github.com/sourcegit-scm/sourcegit) - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sourcegit-scm/sourcegit)
 
+# Music
+
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop)
+- [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
