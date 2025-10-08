@@ -18,25 +18,21 @@ A list of awesome softwares.
 
 # tools
 
-- [PixPin](https://pixpin.cn/) - 截图工具
-- [Snipaste](https://www.snipaste.com/) - 截图工具
-- [7zip](https://www.7-zip.org/) - 解压软件
-- [Listary](https://www.listary.com/) - 搜索文件, 快速跳转
-- [Bandizip](https://www.bandisoft.com/bandizip/) - 自动解压
-- [Potplayer](https://potplayer.daum.net/) - 视频播放器
-- [memreduct](https://github.com/henrypp/memreduct) - ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct)
-  > 内存监视和清理工具.
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor)
-  > 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率
-- [InputTip](https://github.com/abgox/InputTip) - ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip)
-  > 输入法状态管理工具
-- [RedDot](https://github.com/Autumn-one/RedDot) - ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot)
-  > 光标处显示中英文状态
-- [Tai](https://github.com/Planshit/Tai) - ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
-- [Ditto](https://github.com/sabrogden/Ditto) - ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto)
-- [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray)
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB)
+- [PixPin](https://pixpin.cn/) : 截图工具
+- [Snipaste](https://www.snipaste.com/) : 截图工具
+- [7zip](https://www.7-zip.org/) : 解压软件
+- [Listary](https://www.listary.com/) : 搜索文件, 快速跳转
+- [Bandizip](https://www.bandisoft.com/bandizip/) : 自动解压
+- [Potplayer](https://potplayer.daum.net/) : 视频播放器
+- [memreduct](https://github.com/henrypp/memreduct) : 内存监视和清理工具 - ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor)
+- [InputTip](https://github.com/abgox/InputTip) : 输入法状态管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip)
+- [RedDot](https://github.com/Autumn-one/RedDot) : 光标处显示中英文状态 ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot)
+- [Tai](https://github.com/Planshit/Tai) : 软件使用时长统计 ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) : 离线OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
+- [Ditto](https://github.com/sabrogden/Ditto) : windows剪切板增强 ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto)
+- [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray)
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB)
 - 
 
 # 包管理器
