@@ -14,8 +14,9 @@ A list of awesome softwares.
 - [视频](#视频)
   - [视频下载(m3u8)](#视频下载m3u8)
   - [视频播放](#视频播放)
+  - [直播](#直播)
   - [动漫](#动漫)
-  - [在线视频](#在线视频)
+  - [B站](#b站)
 - [音乐](#音乐)
 - [图片处理](#图片处理)
 - [网站](#网站)
@@ -47,6 +48,9 @@ A list of awesome softwares.
 - [Sublime Text](https://www.sublimetext.com/)
 - [VSCode](https://github.com/microsoft/vscode) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/notepad-plus-plus/notepad-plus-plus)
+- [NotepadNext](https://github.com/dail8859/NotepadNext) : Notepad++ 的跨平台重新实现 ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext)
+- [Notepad3](https://github.com/rizonesoft/Notepad3) ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3)
+- [notepad4](https://github.com/zufuliu/notepad4) ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4)
 
 # markdown
 
@@ -63,7 +67,6 @@ A list of awesome softwares.
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
 - 
-
 
 # Git GUI
 
@@ -119,15 +122,19 @@ A list of awesome softwares.
 - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) : 通用音频和视频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Aleksoid1978/MPC-BE)
 - [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) : 全功能弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay)
 
+## 直播
+
+- [obs-studio](https://github.com/obsproject/obs-studio) : 视频录制以及直播串流软件 ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio)
+- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) : 简简单单的看直播
+![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Drunk-Dream/dart_simple_live_for_scoop)
+
 ## 动漫
 
 - [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko)
 - 
 
+## B站
 
-## 在线视频
-
-- [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat)
 - [BBLL](https://github.com/xiaye13579/BBLL) ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL)
 - 
 
