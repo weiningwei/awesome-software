@@ -140,12 +140,15 @@ A list of awesome softwares.
 
 # 音乐
 
-- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop)
-- [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
-- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/algerkong/AlgerMusicPlayer)
-- [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop)
-- [listen1_desktop](https://github.com/listen1/listen1_desktop) ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/listen1/listen1_desktop)
-- [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) : 播放常见音频格式的音频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/MusicPlayer2)
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : LX Music 桌面版
+![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop)
+- [spotube](https://github.com/KRTirtho/spotube) : 开源音乐客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KRTirtho/spotube)
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) : 高颜值的第三方网易云播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/qier222/YesPlayMusic?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qier222/YesPlayMusic)
+- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) : 第三方音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/algerkong/AlgerMusicPlayer)
+- [listen1_desktop](https://github.com/listen1/listen1_desktop) : Listen 1 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/listen1/listen1_desktop)
+- [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) : 常见音频格式的音频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/MusicPlayer2)
+- [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) : 插件化、定制化、无广告的免费音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop)
+- [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) : 音乐播放器模仿酷狗 ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
 
 
 
