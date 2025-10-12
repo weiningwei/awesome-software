@@ -20,6 +20,7 @@ A list of awesome softwares.
   - [B站](#b站)
 - [音乐](#音乐)
 - [图片处理](#图片处理)
+- [PDF](#pdf)
 - [网站](#网站)
 
 # tools
@@ -164,7 +165,6 @@ A list of awesome softwares.
 - [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) : 音乐播放器模仿酷狗 ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
 
 
-
 # 图片处理
 
 - [upscayl](https://github.com/upscayl/upscayl) : 放大和增强低分辨率图像 ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/upscayl/upscayl)
@@ -172,6 +172,15 @@ A list of awesome softwares.
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) : 轻量级的AI证件照制作工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos)
 - [LiYing](https://github.com/aoguai/LiYing) : 完成一般照相馆后期证件照处理流程的照片自动处理的工具 ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing)
 
+# PDF
+
+- [pdf24](https://www.pdf24.org/zh/)
+- [pdfgear](https://www.pdfgear.com/zh/)
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) : 轻量PDF阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sumatrapdfreader/sumatrapdf)
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader) : 跨平台的电子书阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/koodo-reader/koodo-reader)
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) :  PDF编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF)
+- [PDFPatcher](https://github.com/wmjordan/PDFPatcher) : PDF工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/wmjordan/PDFPatcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wmjordan/PDFPatcher)
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger) : 合并或拆分PDF文档并旋转、裁剪和重新排列PDF ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger)
 
 # 网站
 
