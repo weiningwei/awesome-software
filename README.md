@@ -4,6 +4,7 @@ A list of awesome softwares.
 - [awesome-software](#awesome-software)
 - [tools](#tools)
 - [编辑器](#编辑器)
+- [字体](#字体)
 - [markdown](#markdown)
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
@@ -51,6 +52,18 @@ A list of awesome softwares.
 - [NotepadNext](https://github.com/dail8859/NotepadNext) : Notepad++ 的跨平台重新实现 ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext)
 - [Notepad3](https://github.com/rizonesoft/Notepad3) ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3)
 - [notepad4](https://github.com/zufuliu/notepad4) ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4)
+
+# 字体
+
+- [FiraCode](https://github.com/tonsky/FiraCode) ![GitHub Repo stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tonsky/FiraCode)
+- [maple-font](https://github.com/subframe7536/maple-font) ![GitHub Repo stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/subframe7536/maple-font)
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) :  JetBrains 官方字体 ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/JetBrains/JetBrainsMono)
+- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) : JetBrainsMono + Maple Mono 合成字体 ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceTimee/Fusion-JetBrainsMapleMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SpaceTimee/Fusion-JetBrainsMapleMono)
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) : 霞鹜文楷字体 ![GitHub Repo stars](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lxgw/LxgwWenKai)
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) : Adobe 的源代码字体 ![GitHub Repo stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/adobe-fonts/source-code-pro)
+- [monaspace](https://github.com/githubnext/monaspace) ![GitHub Repo stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/githubnext/monaspace)
+- [free-font](https://github.com/wordshub/free-font) : 免费可商用字体 ![GitHub Repo stars](https://img.shields.io/github/stars/wordshub/free-font?style=flat)
+- 
 
 # markdown
 
