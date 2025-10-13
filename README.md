@@ -9,7 +9,11 @@ A list of awesome softwares.
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
 - [GPT](#gpt)
-- [windows包管理器](#windows包管理器)
+- [windows](#windows)
+  - [卸载工具](#卸载工具)
+  - [清理工具](#清理工具)
+- [启动工具](#启动工具)
+  - [包管理器](#包管理器)
 - [翻译](#翻译)
 - [下载器](#下载器)
 - [视频](#视频)
@@ -42,7 +46,6 @@ A list of awesome softwares.
 - [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend)
 - [deskflow](https://github.com/deskflow/deskflow) : 局域网共享鼠标和键盘 ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow)
 - [AltSnap](https://github.com/RamonUnch/AltSnap) : 通过Alt键移动窗口 ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap)
-- 
 
 
 # 编辑器
@@ -64,7 +67,6 @@ A list of awesome softwares.
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) : Adobe 的源代码字体 ![GitHub Repo stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/adobe-fonts/source-code-pro)
 - [monaspace](https://github.com/githubnext/monaspace) ![GitHub Repo stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/githubnext/monaspace)
 - [free-font](https://github.com/wordshub/free-font) : 免费可商用字体 ![GitHub Repo stars](https://img.shields.io/github/stars/wordshub/free-font?style=flat)
-- 
 
 # markdown
 
@@ -80,7 +82,6 @@ A list of awesome softwares.
 - [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
-- 
 
 # Git GUI
 
@@ -90,14 +91,33 @@ A list of awesome softwares.
 - [gitui](https://github.com/gitui-org/gitui) ![GitHub Repo stars](https://img.shields.io/github/stars/gitui-org/gitui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitui-org/gitui)
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
-- 
 
 # GPT
 
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CherryHQ/cherry-studio)
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChatGPTNextWeb/NextChat)
 
-# windows包管理器
+# windows
+
+- [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer)
+
+## 卸载工具
+
+- [geek](https://geekuninstaller.com/)
+- [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : 支持批量卸载应用程序 ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Klocman/Bulk-Crap-Uninstaller)
+
+## 清理工具
+
+- [czkawka](https://github.com/qarmin/czkawka) : 多功能文件清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qarmin/czkawka)
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language)
+- [bleachbit](https://github.com/bleachbit/bleachbit) : 文件清理 ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit)
+
+# 启动工具
+
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 快速文件搜索和应用启动工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher)
+- [GeekDesk](https://github.com/BookerLiu/GeekDesk) : 桌面快速启动工 ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk)
+
+## 包管理器
 
 - [Chocolatey](https://github.com/chocolatey/choco) ![GitHub Repo stars](https://img.shields.io/github/stars/chocolatey/choco?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chocolatey/choco)
 - [Scoop](https://github.com/ScoopInstaller/Scoop) ![GitHub Repo stars](https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ScoopInstaller/Scoop)
@@ -145,12 +165,10 @@ A list of awesome softwares.
 ## 动漫
 
 - [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko)
-- 
 
 ## B站
 
 - [BBLL](https://github.com/xiaye13579/BBLL) ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL)
-- 
 
 # 音乐
 
@@ -186,4 +204,3 @@ A list of awesome softwares.
 
 - [果核剥壳](https://www.ghxi.com/)
 - [大眼仔旭](https://www.dayanzai.me/)
-- 
