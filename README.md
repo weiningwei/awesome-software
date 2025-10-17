@@ -8,6 +8,7 @@ A list of awesome softwares.
 - [markdown](#markdown)
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
+- [API 测试](#api-测试)
 - [GPT](#gpt)
 - [windows](#windows)
   - [卸载工具](#卸载工具)
@@ -92,6 +93,11 @@ A list of awesome softwares.
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
 
+# API 测试
+
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
+- [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
+
 # GPT
 
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CherryHQ/cherry-studio)
@@ -147,6 +153,9 @@ A list of awesome softwares.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/yt-dlp/yt-dlp)
 - [lux](https://github.com/iawia002/lux) ![GitHub Repo stars](https://img.shields.io/github/stars/iawia002/lux?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/iawia002/lux)
 - [media-downloader](https://github.com/mhogomchungu/media-downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/mhogomchungu/media-downloader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mhogomchungu/media-downloader)
+- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) : 跨平台[`yt-dlp`](https://github.com/yt-dlp/yt-dlp)的GUI ![GitHub Repo stars](https://img.shields.io/github/stars/dsymbol/yt-dlp-gui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dsymbol/yt-dlp-gui)
+- [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) : 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf)
+- [Vividl](https://github.com/Bluegrams/Vividl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl)
 
 ## 视频播放
 
@@ -161,6 +170,8 @@ A list of awesome softwares.
 - [obs-studio](https://github.com/obsproject/obs-studio) : 视频录制以及直播串流软件 ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio)
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) : 简简单单的看直播
 ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Drunk-Dream/dart_simple_live_for_scoop)
+- [dtv](https://github.com/chen-zeong/dtv) : 跨平台直播桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv)
+- [pure_live](https://github.com/liuchuancong/pure_live) : 纯粹直播 ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live)
 
 ## 动漫
 
