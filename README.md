@@ -9,11 +9,15 @@ A list of awesome softwares.
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
 - [API 测试](#api-测试)
+- [github 加速](#github-加速)
 - [GPT](#gpt)
 - [windows](#windows)
+  - [系统下载](#系统下载)
+  - [激活软件](#激活软件)
+  - [优化工具](#优化工具)
   - [卸载工具](#卸载工具)
   - [清理工具](#清理工具)
-- [启动工具](#启动工具)
+  - [启动/搜索工具](#启动搜索工具)
   - [包管理器](#包管理器)
 - [翻译](#翻译)
 - [下载器](#下载器)
@@ -32,6 +36,7 @@ A list of awesome softwares.
 
 - [PixPin](https://pixpin.cn/) : 截图工具
 - [Snipaste](https://www.snipaste.com/) : 截图工具
+- [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch)
 - [7zip](https://www.7-zip.org/) : 解压软件
 - [Listary](https://www.listary.com/) : 搜索文件, 快速跳转
 - [Bandizip](https://www.bandisoft.com/bandizip/) : 自动解压
@@ -45,14 +50,20 @@ A list of awesome softwares.
 - [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB)
 - [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend)
+- [LANDrop](https://github.com/LANDrop/LANDrop) : 跨平台局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat)
 - [deskflow](https://github.com/deskflow/deskflow) : 局域网共享鼠标和键盘 ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow)
 - [AltSnap](https://github.com/RamonUnch/AltSnap) : 通过Alt键移动窗口 ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap)
+- [Lively Wallpaper
+](https://github.com/rocksdanister/lively) : 动态壁纸工具 ![GitHub Repo stars](https://img.shields.io/github/stars/rocksdanister/lively?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rocksdanister/lively)
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
+- 
 
 
 # 编辑器
 
 - [Sublime Text](https://www.sublimetext.com/)
 - [VSCode](https://github.com/microsoft/vscode) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode)
+- [zed](https://github.com/zed-industries/zed) ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zed-industries/zed)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/notepad-plus-plus/notepad-plus-plus)
 - [NotepadNext](https://github.com/dail8859/NotepadNext) : Notepad++ 的跨平台重新实现 ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext)
 - [Notepad3](https://github.com/rizonesoft/Notepad3) ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3)
@@ -78,6 +89,7 @@ A list of awesome softwares.
 
 # terminal/ssh
 
+- [terminal](https://github.com/microsoft/terminal) : Windows Terminal ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/terminal?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/terminal)
 - [tabby](https://github.com/Eugeny/tabby) ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Eugeny/tabby)
 - [cmder](https://github.com/cmderdev/cmder) ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder)
 - [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
@@ -98,12 +110,35 @@ A list of awesome softwares.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
 - [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
 
+# github 加速
+
+- [Xget](https://github.com/xixu-me/Xget) : 资源加速引擎 ![GitHub Repo stars](https://img.shields.io/github/stars/xixu-me/Xget?style=flat)
+- [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) : 同步github的hosts工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/fetch-github-hosts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Licoy/fetch-github-hosts)
+
 # GPT
 
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CherryHQ/cherry-studio)
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChatGPTNextWeb/NextChat)
+- [chatbox](https://github.com/chatboxai/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chatboxai/chatbox)
+- [Everywhere](https://github.com/DearVa/Everywhere) : 交互式 AI 助手 ![GitHub Repo stars](https://img.shields.io/github/stars/DearVa/Everywhere?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DearVa/Everywhere)
 
 # windows
+
+## 系统下载
+
+- [HelloWindows](https://hellowindows.cn/)
+- [itellyou](https://next.itellyou.cn/)
+- [又要重装系统](https://yyczxt.com/)
+
+## 激活软件
+
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/massgravel/Microsoft-Activation-Scripts)
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator)
+- [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TGSAN/CMWTAT_Digital_Edition)
+- [DragonKMS](http://www.yishimei.cn/network/319.html)
+- 
+
+## 优化工具
 
 - [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer)
 
@@ -118,9 +153,10 @@ A list of awesome softwares.
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language)
 - [bleachbit](https://github.com/bleachbit/bleachbit) : 文件清理 ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit)
 
-# 启动工具
+## 启动/搜索工具
 
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 快速文件搜索和应用启动工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher)
+- [rubick](https://github.com/rubickCenter/rubick) : 效率工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick)
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk) : 桌面快速启动工 ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk)
 
 ## 包管理器
@@ -164,6 +200,7 @@ A list of awesome softwares.
 - [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) : mpv的二进制构建 ![GitHub Repo stars](https://img.shields.io/github/stars/shinchiro/mpv-winbuild-cmake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/shinchiro/mpv-winbuild-cmake)
 - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) : 通用音频和视频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Aleksoid1978/MPC-BE)
 - [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) : 全功能弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay)
+- [弹弹play](https://github.com/kaedei/dandanplay) : 全功能本地视频+弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/kaedei/dandanplay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kaedei/dandanplay)
 
 ## 直播
 
@@ -210,6 +247,7 @@ A list of awesome softwares.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) :  PDF编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF)
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) : PDF工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/wmjordan/PDFPatcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wmjordan/PDFPatcher)
 - [pdfarranger](https://github.com/pdfarranger/pdfarranger) : 合并或拆分PDF文档并旋转、裁剪和重新排列PDF ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger)
+- [okular](https://github.com/KDE/okular) ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/okular?style=flat)
 
 # 网站
 
