@@ -9,6 +9,7 @@ A list of awesome softwares.
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
 - [API 测试](#api-测试)
+- [数据库](#数据库)
 - [github 加速](#github-加速)
 - [GPT](#gpt)
 - [windows](#windows)
@@ -93,8 +94,10 @@ A list of awesome softwares.
 - [tabby](https://github.com/Eugeny/tabby) ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Eugeny/tabby)
 - [cmder](https://github.com/cmderdev/cmder) ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder)
 - [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
+- [electerm](https://github.com/electerm/electerm) ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/electerm/electerm)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
+- [shell360](https://github.com/nashaofu/shell360) ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360)
 
 # Git GUI
 
@@ -109,6 +112,12 @@ A list of awesome softwares.
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
 - [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
+
+# 数据库
+
+- [dbeaver](https://github.com/dbeaver/dbeaver) : 免费的通用数据库工具和 `SQL` 客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbeaver/dbeaver)
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio)
+- [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) :  `SQLite` 数据库管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio)
 
 # github 加速
 
