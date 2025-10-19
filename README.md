@@ -8,28 +8,28 @@ A list of awesome softwares.
 - [markdown](#markdown)
 - [terminal/ssh](#terminalssh)
 - [Git GUI](#git-gui)
-- [API 测试](#api-测试)
+- [API测试](#api测试)
 - [数据库](#数据库)
 - [github 加速](#github-加速)
 - [GPT](#gpt)
-- [windows](#windows)
-  - [系统下载](#系统下载)
-  - [激活软件](#激活软件)
-  - [优化工具](#优化工具)
-  - [卸载工具](#卸载工具)
-  - [清理工具](#清理工具)
-  - [启动/搜索工具](#启动搜索工具)
+- [Windows](#windows)
+  - [下载](#下载)
+  - [激活](#激活)
+  - [优化](#优化)
+  - [卸载](#卸载)
+  - [清理](#清理)
+  - [启动/搜索](#启动搜索)
   - [包管理器](#包管理器)
 - [翻译](#翻译)
 - [下载器](#下载器)
 - [视频](#视频)
-  - [视频下载(m3u8)](#视频下载m3u8)
-  - [视频播放](#视频播放)
+  - [下载(m3u8)](#下载m3u8)
+  - [播放](#播放)
   - [直播](#直播)
   - [动漫](#动漫)
   - [B站](#b站)
 - [音乐](#音乐)
-- [图片处理](#图片处理)
+- [图片](#图片)
 - [PDF](#pdf)
 - [网站](#网站)
 
@@ -108,7 +108,7 @@ A list of awesome softwares.
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
 
-# API 测试
+# API测试
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
 - [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
@@ -131,15 +131,16 @@ A list of awesome softwares.
 - [chatbox](https://github.com/chatboxai/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chatboxai/chatbox)
 - [Everywhere](https://github.com/DearVa/Everywhere) : 交互式 AI 助手 ![GitHub Repo stars](https://img.shields.io/github/stars/DearVa/Everywhere?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DearVa/Everywhere)
 
-# windows
+# Windows
 
-## 系统下载
+## 下载
 
 - [HelloWindows](https://hellowindows.cn/)
 - [itellyou](https://next.itellyou.cn/)
+- [系统库](https://www.xitongku.com/)
 - [又要重装系统](https://yyczxt.com/)
 
-## 激活软件
+## 激活
 
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/massgravel/Microsoft-Activation-Scripts)
 - [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator)
@@ -147,22 +148,22 @@ A list of awesome softwares.
 - [DragonKMS](http://www.yishimei.cn/network/319.html)
 - 
 
-## 优化工具
+## 优化
 
 - [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer)
 
-## 卸载工具
+## 卸载
 
 - [geek](https://geekuninstaller.com/)
 - [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : 支持批量卸载应用程序 ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Klocman/Bulk-Crap-Uninstaller)
 
-## 清理工具
+## 清理
 
 - [czkawka](https://github.com/qarmin/czkawka) : 多功能文件清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qarmin/czkawka)
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language)
 - [bleachbit](https://github.com/bleachbit/bleachbit) : 文件清理 ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit)
 
-## 启动/搜索工具
+## 启动/搜索
 
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 快速文件搜索和应用启动工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher)
 - [rubick](https://github.com/rubickCenter/rubick) : 效率工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick)
@@ -189,7 +190,7 @@ A list of awesome softwares.
 
 # 视频
 
-## 视频下载(m3u8)
+## 下载(m3u8)
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-CLI)
 - [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-RE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-RE)
@@ -202,7 +203,7 @@ A list of awesome softwares.
 - [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) : 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf)
 - [Vividl](https://github.com/Bluegrams/Vividl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl)
 
-## 视频播放
+## 播放
 
 - [Potplayer](https://potplayer.daum.net/) : 视频播放器
 - [mpv](https://github.com/mpv-player/mpv) : 命令行媒体播放器  ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mpv-player/mpv)
@@ -239,8 +240,7 @@ A list of awesome softwares.
 - [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) : 插件化、定制化、无广告的免费音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop)
 - [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) : 音乐播放器模仿酷狗 ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
 
-
-# 图片处理
+# 图片
 
 - [upscayl](https://github.com/upscayl/upscayl) : 放大和增强低分辨率图像 ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/upscayl/upscayl)
 - [Final2x](https://github.com/EutropicAI/Final2x) : 图像超分辨率工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x)
