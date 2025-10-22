@@ -3,6 +3,7 @@ A list of awesome apps.
 - [软件商店](#软件商店)
 - [去广告](#去广告)
 - [动漫/影视](#动漫影视)
+- [B站](#b站)
 - [阅读](#阅读)
 
 # 软件商店
@@ -21,6 +22,11 @@ A list of awesome apps.
 
 - [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) : 纯纯看番 ![GitHub Repo stars](https://img.shields.io/github/stars/easybangumiorg/EasyBangumi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/easybangumiorg/EasyBangumi)
 - [AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) : Afusekt 移动端 ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/AttemptD/AfuseKt-release)
+
+# B站
+
+- [BBLL](https://github.com/xiaye13579/BBLL) : 第三方哔哩哔哩客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL)
+- [bilibilias](https://github.com/1250422131/bilibilias) : 哔哩哔哩解析工具 ![GitHub Repo stars](https://img.shields.io/github/stars/1250422131/bilibilias?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/1250422131/bilibilias)
 
 # 阅读
 

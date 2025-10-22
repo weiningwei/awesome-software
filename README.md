@@ -10,6 +10,7 @@ A list of awesome softwares.
 - [Git GUI](#git-gui)
 - [API测试](#api测试)
 - [数据库](#数据库)
+- [代码对比](#代码对比)
 - [github 加速](#github-加速)
 - [GPT](#gpt)
 - [Windows](#windows)
@@ -27,9 +28,11 @@ A list of awesome softwares.
   - [播放](#播放)
   - [直播](#直播)
   - [动漫](#动漫)
+  - [转码](#转码)
   - [B站](#b站)
 - [音乐](#音乐)
 - [图片](#图片)
+- [音频](#音频)
 - [PDF](#pdf)
 - [网站](#网站)
 
@@ -38,6 +41,8 @@ A list of awesome softwares.
 - [PixPin](https://pixpin.cn/) : 截图工具
 - [Snipaste](https://www.snipaste.com/) : 截图工具
 - [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch)
+- [ShareX](https://github.com/ShareX/ShareX) : 截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX)
+- [pear-rec](https://github.com/027xiguapi/pear-rec) ： 截屏、录屏和录音软件 ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec)
 - [7zip](https://www.7-zip.org/) : 解压软件
 - [Listary](https://www.listary.com/) : 搜索文件, 快速跳转
 - [Bandizip](https://www.bandisoft.com/bandizip/) : 自动解压
@@ -54,10 +59,10 @@ A list of awesome softwares.
 - [LANDrop](https://github.com/LANDrop/LANDrop) : 跨平台局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat)
 - [deskflow](https://github.com/deskflow/deskflow) : 局域网共享鼠标和键盘 ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow)
 - [AltSnap](https://github.com/RamonUnch/AltSnap) : 通过Alt键移动窗口 ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap)
-- [Lively Wallpaper
-](https://github.com/rocksdanister/lively) : 动态壁纸工具 ![GitHub Repo stars](https://img.shields.io/github/stars/rocksdanister/lively?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rocksdanister/lively)
+- [Lively Wallpaper](https://github.com/rocksdanister/lively) : 动态壁纸工具 ![GitHub Repo stars](https://img.shields.io/github/stars/rocksdanister/lively?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rocksdanister/lively)
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ![GitHub Repo stars](https://img.shields.io/github/stars/t1m0thyj/WinDynamicDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/t1m0thyj/WinDynamicDesktop)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
-- 
+- [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit)
 
 
 # 编辑器
@@ -87,6 +92,7 @@ A list of awesome softwares.
 - [NoteGen](https://github.com/codexu/note-gen) : 跨平台的 `Markdown AI` 笔记软件 ![GitHub Repo stars](https://img.shields.io/github/stars/codexu/note-gen?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codexu/note-gen)
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) : 一个 `Markdown` 编辑器，但是更轻快、更智能、更纯粹 ![GitHub Repo stars](https://img.shields.io/github/stars/drl990114/MarkFlowy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/drl990114/MarkFlowy)
 - [MarkText](https://github.com/marktext/marktext) : 一个简单而优雅的 `Markdown` 编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marktext/marktext)
+- [joplin](https://github.com/laurent22/joplin) ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/laurent22/joplin)
 
 # terminal/ssh
 
@@ -95,6 +101,7 @@ A list of awesome softwares.
 - [cmder](https://github.com/cmderdev/cmder) ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder)
 - [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
 - [electerm](https://github.com/electerm/electerm) ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/electerm/electerm)
+- [waveterm](https://github.com/wavetermdev/waveterm) ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wavetermdev/waveterm)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
 - [shell360](https://github.com/nashaofu/shell360) ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360)
@@ -107,6 +114,7 @@ A list of awesome softwares.
 - [gitui](https://github.com/gitui-org/gitui) ![GitHub Repo stars](https://img.shields.io/github/stars/gitui-org/gitui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitui-org/gitui)
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
+- [serie](https://github.com/lusingander/serie) ![GitHub Repo stars](https://img.shields.io/github/stars/lusingander/serie?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lusingander/serie)
 
 # API测试
 
@@ -118,6 +126,11 @@ A list of awesome softwares.
 - [dbeaver](https://github.com/dbeaver/dbeaver) : 免费的通用数据库工具和 `SQL` 客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbeaver/dbeaver)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio)
 - [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) :  `SQLite` 数据库管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio)
+
+# 代码对比
+
+- [meld](https://meldmerge.org/)
+- 
 
 # github 加速
 
@@ -202,6 +215,7 @@ A list of awesome softwares.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) : 跨平台[`yt-dlp`](https://github.com/yt-dlp/yt-dlp)的GUI ![GitHub Repo stars](https://img.shields.io/github/stars/dsymbol/yt-dlp-gui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dsymbol/yt-dlp-gui)
 - [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) : 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf)
 - [Vividl](https://github.com/Bluegrams/Vividl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl)
+- [YTSage](https://github.com/oop7/YTSage) : YouTube下载器 ![GitHub Repo stars](https://img.shields.io/github/stars/oop7/YTSage?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/oop7/YTSage)
 
 ## 播放
 
@@ -224,9 +238,18 @@ A list of awesome softwares.
 
 - [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko)
 
+## 转码
+
+- [HandBrake](https://github.com/HandBrake/HandBrake) : 跨平台视频转码软件 ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake)
+
 ## B站
 
-- [BBLL](https://github.com/xiaye13579/BBLL) ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL)
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) : 哔哩哔哩-API收集整理 ![GitHub Repo stars](https://img.shields.io/github/stars/SocialSisterYi/bilibili-API-collect?style=flat)
+- [downkyi](https://github.com/leiurayer/downkyi) : 哔哩下载姬downkyi ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/leiurayer/downkyi)
+- [wiliwili](https://github.com/xfangfang/wiliwili) : 全平台第三方B站客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili)
+- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) : B站第三方 Windows 桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot)
+- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) : PotPlayer 哔哩哔哩插件 ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
+- 
 
 # 音乐
 
@@ -247,6 +270,12 @@ A list of awesome softwares.
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) : 轻量级的AI证件照制作工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos)
 - [LiYing](https://github.com/aoguai/LiYing) : 完成一般照相馆后期证件照处理流程的照片自动处理的工具 ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing)
 
+# 音频
+
+- [buzz](https://github.com/chidiwilliams/buzz) : 离线转录和翻译音频 ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz)
+- [Whisper](https://github.com/Const-me/Whisper) : 语音识别工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper)
+- 
+
 # PDF
 
 - [pdf24](https://www.pdf24.org/zh/)
@@ -257,6 +286,7 @@ A list of awesome softwares.
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) : PDF工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/wmjordan/PDFPatcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wmjordan/PDFPatcher)
 - [pdfarranger](https://github.com/pdfarranger/pdfarranger) : 合并或拆分PDF文档并旋转、裁剪和重新排列PDF ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger)
 - [okular](https://github.com/KDE/okular) ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/okular?style=flat)
+- [FileConverter](https://github.com/Tichau/FileConverter) : 文件转换工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Tichau/FileConverter)
 
 # 网站
 
