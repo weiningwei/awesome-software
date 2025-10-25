@@ -15,6 +15,7 @@ A list of awesome softwares.
 - [GPT](#gpt)
 - [Windows](#windows)
   - [下载](#下载)
+  - [烧录](#烧录)
   - [激活](#激活)
   - [优化](#优化)
   - [卸载](#卸载)
@@ -152,6 +153,12 @@ A list of awesome softwares.
 - [itellyou](https://next.itellyou.cn/)
 - [系统库](https://www.xitongku.com/)
 - [又要重装系统](https://yyczxt.com/)
+
+## 烧录
+
+- [Ventoy](https://github.com/ventoy/Ventoy) : 启动盘制作，无需格式化 ![GitHub Repo stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ventoy/Ventoy)
+- [rufus](https://github.com/pbatard/rufus) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/pbatard/rufus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pbatard/rufus)
+- [etcher](https://github.com/balena-io/etcher) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/balena-io/etcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/balena-io/etcher)
 
 ## 激活
 
