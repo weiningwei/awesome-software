@@ -10,7 +10,7 @@ A list of awesome softwares.
 - [Git GUI](#git-gui)
 - [API测试](#api测试)
 - [数据库](#数据库)
-- [代码对比](#代码对比)
+- [对比](#对比)
 - [github 加速](#github-加速)
 - [GPT](#gpt)
 - [Windows](#windows)
@@ -27,9 +27,10 @@ A list of awesome softwares.
 - [视频](#视频)
   - [下载(m3u8)](#下载m3u8)
   - [播放](#播放)
+  - [剪辑](#剪辑)
+  - [转码](#转码)
   - [直播](#直播)
   - [动漫](#动漫)
-  - [转码](#转码)
   - [B站](#b站)
 - [音乐](#音乐)
 - [图片](#图片)
@@ -106,6 +107,7 @@ A list of awesome softwares.
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
 - [shell360](https://github.com/nashaofu/shell360) ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360)
+- [termora](https://github.com/TermoraDev/termora) ![GitHub Repo stars](https://img.shields.io/github/stars/TermoraDev/termora?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TermoraDev/termora)
 
 # Git GUI
 
@@ -121,17 +123,21 @@ A list of awesome softwares.
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
 - [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
+- [insomnia](https://github.com/Kong/insomnia) ![GitHub Repo stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Kong/insomnia)
+- [yaak](https://github.com/mountain-loop/yaak) ![GitHub Repo stars](https://img.shields.io/github/stars/mountain-loop/yaak?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mountain-loop/yaak)
 
 # 数据库
 
 - [dbeaver](https://github.com/dbeaver/dbeaver) : 免费的通用数据库工具和 `SQL` 客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbeaver/dbeaver)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio)
 - [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) :  `SQLite` 数据库管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio)
+- [dbgate](https://github.com/dbgate/dbgate) : 数据库管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/dbgate/dbgate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbgate/dbgate)
 
-# 代码对比
+# 对比
 
 - [meld](https://meldmerge.org/)
-- 
+- [Beyond Compare](https://www.scootersoftware.com/)
+- [winmerge](https://github.com/WinMerge/winmerge) ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/WinMerge/winmerge)
 
 # github 加速
 
@@ -166,11 +172,11 @@ A list of awesome softwares.
 - [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator)
 - [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TGSAN/CMWTAT_Digital_Edition)
 - [DragonKMS](http://www.yishimei.cn/network/319.html)
-- 
 
 ## 优化
 
 - [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer)
+- [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) : 轻便的Windows优化工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ZyperWave/ZyperWinOptimize)
 
 ## 卸载
 
@@ -233,6 +239,15 @@ A list of awesome softwares.
 - [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) : 全功能弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay)
 - [弹弹play](https://github.com/kaedei/dandanplay) : 全功能本地视频+弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/kaedei/dandanplay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kaedei/dandanplay)
 
+## 剪辑
+
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenCut-app/OpenCut)
+- [lossless-cut](https://github.com/mifi/lossless-cut) ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut)
+
+## 转码
+
+- [HandBrake](https://github.com/HandBrake/HandBrake) : 跨平台视频转码软件 ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake)
+
 ## 直播
 
 - [obs-studio](https://github.com/obsproject/obs-studio) : 视频录制以及直播串流软件 ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio)
@@ -244,10 +259,6 @@ A list of awesome softwares.
 ## 动漫
 
 - [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko)
-
-## 转码
-
-- [HandBrake](https://github.com/HandBrake/HandBrake) : 跨平台视频转码软件 ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake)
 
 ## B站
 
