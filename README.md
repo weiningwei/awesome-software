@@ -42,7 +42,7 @@ A list of awesome softwares.
 
 - [PixPin](https://pixpin.cn/) : 截图工具
 - [Snipaste](https://www.snipaste.com/) : 截图工具
-- [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch)
+- [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch) ![GitHub Release Date](https://img.shields.io/github/release-date/xushengfeng/eSearch)
 - [ShareX](https://github.com/ShareX/ShareX) : 截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX)
 - [pear-rec](https://github.com/027xiguapi/pear-rec) ： 截屏、录屏和录音软件 ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec)
 - [7zip](https://www.7-zip.org/) : 解压软件
@@ -55,6 +55,7 @@ A list of awesome softwares.
 - [Tai](https://github.com/Planshit/Tai) : 软件使用时长统计 ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) : 离线OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
 - [Ditto](https://github.com/sabrogden/Ditto) : windows剪切板增强 ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto)
+- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) : 跨平台的剪贴板管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste)
 - [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB)
 - [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend)
@@ -118,6 +119,8 @@ A list of awesome softwares.
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
 - [serie](https://github.com/lusingander/serie) ![GitHub Repo stars](https://img.shields.io/github/stars/lusingander/serie?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lusingander/serie)
+- [Gitnuro](https://github.com/JetpackDuba/Gitnuro) ![GitHub Repo stars](https://img.shields.io/github/stars/JetpackDuba/Gitnuro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/JetpackDuba/Gitnuro) ![GitHub Release Date](https://img.shields.io/github/release-date/JetpackDuba/Gitnuro)
+- [Guitar](https://github.com/soramimi/Guitar) ![GitHub Repo stars](https://img.shields.io/github/stars/soramimi/Guitar?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/soramimi/Guitar) ![GitHub Release Date](https://img.shields.io/github/release-date/soramimi/Guitar)
 
 # API测试
 
@@ -213,12 +216,13 @@ A list of awesome softwares.
 - [Motrix](https://github.com/agalwood/Motrix) ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/agalwood/Motrix)
 - [gopeed](https://github.com/GopeedLab/gopeed) ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GopeedLab/gopeed)
 - [ab-download-manager](https://github.com/amir1376/ab-download-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/amir1376/ab-download-manager)
+- [varia](https://github.com/giantpinkrobots/varia) ![GitHub Repo stars](https://img.shields.io/github/stars/giantpinkrobots/varia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/giantpinkrobots/varia)
 
 # 视频
 
 ## 下载(m3u8)
 
-- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-CLI)
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-CLI) ![GitHub Release Date](https://img.shields.io/github/release-date/nilaoda/N_m3u8DL-CLI)
 - [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-RE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-RE)
 - [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhiyiYo/Fluent-M3U8)
 - [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/HeiSir2014/M3U8-Downloader?style=flat)  ![GitHub Release](https://img.shields.io/github/v/release/HeiSir2014/M3U8-Downloader)
