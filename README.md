@@ -43,104 +43,105 @@ A list of awesome softwares.
 - [PixPin](https://pixpin.cn/) : 截图工具
 - [Snipaste](https://www.snipaste.com/) : 截图工具
 - [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch) ![GitHub Release Date](https://img.shields.io/github/release-date/xushengfeng/eSearch)
-- [ShareX](https://github.com/ShareX/ShareX) : 截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX)
-- [pear-rec](https://github.com/027xiguapi/pear-rec) ： 截屏、录屏和录音软件 ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec)
+- [ShareX](https://github.com/ShareX/ShareX) : 截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX) ![GitHub Release Date](https://img.shields.io/github/release-date/ShareX/ShareX)
+- [pear-rec](https://github.com/027xiguapi/pear-rec) ： 截屏、录屏和录音软件 ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec) ![GitHub Release Date](https://img.shields.io/github/release-date/027xiguapi/pear-rec)
 - [7zip](https://www.7-zip.org/) : 解压软件
 - [Listary](https://www.listary.com/) : 搜索文件, 快速跳转
 - [Bandizip](https://www.bandisoft.com/bandizip/) : 自动解压
-- [memreduct](https://github.com/henrypp/memreduct) : 内存监视和清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct)
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor)
-- [InputTip](https://github.com/abgox/InputTip) : 输入法状态管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip)
-- [RedDot](https://github.com/Autumn-one/RedDot) : 光标处显示中英文状态 ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot)
-- [Tai](https://github.com/Planshit/Tai) : 软件使用时长统计 ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai)
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) : 离线OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR)
-- [Ditto](https://github.com/sabrogden/Ditto) : windows剪切板增强 ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto)
-- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) : 跨平台的剪贴板管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste)
-- [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray)
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB)
-- [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend)
+- [memreduct](https://github.com/henrypp/memreduct) : 内存监视和清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct) ![GitHub Release Date](https://img.shields.io/github/release-date/henrypp/memreduct)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor) ![GitHub Release Date](https://img.shields.io/github/release-date/zhongyang219/TrafficMonitor)
+- [InputTip](https://github.com/abgox/InputTip) : 输入法状态管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip) ![GitHub Release Date](https://img.shields.io/github/release-date/abgox/InputTip)
+- [RedDot](https://github.com/Autumn-one/RedDot) : 光标处显示中英文状态 ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot) ![GitHub Release Date](https://img.shields.io/github/release-date/Autumn-one/RedDot)
+- [Tai](https://github.com/Planshit/Tai) : 软件使用时长统计 ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai) ![GitHub Release Date](https://img.shields.io/github/release-date/Planshit/Tai)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) : 离线OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR) ![GitHub Release Date](https://img.shields.io/github/release-date/hiroi-sora/Umi-OCR)
+- [Ditto](https://github.com/sabrogden/Ditto) : windows剪切板增强 ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto) ![GitHub Release Date](https://img.shields.io/github/release-date/sabrogden/Ditto)
+- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) : 跨平台的剪贴板管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste) ![GitHub Release Date](https://img.shields.io/github/release-date/EcoPasteHub/EcoPaste)
+- [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray) ![GitHub Release Date](https://img.shields.io/github/release-date/xanderfrangos/twinkle-tray)
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB) ![GitHub Release Date](https://img.shields.io/github/release-date/TranslucentTB/TranslucentTB)
+- [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend)
 - [LANDrop](https://github.com/LANDrop/LANDrop) : 跨平台局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat)
-- [deskflow](https://github.com/deskflow/deskflow) : 局域网共享鼠标和键盘 ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow)
-- [AltSnap](https://github.com/RamonUnch/AltSnap) : 通过Alt键移动窗口 ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap)
-- [Lively Wallpaper](https://github.com/rocksdanister/lively) : 动态壁纸工具 ![GitHub Repo stars](https://img.shields.io/github/stars/rocksdanister/lively?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rocksdanister/lively)
-- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ![GitHub Repo stars](https://img.shields.io/github/stars/t1m0thyj/WinDynamicDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/t1m0thyj/WinDynamicDesktop)
+- [deskflow](https://github.com/deskflow/deskflow) : 局域网共享鼠标和键盘 ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow) ![GitHub Release Date](https://img.shields.io/github/release-date/deskflow/deskflow)
+- [AltSnap](https://github.com/RamonUnch/AltSnap) : 通过Alt键移动窗口 ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap) ![GitHub Release Date](https://img.shields.io/github/release-date/RamonUnch/Altsnap)
+- [Lively Wallpaper](https://github.com/rocksdanister/lively) : 动态壁纸工具 ![GitHub Repo stars](https://img.shields.io/github/stars/rocksdanister/lively?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rocksdanister/lively) ![GitHub Release Date](https://img.shields.io/github/release-date/rocksdanister/lively)
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ![GitHub Repo stars](https://img.shields.io/github/stars/t1m0thyj/WinDynamicDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/t1m0thyj/WinDynamicDesktop) ![GitHub Release Date](https://img.shields.io/github/release-date/t1m0thyj/WinDynamicDesktop)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
-- [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit)
-
+- [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit) ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit)
+- [Pake](https://github.com/tw93/Pake) : 网页生成轻量桌面应用 ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake)
 
 # 编辑器
 
 - [Sublime Text](https://www.sublimetext.com/)
 - [VSCode](https://github.com/microsoft/vscode) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode)
-- [zed](https://github.com/zed-industries/zed) ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zed-industries/zed)
-- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/notepad-plus-plus/notepad-plus-plus)
-- [NotepadNext](https://github.com/dail8859/NotepadNext) : Notepad++ 的跨平台重新实现 ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext)
-- [Notepad3](https://github.com/rizonesoft/Notepad3) ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3)
-- [notepad4](https://github.com/zufuliu/notepad4) ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4)
+- [zed](https://github.com/zed-industries/zed) ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zed-industries/zed) ![GitHub Release Date](https://img.shields.io/github/release-date/zed-industries/zed)
+- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/notepad-plus-plus/notepad-plus-plus) ![GitHub Release Date](https://img.shields.io/github/release-date/notepad-plus-plus/notepad-plus-plus)
+- [NotepadNext](https://github.com/dail8859/NotepadNext) : Notepad++ 的跨平台重新实现 ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext) ![GitHub Release Date](https://img.shields.io/github/release-date/dail8859/NotepadNext)
+- [Notepad3](https://github.com/rizonesoft/Notepad3) ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3) ![GitHub Release Date](https://img.shields.io/github/release-date/rizonesoft/Notepad3)
+- [notepad4](https://github.com/zufuliu/notepad4) ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4) ![GitHub Release Date](https://img.shields.io/github/release-date/zufuliu/notepad4)
 
 # 字体
 
-- [FiraCode](https://github.com/tonsky/FiraCode) ![GitHub Repo stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tonsky/FiraCode)
-- [maple-font](https://github.com/subframe7536/maple-font) ![GitHub Repo stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/subframe7536/maple-font)
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) :  JetBrains 官方字体 ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/JetBrains/JetBrainsMono)
-- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) : JetBrainsMono + Maple Mono 合成字体 ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceTimee/Fusion-JetBrainsMapleMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SpaceTimee/Fusion-JetBrainsMapleMono)
-- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) : 霞鹜文楷字体 ![GitHub Repo stars](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lxgw/LxgwWenKai)
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) : Adobe 的源代码字体 ![GitHub Repo stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/adobe-fonts/source-code-pro)
-- [monaspace](https://github.com/githubnext/monaspace) ![GitHub Repo stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/githubnext/monaspace)
+- [FiraCode](https://github.com/tonsky/FiraCode) ![GitHub Repo stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tonsky/FiraCode) ![GitHub Release Date](https://img.shields.io/github/release-date/tonsky/FiraCode)
+- [maple-font](https://github.com/subframe7536/maple-font) ![GitHub Repo stars](https://img.shields.io/github/stars/subframe7536/maple-font?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/subframe7536/maple-font) ![GitHub Release Date](https://img.shields.io/github/release-date/subframe7536/maple-font)
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) :  JetBrains 官方字体 ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/JetBrainsMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/JetBrains/JetBrainsMono) ![GitHub Release Date](https://img.shields.io/github/release-date/JetBrains/JetBrainsMono)
+- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) : JetBrainsMono + Maple Mono 合成字体 ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceTimee/Fusion-JetBrainsMapleMono?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SpaceTimee/Fusion-JetBrainsMapleMono) ![GitHub Release Date](https://img.shields.io/github/release-date/SpaceTimee/Fusion-JetBrainsMapleMono)
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) : 霞鹜文楷字体 ![GitHub Repo stars](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lxgw/LxgwWenKai) ![GitHub Release Date](https://img.shields.io/github/release-date/lxgw/LxgwWenKai)
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) : Adobe 的源代码字体 ![GitHub Repo stars](https://img.shields.io/github/stars/adobe-fonts/source-code-pro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/adobe-fonts/source-code-pro) ![GitHub Release Date](https://img.shields.io/github/release-date/adobe-fonts/source-code-pro)
+- [monaspace](https://github.com/githubnext/monaspace) ![GitHub Repo stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/githubnext/monaspace) ![GitHub Release Date](https://img.shields.io/github/release-date/githubnext/monaspace)
 - [free-font](https://github.com/wordshub/free-font) : 免费可商用字体 ![GitHub Repo stars](https://img.shields.io/github/stars/wordshub/free-font?style=flat)
 
 # markdown
 
 - [Typora](https://typora.io/)
-- [NoteGen](https://github.com/codexu/note-gen) : 跨平台的 `Markdown AI` 笔记软件 ![GitHub Repo stars](https://img.shields.io/github/stars/codexu/note-gen?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codexu/note-gen)
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) : 一个 `Markdown` 编辑器，但是更轻快、更智能、更纯粹 ![GitHub Repo stars](https://img.shields.io/github/stars/drl990114/MarkFlowy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/drl990114/MarkFlowy)
-- [MarkText](https://github.com/marktext/marktext) : 一个简单而优雅的 `Markdown` 编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marktext/marktext)
-- [joplin](https://github.com/laurent22/joplin) ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/laurent22/joplin)
+- [NoteGen](https://github.com/codexu/note-gen) : 跨平台的 `Markdown AI` 笔记软件 ![GitHub Repo stars](https://img.shields.io/github/stars/codexu/note-gen?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codexu/note-gen) ![GitHub Release Date](https://img.shields.io/github/release-date/codexu/note-gen)
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) : 一个 `Markdown` 编辑器，但是更轻快、更智能、更纯粹 ![GitHub Repo stars](https://img.shields.io/github/stars/drl990114/MarkFlowy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/drl990114/MarkFlowy) ![GitHub Release Date](https://img.shields.io/github/release-date/drl990114/MarkFlowy)
+- [MarkText](https://github.com/marktext/marktext) : 一个简单而优雅的 `Markdown` 编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marktext/marktext) ![GitHub Release Date](https://img.shields.io/github/release-date/marktext/marktext)
+- [joplin](https://github.com/laurent22/joplin) ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/laurent22/joplin) ![GitHub Release Date](https://img.shields.io/github/release-date/laurent22/joplin)
 
 # terminal/ssh
 
-- [terminal](https://github.com/microsoft/terminal) : Windows Terminal ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/terminal?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/terminal)
-- [tabby](https://github.com/Eugeny/tabby) ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Eugeny/tabby)
-- [cmder](https://github.com/cmderdev/cmder) ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder)
-- [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm)
-- [electerm](https://github.com/electerm/electerm) ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/electerm/electerm)
-- [waveterm](https://github.com/wavetermdev/waveterm) ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wavetermdev/waveterm)
+- [terminal](https://github.com/microsoft/terminal) : Windows Terminal ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/terminal?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/terminal) ![GitHub Release Date](https://img.shields.io/github/release-date/microsoft/terminal)
+- [tabby](https://github.com/Eugeny/tabby) ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Eugeny/tabby) ![GitHub Release Date](https://img.shields.io/github/release-date/Eugeny/tabby)
+- [cmder](https://github.com/cmderdev/cmder) ![GitHub Repo stars](https://img.shields.io/github/stars/cmderdev/cmder?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/cmderdev/cmder) ![GitHub Release Date](https://img.shields.io/github/release-date/cmderdev/cmder)
+- [WindTerm](https://github.com/kingToolbox/WindTerm) ![GitHub Repo stars](https://img.shields.io/github/stars/kingToolbox/WindTerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kingToolbox/WindTerm) ![GitHub Release Date](https://img.shields.io/github/release-date/kingToolbox/WindTerm)
+- [electerm](https://github.com/electerm/electerm) ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/electerm/electerm) ![GitHub Release Date](https://img.shields.io/github/release-date/electerm/electerm)
+- [waveterm](https://github.com/wavetermdev/waveterm) ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wavetermdev/waveterm) ![GitHub Release Date](https://img.shields.io/github/release-date/wavetermdev/waveterm)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
-- [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified)
-- [shell360](https://github.com/nashaofu/shell360) ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360)
-- [termora](https://github.com/TermoraDev/termora) ![GitHub Repo stars](https://img.shields.io/github/stars/TermoraDev/termora?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TermoraDev/termora)
+- [MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Repo stars](https://img.shields.io/github/stars/RipplePiam/MobaXterm-Chinese-Simplified?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RipplePiam/MobaXterm-Chinese-Simplified) ![GitHub Release Date](https://img.shields.io/github/release-date/RipplePiam/MobaXterm-Chinese-Simplified)
+- [shell360](https://github.com/nashaofu/shell360) ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360) ![GitHub Release Date](https://img.shields.io/github/release-date/nashaofu/shell360)
+- [termora](https://github.com/TermoraDev/termora) ![GitHub Repo stars](https://img.shields.io/github/stars/TermoraDev/termora?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TermoraDev/termora) ![GitHub Release Date](https://img.shields.io/github/release-date/TermoraDev/termora)
 
 # Git GUI
 
-- [GitHub Desktop](https://github.com/desktop/desktop) ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/desktop/desktop)
-- [sourcegit](https://github.com/sourcegit-scm/sourcegit) ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sourcegit-scm/sourcegit)
-- [lazygit](https://github.com/jesseduffield/lazygit) ![GitHub Repo stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/jesseduffield/lazygit)
-- [gitui](https://github.com/gitui-org/gitui) ![GitHub Repo stars](https://img.shields.io/github/stars/gitui-org/gitui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitui-org/gitui)
+- [GitHub Desktop](https://github.com/desktop/desktop) ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/desktop/desktop) ![GitHub Release Date](https://img.shields.io/github/release-date/desktop/desktop)
+- [sourcegit](https://github.com/sourcegit-scm/sourcegit) ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sourcegit-scm/sourcegit) ![GitHub Release Date](https://img.shields.io/github/release-date/sourcegit-scm/sourcegit)
+- [lazygit](https://github.com/jesseduffield/lazygit) ![GitHub Repo stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/jesseduffield/lazygit) ![GitHub Release Date](https://img.shields.io/github/release-date/jesseduffield/lazygit)
+- [gitui](https://github.com/gitui-org/gitui) ![GitHub Repo stars](https://img.shields.io/github/stars/gitui-org/gitui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitui-org/gitui) ![GitHub Release Date](https://img.shields.io/github/release-date/gitui-org/gitui)
 - [Sublime Merge](https://www.sublimemerge.com/)
-- [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler)
-- [serie](https://github.com/lusingander/serie) ![GitHub Repo stars](https://img.shields.io/github/stars/lusingander/serie?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lusingander/serie)
+- [GitButler](https://github.com/gitbutlerapp/gitbutler) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gitbutlerapp/gitbutler) ![GitHub Release Date](https://img.shields.io/github/release-date/gitbutlerapp/gitbutler)
+- [serie](https://github.com/lusingander/serie) ![GitHub Repo stars](https://img.shields.io/github/stars/lusingander/serie?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lusingander/serie) ![GitHub Release Date](https://img.shields.io/github/release-date/lusingander/serie)
 - [Gitnuro](https://github.com/JetpackDuba/Gitnuro) ![GitHub Repo stars](https://img.shields.io/github/stars/JetpackDuba/Gitnuro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/JetpackDuba/Gitnuro) ![GitHub Release Date](https://img.shields.io/github/release-date/JetpackDuba/Gitnuro)
 - [Guitar](https://github.com/soramimi/Guitar) ![GitHub Repo stars](https://img.shields.io/github/stars/soramimi/Guitar?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/soramimi/Guitar) ![GitHub Release Date](https://img.shields.io/github/release-date/soramimi/Guitar)
+- [megit](https://github.com/eclipsesource/megit) ![GitHub Repo stars](https://img.shields.io/github/stars/eclipsesource/megit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/eclipsesource/megit) ![GitHub Release Date](https://img.shields.io/github/release-date/eclipsesource/megit)
 
 # API测试
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch)
-- [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno)
-- [insomnia](https://github.com/Kong/insomnia) ![GitHub Repo stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Kong/insomnia)
-- [yaak](https://github.com/mountain-loop/yaak) ![GitHub Repo stars](https://img.shields.io/github/stars/mountain-loop/yaak?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mountain-loop/yaak)
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) ![GitHub Repo stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hoppscotch/hoppscotch) ![GitHub Release Date](https://img.shields.io/github/release-date/hoppscotch/hoppscotch)
+- [Bruno](https://github.com/usebruno/bruno) ![GitHub Repo stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/usebruno/bruno) ![GitHub Release Date](https://img.shields.io/github/release-date/usebruno/bruno)
+- [insomnia](https://github.com/Kong/insomnia) ![GitHub Repo stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Kong/insomnia) ![GitHub Release Date](https://img.shields.io/github/release-date/Kong/insomnia)
+- [yaak](https://github.com/mountain-loop/yaak) ![GitHub Repo stars](https://img.shields.io/github/stars/mountain-loop/yaak?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mountain-loop/yaak) ![GitHub Release Date](https://img.shields.io/github/release-date/mountain-loop/yaak)
 
 # 数据库
 
-- [dbeaver](https://github.com/dbeaver/dbeaver) : 免费的通用数据库工具和 `SQL` 客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbeaver/dbeaver)
-- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio)
-- [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) :  `SQLite` 数据库管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio)
-- [dbgate](https://github.com/dbgate/dbgate) : 数据库管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/dbgate/dbgate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbgate/dbgate)
+- [dbeaver](https://github.com/dbeaver/dbeaver) : 免费的通用数据库工具和 `SQL` 客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbeaver/dbeaver) ![GitHub Release Date](https://img.shields.io/github/release-date/dbeaver/dbeaver)
+- [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio) ![GitHub Release Date](https://img.shields.io/github/release-date/beekeeper-studio/beekeeper-studio)
+- [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) :  `SQLite` 数据库管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio) ![GitHub Release Date](https://img.shields.io/github/release-date/pawelsalawa/sqlitestudio)
+- [dbgate](https://github.com/dbgate/dbgate) : 数据库管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/dbgate/dbgate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbgate/dbgate) ![GitHub Release Date](https://img.shields.io/github/release-date/dbgate/dbgate)
 
 # 对比
 
 - [meld](https://meldmerge.org/)
 - [Beyond Compare](https://www.scootersoftware.com/)
-- [winmerge](https://github.com/WinMerge/winmerge) ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/WinMerge/winmerge)
+- [winmerge](https://github.com/WinMerge/winmerge) ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/WinMerge/winmerge) ![GitHub Release Date](https://img.shields.io/github/release-date/WinMerge/winmerge)
 
 # github 加速
 
@@ -149,10 +150,10 @@ A list of awesome softwares.
 
 # GPT
 
-- [cherry-studio](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CherryHQ/cherry-studio)
-- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChatGPTNextWeb/NextChat)
-- [chatbox](https://github.com/chatboxai/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chatboxai/chatbox)
-- [Everywhere](https://github.com/DearVa/Everywhere) : 交互式 AI 助手 ![GitHub Repo stars](https://img.shields.io/github/stars/DearVa/Everywhere?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DearVa/Everywhere)
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CherryHQ/cherry-studio) ![GitHub Release Date](https://img.shields.io/github/release-date/CherryHQ/cherry-studio)
+- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChatGPTNextWeb/NextChat) ![GitHub Release Date](https://img.shields.io/github/release-date/ChatGPTNextWeb/NextChat)
+- [chatbox](https://github.com/chatboxai/chatbox) ![GitHub Repo stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chatboxai/chatbox) ![GitHub Release Date](https://img.shields.io/github/release-date/chatboxai/chatbox)
+- [Everywhere](https://github.com/DearVa/Everywhere) : 交互式 AI 助手 ![GitHub Repo stars](https://img.shields.io/github/stars/DearVa/Everywhere?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DearVa/Everywhere) ![GitHub Release Date](https://img.shields.io/github/release-date/DearVa/Everywhere)
 
 # Windows
 
@@ -165,150 +166,148 @@ A list of awesome softwares.
 
 ## 烧录
 
-- [Ventoy](https://github.com/ventoy/Ventoy) : 启动盘制作，无需格式化 ![GitHub Repo stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ventoy/Ventoy)
-- [rufus](https://github.com/pbatard/rufus) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/pbatard/rufus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pbatard/rufus)
-- [etcher](https://github.com/balena-io/etcher) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/balena-io/etcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/balena-io/etcher)
+- [Ventoy](https://github.com/ventoy/Ventoy) : 启动盘制作，无需格式化 ![GitHub Repo stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ventoy/Ventoy) ![GitHub Release Date](https://img.shields.io/github/release-date/ventoy/Ventoy)
+- [rufus](https://github.com/pbatard/rufus) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/pbatard/rufus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pbatard/rufus) ![GitHub Release Date](https://img.shields.io/github/release-date/pbatard/rufus)
+- [etcher](https://github.com/balena-io/etcher) : 启动盘制作 ![GitHub Repo stars](https://img.shields.io/github/stars/balena-io/etcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/balena-io/etcher) ![GitHub Release Date](https://img.shields.io/github/release-date/balena-io/etcher)
 
 ## 激活
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/massgravel/Microsoft-Activation-Scripts)
-- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator)
-- [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TGSAN/CMWTAT_Digital_Edition)
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/massgravel/Microsoft-Activation-Scripts) ![GitHub Release Date](https://img.shields.io/github/release-date/massgravel/Microsoft-Activation-Scripts)
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator) ![GitHub Release Date](https://img.shields.io/github/release-date/zbezj/HEU_KMS_Activator)
+- [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TGSAN/CMWTAT_Digital_Edition) ![GitHub Release Date](https://img.shields.io/github/release-date/TGSAN/CMWTAT_Digital_Edition)
 - [DragonKMS](http://www.yishimei.cn/network/319.html)
 
 ## 优化
 
-- [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer)
-- [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) : 轻便的Windows优化工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ZyperWave/ZyperWinOptimize)
+- [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer) ![GitHub Release Date](https://img.shields.io/github/release-date/hellzerg/optimizer)
+- [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) : 轻便的Windows优化工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ZyperWave/ZyperWinOptimize) ![GitHub Release Date](https://img.shields.io/github/release-date/ZyperWave/ZyperWinOptimize)
 
 ## 卸载
 
 - [geek](https://geekuninstaller.com/)
-- [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : 支持批量卸载应用程序 ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Klocman/Bulk-Crap-Uninstaller)
+- [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) : 支持批量卸载应用程序 ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Klocman/Bulk-Crap-Uninstaller) ![GitHub Release Date](https://img.shields.io/github/release-date/Klocman/Bulk-Crap-Uninstaller)
 
 ## 清理
 
-- [czkawka](https://github.com/qarmin/czkawka) : 多功能文件清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qarmin/czkawka)
-- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language)
-- [bleachbit](https://github.com/bleachbit/bleachbit) : 文件清理 ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit)
+- [czkawka](https://github.com/qarmin/czkawka) : 多功能文件清理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qarmin/czkawka) ![GitHub Release Date](https://img.shields.io/github/release-date/qarmin/czkawka)
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language) ![GitHub Release Date](https://img.shields.io/github/release-date/Chuyu-Team/Dism-Multi-language)
+- [bleachbit](https://github.com/bleachbit/bleachbit) : 文件清理 ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit) ![GitHub Release Date](https://img.shields.io/github/release-date/bleachbit/bleachbit)
 
 ## 启动/搜索
 
-- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 快速文件搜索和应用启动工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher)
-- [rubick](https://github.com/rubickCenter/rubick) : 效率工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick)
-- [GeekDesk](https://github.com/BookerLiu/GeekDesk) : 桌面快速启动工 ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk)
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) 快速文件搜索和应用启动工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher) ![GitHub Release Date](https://img.shields.io/github/release-date/Flow-Launcher/Flow.Launcher)
+- [rubick](https://github.com/rubickCenter/rubick) : 效率工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick) ![GitHub Release Date](https://img.shields.io/github/release-date/rubickCenter/rubick)
+- [GeekDesk](https://github.com/BookerLiu/GeekDesk) : 桌面快速启动工 ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk) ![GitHub Release Date](https://img.shields.io/github/release-date/BookerLiu/GeekDesk)
 
 ## 包管理器
 
-- [Chocolatey](https://github.com/chocolatey/choco) ![GitHub Repo stars](https://img.shields.io/github/stars/chocolatey/choco?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chocolatey/choco)
-- [Scoop](https://github.com/ScoopInstaller/Scoop) ![GitHub Repo stars](https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ScoopInstaller/Scoop)
-- [winget](https://github.com/microsoft/winget-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/winget-cli?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/winget-cli)
-- [UniGetUI](https://github.com/marticliment/UniGetUI) ![GitHub Repo stars](https://img.shields.io/github/stars/marticliment/UniGetUI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marticliment/UniGetUI)
+- [Chocolatey](https://github.com/chocolatey/choco) ![GitHub Repo stars](https://img.shields.io/github/stars/chocolatey/choco?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chocolatey/choco) ![GitHub Release Date](https://img.shields.io/github/release-date/chocolatey/choco)
+- [Scoop](https://github.com/ScoopInstaller/Scoop) ![GitHub Repo stars](https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ScoopInstaller/Scoop) ![GitHub Release Date](https://img.shields.io/github/release-date/ScoopInstaller/Scoop)
+- [winget](https://github.com/microsoft/winget-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/winget-cli?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/winget-cli) ![GitHub Release Date](https://img.shields.io/github/release-date/microsoft/winget-cli)
+- [UniGetUI](https://github.com/marticliment/UniGetUI) ![GitHub Repo stars](https://img.shields.io/github/stars/marticliment/UniGetUI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marticliment/UniGetUI) ![GitHub Release Date](https://img.shields.io/github/release-date/marticliment/UniGetUI)
 
 # 翻译
 
-- [pot-desktop](https://github.com/pot-app/pot-desktop) : 一个跨平台的划词翻译和OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pot-app/pot-desktop)
-- [TTime](https://github.com/InkTimeRecord/TTime) : 截图、划词、文字识别、AI、翻译软件 ![GitHub Repo stars](https://img.shields.io/github/stars/InkTimeRecord/TTime?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/InkTimeRecord/TTime)
-- [stranslate](https://github.com/zggsong/stranslate) : 即用即走的翻译、OCR工具 ![GitHub Repo stars](https://img.shields.io/github/stars/zggsong/stranslate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zggsong/stranslate)
+- [pot-desktop](https://github.com/pot-app/pot-desktop) : 一个跨平台的划词翻译和OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pot-app/pot-desktop) ![GitHub Release Date](https://img.shields.io/github/release-date/pot-app/pot-desktop)
+- [TTime](https://github.com/InkTimeRecord/TTime) : 截图、划词、文字识别、AI、翻译软件 ![GitHub Repo stars](https://img.shields.io/github/stars/InkTimeRecord/TTime?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/InkTimeRecord/TTime) ![GitHub Release Date](https://img.shields.io/github/release-date/InkTimeRecord/TTime)
+- [stranslate](https://github.com/zggsong/stranslate) : 即用即走的翻译、OCR工具 ![GitHub Repo stars](https://img.shields.io/github/stars/zggsong/stranslate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zggsong/stranslate) ![GitHub Release Date](https://img.shields.io/github/release-date/zggsong/stranslate)
 
 # 下载器
 
-- [Motrix](https://github.com/agalwood/Motrix) ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/agalwood/Motrix)
-- [gopeed](https://github.com/GopeedLab/gopeed) ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GopeedLab/gopeed)
-- [ab-download-manager](https://github.com/amir1376/ab-download-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/amir1376/ab-download-manager)
-- [varia](https://github.com/giantpinkrobots/varia) ![GitHub Repo stars](https://img.shields.io/github/stars/giantpinkrobots/varia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/giantpinkrobots/varia)
+- [Motrix](https://github.com/agalwood/Motrix) ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/agalwood/Motrix) ![GitHub Release Date](https://img.shields.io/github/release-date/agalwood/Motrix)
+- [gopeed](https://github.com/GopeedLab/gopeed) ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GopeedLab/gopeed) ![GitHub Release Date](https://img.shields.io/github/release-date/GopeedLab/gopeed)
+- [ab-download-manager](https://github.com/amir1376/ab-download-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/amir1376/ab-download-manager) ![GitHub Release Date](https://img.shields.io/github/release-date/amir1376/ab-download-manager)
+- [varia](https://github.com/giantpinkrobots/varia) ![GitHub Repo stars](https://img.shields.io/github/stars/giantpinkrobots/varia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/giantpinkrobots/varia) ![GitHub Release Date](https://img.shields.io/github/release-date/giantpinkrobots/varia)
 
 # 视频
 
 ## 下载(m3u8)
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-CLI) ![GitHub Release Date](https://img.shields.io/github/release-date/nilaoda/N_m3u8DL-CLI)
-- [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-RE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-RE)
-- [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhiyiYo/Fluent-M3U8)
-- [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/HeiSir2014/M3U8-Downloader?style=flat)  ![GitHub Release](https://img.shields.io/github/v/release/HeiSir2014/M3U8-Downloader)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/yt-dlp/yt-dlp)
-- [lux](https://github.com/iawia002/lux) ![GitHub Repo stars](https://img.shields.io/github/stars/iawia002/lux?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/iawia002/lux)
-- [media-downloader](https://github.com/mhogomchungu/media-downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/mhogomchungu/media-downloader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mhogomchungu/media-downloader)
-- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) : 跨平台[`yt-dlp`](https://github.com/yt-dlp/yt-dlp)的GUI ![GitHub Repo stars](https://img.shields.io/github/stars/dsymbol/yt-dlp-gui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dsymbol/yt-dlp-gui)
-- [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) : 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf)
-- [Vividl](https://github.com/Bluegrams/Vividl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl)
-- [YTSage](https://github.com/oop7/YTSage) : YouTube下载器 ![GitHub Repo stars](https://img.shields.io/github/stars/oop7/YTSage?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/oop7/YTSage)
+- [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) ![GitHub Repo stars](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-RE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nilaoda/N_m3u8DL-RE) ![GitHub Release Date](https://img.shields.io/github/release-date/nilaoda/N_m3u8DL-RE)
+- [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhiyiYo/Fluent-M3U8) ![GitHub Release Date](https://img.shields.io/github/release-date/zhiyiYo/Fluent-M3U8)
+- [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/HeiSir2014/M3U8-Downloader?style=flat)  ![GitHub Release](https://img.shields.io/github/v/release/HeiSir2014/M3U8-Downloader) ![GitHub Release Date](https://img.shields.io/github/release-date/HeiSir2014/M3U8-Downloader)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/yt-dlp/yt-dlp) ![GitHub Release Date](https://img.shields.io/github/release-date/yt-dlp/yt-dlp)
+- [lux](https://github.com/iawia002/lux) ![GitHub Repo stars](https://img.shields.io/github/stars/iawia002/lux?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/iawia002/lux) ![GitHub Release Date](https://img.shields.io/github/release-date/iawia002/lux)
+- [media-downloader](https://github.com/mhogomchungu/media-downloader) ![GitHub Repo stars](https://img.shields.io/github/stars/mhogomchungu/media-downloader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mhogomchungu/media-downloader) ![GitHub Release Date](https://img.shields.io/github/release-date/mhogomchungu/media-downloader)
+- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) : 跨平台[`yt-dlp`](https://github.com/yt-dlp/yt-dlp)的GUI ![GitHub Repo stars](https://img.shields.io/github/stars/dsymbol/yt-dlp-gui?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dsymbol/yt-dlp-gui) ![GitHub Release Date](https://img.shields.io/github/release-date/dsymbol/yt-dlp-gui)
+- [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) : 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf) ![GitHub Release Date](https://img.shields.io/github/release-date/database64128/youtube-dl-wpf)
+- [Vividl](https://github.com/Bluegrams/Vividl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl) ![GitHub Release Date](https://img.shields.io/github/release-date/Bluegrams/Vividl)
+- [YTSage](https://github.com/oop7/YTSage) : YouTube下载器 ![GitHub Repo stars](https://img.shields.io/github/stars/oop7/YTSage?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/oop7/YTSage) ![GitHub Release Date](https://img.shields.io/github/release-date/oop7/YTSage)
 
 ## 播放
 
 - [Potplayer](https://potplayer.daum.net/) : 视频播放器
-- [mpv](https://github.com/mpv-player/mpv) : 命令行媒体播放器  ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mpv-player/mpv)
-- [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) : mpv的二进制构建 ![GitHub Repo stars](https://img.shields.io/github/stars/shinchiro/mpv-winbuild-cmake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/shinchiro/mpv-winbuild-cmake)
-- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) : 通用音频和视频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Aleksoid1978/MPC-BE)
-- [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) : 全功能弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay)
-- [弹弹play](https://github.com/kaedei/dandanplay) : 全功能本地视频+弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/kaedei/dandanplay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kaedei/dandanplay)
+- [mpv](https://github.com/mpv-player/mpv) : 命令行媒体播放器  ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mpv-player/mpv) ![GitHub Release Date](https://img.shields.io/github/release-date/mpv-player/mpv)
+- [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) : mpv的二进制构建 ![GitHub Repo stars](https://img.shields.io/github/stars/shinchiro/mpv-winbuild-cmake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/shinchiro/mpv-winbuild-cmake) ![GitHub Release Date](https://img.shields.io/github/release-date/shinchiro/mpv-winbuild-cmake)
+- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) : 通用音频和视频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Aleksoid1978/MPC-BE) ![GitHub Release Date](https://img.shields.io/github/release-date/Aleksoid1978/MPC-BE)
+- [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) : 全功能弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay) ![GitHub Release Date](https://img.shields.io/github/release-date/KikoPlayProject/KikoPlay)
+- [弹弹play](https://github.com/kaedei/dandanplay) : 全功能本地视频+弹幕播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/kaedei/dandanplay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kaedei/dandanplay) ![GitHub Release Date](https://img.shields.io/github/release-date/kaedei/dandanplay)
 
 ## 剪辑
 
-- [OpenCut](https://github.com/OpenCut-app/OpenCut) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenCut-app/OpenCut)
-- [lossless-cut](https://github.com/mifi/lossless-cut) ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut)
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenCut-app/OpenCut) ![GitHub Release Date](https://img.shields.io/github/release-date/OpenCut-app/OpenCut)
+- [lossless-cut](https://github.com/mifi/lossless-cut) ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut) ![GitHub Release Date](https://img.shields.io/github/release-date/mifi/lossless-cut)
 
 ## 转码
 
-- [HandBrake](https://github.com/HandBrake/HandBrake) : 跨平台视频转码软件 ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake)
+- [HandBrake](https://github.com/HandBrake/HandBrake) : 跨平台视频转码软件 ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake) ![GitHub Release Date](https://img.shields.io/github/release-date/HandBrake/HandBrake)
 
 ## 直播
 
-- [obs-studio](https://github.com/obsproject/obs-studio) : 视频录制以及直播串流软件 ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio)
+- [obs-studio](https://github.com/obsproject/obs-studio) : 视频录制以及直播串流软件 ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio) ![GitHub Release Date](https://img.shields.io/github/release-date/obsproject/obs-studio)
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) : 简简单单的看直播
 ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Drunk-Dream/dart_simple_live_for_scoop)
-- [dtv](https://github.com/chen-zeong/dtv) : 跨平台直播桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv)
-- [pure_live](https://github.com/liuchuancong/pure_live) : 纯粹直播 ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live)
+- [dtv](https://github.com/chen-zeong/dtv) : 跨平台直播桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv) ![GitHub Release Date](https://img.shields.io/github/release-date/chen-zeong/dtv)
+- [pure_live](https://github.com/liuchuancong/pure_live) : 纯粹直播 ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live) ![GitHub Release Date](https://img.shields.io/github/release-date/liuchuancong/pure_live)
 
 ## 动漫
 
-- [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko)
+- [animeko](https://github.com/open-ani/animeko) : 集找番、追番、看番的一站式弹幕追番平台 ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko) ![GitHub Release Date](https://img.shields.io/github/release-date/open-ani/animeko)
 
 ## B站
 
 - [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) : 哔哩哔哩-API收集整理 ![GitHub Repo stars](https://img.shields.io/github/stars/SocialSisterYi/bilibili-API-collect?style=flat)
 - [downkyi](https://github.com/leiurayer/downkyi) : 哔哩下载姬downkyi ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/leiurayer/downkyi)
-- [wiliwili](https://github.com/xfangfang/wiliwili) : 全平台第三方B站客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili)
-- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) : B站第三方 Windows 桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot)
-- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) : PotPlayer 哔哩哔哩插件 ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
-- 
+- [wiliwili](https://github.com/xfangfang/wiliwili) : 全平台第三方B站客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili) ![GitHub Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
+- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) : B站第三方 Windows 桌面客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot) ![GitHub Release Date](https://img.shields.io/github/release-date/Richasy/Bili.Copilot)
+- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) : PotPlayer 哔哩哔哩插件 ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat) 
 
 # 音乐
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) : LX Music 桌面版
-![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop)
-- [spotube](https://github.com/KRTirtho/spotube) : 开源音乐客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KRTirtho/spotube)
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) : 高颜值的第三方网易云播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/qier222/YesPlayMusic?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qier222/YesPlayMusic)
-- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) : 第三方音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/algerkong/AlgerMusicPlayer)
-- [listen1_desktop](https://github.com/listen1/listen1_desktop) : Listen 1 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/listen1/listen1_desktop)
-- [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) : 常见音频格式的音频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/MusicPlayer2)
-- [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) : 插件化、定制化、无广告的免费音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop)
-- [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) : 音乐播放器模仿酷狗 ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer)
+![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/lyswhut/lx-music-desktop) ![GitHub Release Date](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
+- [spotube](https://github.com/KRTirtho/spotube) : 开源音乐客户端 ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KRTirtho/spotube) ![GitHub Release Date](https://img.shields.io/github/release-date/KRTirtho/spotube)
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) : 高颜值的第三方网易云播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/qier222/YesPlayMusic?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qier222/YesPlayMusic) ![GitHub Release Date](https://img.shields.io/github/release-date/qier222/YesPlayMusic)
+- [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) : 第三方音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/algerkong/AlgerMusicPlayer) ![GitHub Release Date](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
+- [listen1_desktop](https://github.com/listen1/listen1_desktop) : Listen 1 音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/listen1/listen1_desktop) ![GitHub Release Date](https://img.shields.io/github/release-date/listen1/listen1_desktop)
+- [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) : 常见音频格式的音频播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/MusicPlayer2) ![GitHub Release Date](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
+- [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) : 插件化、定制化、无广告的免费音乐播放器 ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop) ![GitHub Release Date](https://img.shields.io/github/release-date/maotoumao/MusicFreeDesktop)
+- [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) : 音乐播放器模仿酷狗 ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer) ![GitHub Release Date](https://img.shields.io/github/release-date/Greedysky/TTKMusicplayer)
 
 # 图片
 
-- [upscayl](https://github.com/upscayl/upscayl) : 放大和增强低分辨率图像 ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/upscayl/upscayl)
-- [Final2x](https://github.com/EutropicAI/Final2x) : 图像超分辨率工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x)
-- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) : 轻量级的AI证件照制作工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos)
-- [LiYing](https://github.com/aoguai/LiYing) : 完成一般照相馆后期证件照处理流程的照片自动处理的工具 ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing)
+- [upscayl](https://github.com/upscayl/upscayl) : 放大和增强低分辨率图像 ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/upscayl/upscayl) ![GitHub Release Date](https://img.shields.io/github/release-date/upscayl/upscayl)
+- [Final2x](https://github.com/EutropicAI/Final2x) : 图像超分辨率工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x) ![GitHub Release Date](https://img.shields.io/github/release-date/EutropicAI/Final2x)
+- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) : 轻量级的AI证件照制作工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos) ![GitHub Release Date](https://img.shields.io/github/release-date/Zeyi-Lin/HivisionIDPhotos)
+- [LiYing](https://github.com/aoguai/LiYing) : 完成一般照相馆后期证件照处理流程的照片自动处理的工具 ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing) ![GitHub Release Date](https://img.shields.io/github/release-date/aoguai/LiYing)
 
 # 音频
 
-- [buzz](https://github.com/chidiwilliams/buzz) : 离线转录和翻译音频 ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz)
-- [Whisper](https://github.com/Const-me/Whisper) : 语音识别工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper)
-- 
+- [buzz](https://github.com/chidiwilliams/buzz) : 离线转录和翻译音频 ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz) ![GitHub Release Date](https://img.shields.io/github/release-date/chidiwilliams/buzz)
+- [Whisper](https://github.com/Const-me/Whisper) : 语音识别工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper) ![GitHub Release Date](https://img.shields.io/github/release-date/Const-me/Whisper)
 
 # PDF
 
 - [pdf24](https://www.pdf24.org/zh/)
 - [pdfgear](https://www.pdfgear.com/zh/)
-- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) : 轻量PDF阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sumatrapdfreader/sumatrapdf)
-- [koodo-reader](https://github.com/koodo-reader/koodo-reader) : 跨平台的电子书阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/koodo-reader/koodo-reader)
-- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) :  PDF编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF)
-- [PDFPatcher](https://github.com/wmjordan/PDFPatcher) : PDF工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/wmjordan/PDFPatcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wmjordan/PDFPatcher)
-- [pdfarranger](https://github.com/pdfarranger/pdfarranger) : 合并或拆分PDF文档并旋转、裁剪和重新排列PDF ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger)
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) : 轻量PDF阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sumatrapdfreader/sumatrapdf) ![GitHub Release Date](https://img.shields.io/github/release-date/sumatrapdfreader/sumatrapdf)
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader) : 跨平台的电子书阅读器 ![GitHub Repo stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/koodo-reader/koodo-reader) ![GitHub Release Date](https://img.shields.io/github/release-date/koodo-reader/koodo-reader)
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) :  PDF编辑器 ![GitHub Repo stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Stirling-Tools/Stirling-PDF) ![GitHub Release Date](https://img.shields.io/github/release-date/Stirling-Tools/Stirling-PDF)
+- [PDFPatcher](https://github.com/wmjordan/PDFPatcher) : PDF工具箱 ![GitHub Repo stars](https://img.shields.io/github/stars/wmjordan/PDFPatcher?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/wmjordan/PDFPatcher) ![GitHub Release Date](https://img.shields.io/github/release-date/wmjordan/PDFPatcher)
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger) : 合并或拆分PDF文档并旋转、裁剪和重新排列PDF ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger) ![GitHub Release Date](https://img.shields.io/github/release-date/pdfarranger/pdfarranger)
 - [okular](https://github.com/KDE/okular) ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/okular?style=flat)
-- [FileConverter](https://github.com/Tichau/FileConverter) : 文件转换工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Tichau/FileConverter)
+- [FileConverter](https://github.com/Tichau/FileConverter) : 文件转换工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Tichau/FileConverter) ![GitHub Release Date](https://img.shields.io/github/release-date/Tichau/FileConverter)
 
 # 网站
 
