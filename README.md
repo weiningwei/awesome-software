@@ -67,6 +67,9 @@ A list of awesome softwares.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
 - [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit) ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit)
 - [Pake](https://github.com/tw93/Pake) : 网页生成轻量桌面应用 ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake)
+- [QuickClipboard](https://github.com/mosheng1/QuickClipboard) : 剪贴板增强工具, 支持截图贴图 ![GitHub Repo stars](https://img.shields.io/github/stars/mosheng1/QuickClipboard?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mosheng1/QuickClipboard) ![GitHub Release Date](https://img.shields.io/github/release-date/mosheng1/QuickClipboard)
+- [snow-shot](https://github.com/mg-chao/snow-shot) : 超好用的截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mg-chao/snow-shot) ![GitHub Release Date](https://img.shields.io/github/release-date/mg-chao/snow-shot)
+- [CopyQ](https://github.com/hluk/CopyQ) : 具有高级功能的剪贴板管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/hluk/CopyQ?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hluk/CopyQ) ![GitHub Release Date](https://img.shields.io/github/release-date/hluk/CopyQ)
 
 # 编辑器
 
