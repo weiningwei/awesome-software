@@ -3,6 +3,7 @@ A list of awesome softwares.
 
 - [awesome-software](#awesome-software)
 - [tools](#tools)
+  - [剪贴板工具](#剪贴板工具)
 - [编辑器](#编辑器)
 - [字体](#字体)
 - [markdown](#markdown)
@@ -54,8 +55,6 @@ A list of awesome softwares.
 - [RedDot](https://github.com/Autumn-one/RedDot) : 光标处显示中英文状态 ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot) ![GitHub Release Date](https://img.shields.io/github/release-date/Autumn-one/RedDot)
 - [Tai](https://github.com/Planshit/Tai) : 软件使用时长统计 ![GitHub Repo stars](https://img.shields.io/github/stars/Planshit/Tai?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Planshit/Tai) ![GitHub Release Date](https://img.shields.io/github/release-date/Planshit/Tai)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) : 离线OCR软件 ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR) ![GitHub Release Date](https://img.shields.io/github/release-date/hiroi-sora/Umi-OCR)
-- [Ditto](https://github.com/sabrogden/Ditto) : windows剪切板增强 ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto) ![GitHub Release Date](https://img.shields.io/github/release-date/sabrogden/Ditto)
-- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) : 跨平台的剪贴板管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste) ![GitHub Release Date](https://img.shields.io/github/release-date/EcoPasteHub/EcoPaste)
 - [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) : windows显示器亮度管理 ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray) ![GitHub Release Date](https://img.shields.io/github/release-date/xanderfrangos/twinkle-tray)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) : windows任务栏半透明/透明 ![GitHub Repo stars](https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TranslucentTB/TranslucentTB) ![GitHub Release Date](https://img.shields.io/github/release-date/TranslucentTB/TranslucentTB)
 - [localsend](https://github.com/localsend/localsend) : 局域网文件传输 ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend)
@@ -67,9 +66,17 @@ A list of awesome softwares.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
 - [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit) ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit)
 - [Pake](https://github.com/tw93/Pake) : 网页生成轻量桌面应用 ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake)
-- [QuickClipboard](https://github.com/mosheng1/QuickClipboard) : 剪贴板增强工具, 支持截图贴图 ![GitHub Repo stars](https://img.shields.io/github/stars/mosheng1/QuickClipboard?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mosheng1/QuickClipboard) ![GitHub Release Date](https://img.shields.io/github/release-date/mosheng1/QuickClipboard)
 - [snow-shot](https://github.com/mg-chao/snow-shot) : 超好用的截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mg-chao/snow-shot) ![GitHub Release Date](https://img.shields.io/github/release-date/mg-chao/snow-shot)
-- [CopyQ](https://github.com/hluk/CopyQ) : 具有高级功能的剪贴板管理器 ![GitHub Repo stars](https://img.shields.io/github/stars/hluk/CopyQ?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hluk/CopyQ) ![GitHub Release Date](https://img.shields.io/github/release-date/hluk/CopyQ)
+
+## 剪贴板工具
+
+| 名称 | 描述 | 信息 |
+| --- | --- | --- |
+| [CopyQ](https://github.com/hluk/CopyQ) | 具有高级功能的剪贴板管理器 | ![GitHub Repo stars](https://img.shields.io/github/stars/hluk/CopyQ?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hluk/CopyQ) ![GitHub Release Date](https://img.shields.io/github/release-date/hluk/CopyQ) |
+| [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 跨平台的剪贴板管理工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste) ![GitHub Release Date](https://img.shields.io/github/release-date/EcoPasteHub/EcoPaste) |
+| [Ditto](https://github.com/sabrogden/Ditto) | windows剪贴板增强 | ![GitHub Repo stars](https://img.shields.io/github/stars/sabrogden/Ditto?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sabrogden/Ditto) ![GitHub Release Date](https://img.shields.io/github/release-date/sabrogden/Ditto) |
+| [QuickClipboard](https://github.com/mosheng1/QuickClipboard) | 剪贴板增强工具, 支持截图贴图 | ![GitHub Repo stars](https://img.shields.io/github/stars/mosheng1/QuickClipboard?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mosheng1/QuickClipboard) ![GitHub Release Date](https://img.shields.io/github/release-date/mosheng1/QuickClipboard) |
+
 
 # 编辑器
 
@@ -182,6 +189,7 @@ A list of awesome softwares.
 
 ## 优化
 
+- [winutil](https://github.com/ChrisTitusTech/winutil) : `Windows` 系统管理工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChrisTitusTech/winutil) ![GitHub Release Date](https://img.shields.io/github/release-date/ChrisTitusTech/winutil)
 - [optimizer](https://github.com/hellzerg/optimizer) : `Windows` 系统优化 ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer) ![GitHub Release Date](https://img.shields.io/github/release-date/hellzerg/optimizer)
 - [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) : 轻便的Windows优化工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ZyperWave/ZyperWinOptimize) ![GitHub Release Date](https://img.shields.io/github/release-date/ZyperWave/ZyperWinOptimize)
 
@@ -290,6 +298,9 @@ A list of awesome softwares.
 
 # 图片
 
+- [HoneyView](https://www.bandisoft.com/honeyview/)
+- [ImageGlass](https://github.com/d2phap/ImageGlass) : 图片查看器 ![GitHub Repo stars](https://img.shields.io/github/stars/d2phap/ImageGlass?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/d2phap/ImageGlass) ![GitHub Release Date](https://img.shields.io/github/release-date/d2phap/ImageGlass)
+- [PicView](https://github.com/Ruben2776/PicView) : 图片查看器 ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Ruben2776/PicView) ![GitHub Release Date](https://img.shields.io/github/release-date/Ruben2776/PicView)
 - [upscayl](https://github.com/upscayl/upscayl) : 放大和增强低分辨率图像 ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/upscayl/upscayl) ![GitHub Release Date](https://img.shields.io/github/release-date/upscayl/upscayl)
 - [Final2x](https://github.com/EutropicAI/Final2x) : 图像超分辨率工具 ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x) ![GitHub Release Date](https://img.shields.io/github/release-date/EutropicAI/Final2x)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) : 轻量级的AI证件照制作工具 ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos) ![GitHub Release Date](https://img.shields.io/github/release-date/Zeyi-Lin/HivisionIDPhotos)
