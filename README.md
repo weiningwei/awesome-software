@@ -3,6 +3,7 @@ A list of awesome softwares.
 
 - [awesome-software](#awesome-software)
 - [tools](#tools)
+  - [截图工具](#截图工具)
   - [剪贴板工具](#剪贴板工具)
 - [编辑器](#编辑器)
 - [字体](#字体)
@@ -41,11 +42,6 @@ A list of awesome softwares.
 
 # tools
 
-- [PixPin](https://pixpin.cn/) : 截图工具
-- [Snipaste](https://www.snipaste.com/) : 截图工具
-- [eSearch](https://github.com/xushengfeng/eSearch) : 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译 ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch) ![GitHub Release Date](https://img.shields.io/github/release-date/xushengfeng/eSearch)
-- [ShareX](https://github.com/ShareX/ShareX) : 截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX) ![GitHub Release Date](https://img.shields.io/github/release-date/ShareX/ShareX)
-- [pear-rec](https://github.com/027xiguapi/pear-rec) ： 截屏、录屏和录音软件 ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec) ![GitHub Release Date](https://img.shields.io/github/release-date/027xiguapi/pear-rec)
 - [7zip](https://www.7-zip.org/) : 解压软件
 - [Listary](https://www.listary.com/) : 搜索文件, 快速跳转
 - [Bandizip](https://www.bandisoft.com/bandizip/) : 自动解压
@@ -66,7 +62,17 @@ A list of awesome softwares.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) ： Windows音量控制工具 ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
 - [Monit](https://github.com/fzf404/Monit) : 桌面小组件 ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit) ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit)
 - [Pake](https://github.com/tw93/Pake) : 网页生成轻量桌面应用 ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake)
-- [snow-shot](https://github.com/mg-chao/snow-shot) : 超好用的截图工具 ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mg-chao/snow-shot) ![GitHub Release Date](https://img.shields.io/github/release-date/mg-chao/snow-shot)
+
+## 截图工具
+
+| 名称 | 描述 | 信息 |
+| --- | --- | --- |
+| [PixPin](https://pixpin.cn/) |
+| [Snipaste](https://www.snipaste.com/) | Snip & Paste |
+| [ShareX](https://github.com/ShareX/ShareX) | 截图工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ShareX/ShareX) ![GitHub Release Date](https://img.shields.io/github/release-date/ShareX/ShareX) |
+| [eSearch](https://github.com/xushengfeng/eSearch) | 截屏 离线OCR | ![GitHub Repo stars](https://img.shields.io/github/stars/xushengfeng/eSearch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xushengfeng/eSearch) ![GitHub Release Date](https://img.shields.io/github/release-date/xushengfeng/eSearch) |
+| [snow-shot](https://github.com/mg-chao/snow-shot) | 超好用的截图工具 | ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mg-chao/snow-shot) ![GitHub Release Date](https://img.shields.io/github/release-date/mg-chao/snow-shot) |
+| [pear-rec](https://github.com/027xiguapi/pear-rec) | 截屏、录屏和录音软件 | ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec) ![GitHub Release Date](https://img.shields.io/github/release-date/027xiguapi/pear-rec) |
 
 ## 剪贴板工具
 
