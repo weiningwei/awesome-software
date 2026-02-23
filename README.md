@@ -26,6 +26,7 @@ A list of awesome softwares.
   - [包管理器](#包管理器)
 - [翻译](#翻译)
 - [下载器](#下载器)
+- [录屏](#录屏)
 - [视频](#视频)
   - [下载(m3u8)](#下载m3u8)
   - [播放](#播放)
@@ -235,6 +236,11 @@ A list of awesome softwares.
 - [gopeed](https://github.com/GopeedLab/gopeed) ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GopeedLab/gopeed) ![GitHub Release Date](https://img.shields.io/github/release-date/GopeedLab/gopeed)
 - [ab-download-manager](https://github.com/amir1376/ab-download-manager) ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/amir1376/ab-download-manager) ![GitHub Release Date](https://img.shields.io/github/release-date/amir1376/ab-download-manager)
 - [varia](https://github.com/giantpinkrobots/varia) ![GitHub Repo stars](https://img.shields.io/github/stars/giantpinkrobots/varia?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/giantpinkrobots/varia) ![GitHub Release Date](https://img.shields.io/github/release-date/giantpinkrobots/varia)
+
+# 录屏
+
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) : 录屏软件 ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/NickeManarin/ScreenToGif) ![GitHub Release Date](https://img.shields.io/github/release-date/NickeManarin/ScreenToGif)
+- [Cap](https://github.com/CapSoftware/Cap) : 录屏软件 ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CapSoftware/Cap) ![GitHub Release Date](https://img.shields.io/github/release-date/CapSoftware/Cap)
 
 # 视频
 
