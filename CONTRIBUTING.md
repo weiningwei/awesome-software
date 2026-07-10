@@ -55,6 +55,7 @@ GitHub 托管的条目，统一使用 [shields.io](https://shields.io) 徽章，
 - `owner/repo` 需替换为真实路径，且必须与条目链接指向同一仓库
 - 非 GitHub 项目（如官网、GitLab）不添加上述徽章
 - 不要添加 CI / build 状态等无关徽章
+- release 日期徽章采用 shields.io 默认显示样式（仅月份，或非当年时显示 月份+年份，如 `may 2023`），目前不支持 `YYYY-MM-DD` 数字格式
 
 ## 如何添加一款软件
 
