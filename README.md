@@ -142,6 +142,7 @@ A list of awesome softwares.
 - [czkawka](https://github.com/qarmin/czkawka) - 多功能文件清理工具。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/qarmin/czkawka?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/qarmin/czkawka?style=flat)
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - 基于 DISM 的 Windows 系统优化与清理工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chuyu-Team/Dism-Multi-language?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Chuyu-Team/Dism-Multi-language?style=flat)
 - [bleachbit](https://github.com/bleachbit/bleachbit) - 文件清理。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bleachbit/bleachbit?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/bleachbit/bleachbit?style=flat)
+- [WindirStat](https://github.com/windirstat/windirstat) - 磁盘空间使用统计查看与清理工具。 `Windows` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/windirstat/windirstat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/windirstat/windirstat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/windirstat/windirstat?style=flat)
 
 ### 包管理器
 
