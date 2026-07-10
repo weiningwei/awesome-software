@@ -89,7 +89,7 @@ A list of awesome softwares.
 ## 局域网传输
 
 - [localsend](https://github.com/localsend/localsend) - 局域网文件传输。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?style=flat)
-- [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网文件传输。 `跨平台` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/LANDrop/LANDrop?style=flat)
+- [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网文件传输。 `跨平台` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/LANDrop/LANDrop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/LANDrop/LANDrop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/LANDrop/LANDrop?style=flat)
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/deskflow/deskflow?style=flat)
 
 ## 网页转桌面
@@ -125,7 +125,7 @@ A list of awesome softwares.
 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - 通过Alt键移动窗口。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/RamonUnch/Altsnap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RamonUnch/Altsnap?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/RamonUnch/Altsnap?style=flat)
 - [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - windows显示器亮度管理。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xanderfrangos/twinkle-tray?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xanderfrangos/twinkle-tray?style=flat)
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Windows音量控制工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat)
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Windows音量控制工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/File-New-Project/EarTrumpet?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/File-New-Project/EarTrumpet?style=flat)
 - [InputTip](https://github.com/abgox/InputTip) - 输入法状态管理工具。 `Windows` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/abgox/InputTip?style=flat)
 - [RedDot](https://github.com/Autumn-one/RedDot) - 光标处显示中英文状态。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Autumn-one/RedDot?style=flat)
 
@@ -193,19 +193,19 @@ A list of awesome softwares.
 - [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/database64128/youtube-dl-wpf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/database64128/youtube-dl-wpf?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/database64128/youtube-dl-wpf?style=flat)
 - [Vividl](https://github.com/Bluegrams/Vividl) - yt-dlp 的 Windows 图形界面。 `Windows` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Bluegrams/Vividl?style=flat)
 - [YTSage](https://github.com/oop7/YTSage) - YouTube下载器。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/oop7/YTSage?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/oop7/YTSage?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/oop7/YTSage?style=flat)
-- [downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/leiurayer/downkyi?style=flat)
+- [downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/leiurayer/downkyi?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/leiurayer/downkyi?style=flat)
 
 ### 网络加速
 
 - [Xget](https://github.com/xixu-me/Xget) - 资源加速引擎。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xixu-me/Xget?style=flat)
-- [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 同步github的hosts工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/fetch-github-hosts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Licoy/fetch-github-hosts?style=flat)
+- [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 同步github的hosts工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/fetch-github-hosts?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Licoy/fetch-github-hosts?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Licoy/fetch-github-hosts?style=flat)
 
 ## 开发工具
 
 ### 编辑器
 
 - [Sublime Text](https://www.sublimetext.com/) - 跨平台代码编辑器。 `跨平台`
-- [VSCode](https://github.com/microsoft/vscode) - 微软跨平台代码编辑器。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode?style=flat)
+- [VSCode](https://github.com/microsoft/vscode) - 微软跨平台代码编辑器。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/microsoft/vscode?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/microsoft/vscode?style=flat)
 - [zed](https://github.com/zed-industries/zed) - Rust 编写的跨平台代码编辑器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zed-industries/zed?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zed-industries/zed?style=flat)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) - Windows 免费代码编辑器。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/notepad-plus-plus/notepad-plus-plus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/notepad-plus-plus/notepad-plus-plus?style=flat)
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad++ 的跨平台重新实现。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/dail8859/NotepadNext?style=flat)
