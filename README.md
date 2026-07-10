@@ -134,6 +134,7 @@ A list of awesome softwares.
 - [winutil](https://github.com/ChrisTitusTech/winutil) - `Windows` 系统管理工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChrisTitusTech/winutil?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ChrisTitusTech/winutil?style=flat)
 - [optimizer](https://github.com/hellzerg/optimizer) - `Windows` 系统优化。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hellzerg/optimizer?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hellzerg/optimizer?style=flat)
 - [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - 轻便的Windows优化工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ZyperWave/ZyperWinOptimize?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ZyperWave/ZyperWinOptimize?style=flat)
+- [defendnot](https://github.com/es3n1n/defendnot) - 通过 WSC API 禁用 Windows Defender 的工具。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/es3n1n/defendnot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/es3n1n/defendnot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/es3n1n/defendnot?style=flat)
 
 ### 清理与卸载
 
