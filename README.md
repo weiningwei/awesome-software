@@ -7,7 +7,7 @@ A list of awesome softwares.
   - [录屏](#录屏)
 - [剪贴板](#剪贴板)
 - [文件搜索与启动](#文件搜索与启动)
-- [文字识别与翻译](#文字识别与翻译)
+- [识别与翻译](#识别与翻译)
 - [局域网传输](#局域网传输)
 - [网页转桌面](#网页转桌面)
 - [系统工具](#系统工具)
@@ -39,14 +39,11 @@ A list of awesome softwares.
   - [聊天与助手](#聊天与助手)
 - [多媒体](#多媒体)
   - [视频播放](#视频播放)
-  - [视频剪辑](#视频剪辑)
-  - [视频转码](#视频转码)
+  - [视频剪辑与转码](#视频剪辑与转码)
   - [直播](#直播)
-  - [动漫](#动漫)
   - [B站](#b站)
   - [音乐](#音乐)
   - [图片](#图片)
-  - [音频](#音频)
 - [文档与阅读](#文档与阅读)
 - [网站](#网站)
 
@@ -80,12 +77,14 @@ A list of awesome softwares.
 - [rubick](https://github.com/rubickCenter/rubick) - 效率工具箱。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick) ![GitHub Release Date](https://img.shields.io/github/release-date/rubickCenter/rubick)
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk) - 桌面快速启动工具。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk) ![GitHub Release Date](https://img.shields.io/github/release-date/BookerLiu/GeekDesk)
 
-## 文字识别与翻译
+## 识别与翻译
 
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 离线OCR软件。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR) ![GitHub Release Date](https://img.shields.io/github/release-date/hiroi-sora/Umi-OCR)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 一个跨平台的划词翻译和OCR软件。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pot-app/pot-desktop) ![GitHub Release Date](https://img.shields.io/github/release-date/pot-app/pot-desktop)
 - [TTime](https://github.com/InkTimeRecord/TTime) - 截图、划词、文字识别、AI、翻译软件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/InkTimeRecord/TTime?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/InkTimeRecord/TTime) ![GitHub Release Date](https://img.shields.io/github/release-date/InkTimeRecord/TTime)
 - [stranslate](https://github.com/zggsong/stranslate) - 即用即走的翻译、OCR工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/zggsong/stranslate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zggsong/stranslate) ![GitHub Release Date](https://img.shields.io/github/release-date/zggsong/stranslate)
+- [buzz](https://github.com/chidiwilliams/buzz) - 离线转录和翻译音频。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz) ![GitHub Release Date](https://img.shields.io/github/release-date/chidiwilliams/buzz)
+- [Whisper](https://github.com/Const-me/Whisper) - 语音识别工具。 `Windows` `MPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper) ![GitHub Release Date](https://img.shields.io/github/release-date/Const-me/Whisper)
 
 ## 局域网传输
 
@@ -297,14 +296,12 @@ A list of awesome softwares.
 - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - 通用音频和视频播放器。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Aleksoid1978/MPC-BE) ![GitHub Release Date](https://img.shields.io/github/release-date/Aleksoid1978/MPC-BE)
 - [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - 全功能弹幕播放器。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/KikoPlayProject/KikoPlay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KikoPlayProject/KikoPlay) ![GitHub Release Date](https://img.shields.io/github/release-date/KikoPlayProject/KikoPlay)
 - [弹弹play](https://github.com/kaedei/dandanplay) - 全功能本地视频+弹幕播放器。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/kaedei/dandanplay?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/kaedei/dandanplay) ![GitHub Release Date](https://img.shields.io/github/release-date/kaedei/dandanplay)
+- [animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko) ![GitHub Release Date](https://img.shields.io/github/release-date/open-ani/animeko)
 
-### 视频剪辑
+### 视频剪辑与转码
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenCut-app/OpenCut) ![GitHub Release Date](https://img.shields.io/github/release-date/OpenCut-app/OpenCut)
 - [lossless-cut](https://github.com/mifi/lossless-cut) `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut) ![GitHub Release Date](https://img.shields.io/github/release-date/mifi/lossless-cut)
-
-### 视频转码
-
 - [HandBrake](https://github.com/HandBrake/HandBrake) - 跨平台视频转码软件。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake) ![GitHub Release Date](https://img.shields.io/github/release-date/HandBrake/HandBrake)
 
 ### 直播
@@ -313,10 +310,6 @@ A list of awesome softwares.
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat)
 - [dtv](https://github.com/chen-zeong/dtv) - 跨平台直播桌面客户端。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv) ![GitHub Release Date](https://img.shields.io/github/release-date/chen-zeong/dtv)
 - [pure_live](https://github.com/liuchuancong/pure_live) - 纯粹直播。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live) ![GitHub Release Date](https://img.shields.io/github/release-date/liuchuancong/pure_live)
-
-### 动漫
-
-- [animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/open-ani/animeko) ![GitHub Release Date](https://img.shields.io/github/release-date/open-ani/animeko)
 
 ### B站
 
@@ -345,11 +338,6 @@ A list of awesome softwares.
 - [Final2x](https://github.com/EutropicAI/Final2x) - 图像超分辨率工具。 `跨平台` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x) ![GitHub Release Date](https://img.shields.io/github/release-date/EutropicAI/Final2x)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 轻量级的AI证件照制作工具。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos) ![GitHub Release Date](https://img.shields.io/github/release-date/Zeyi-Lin/HivisionIDPhotos)
 - [LiYing](https://github.com/aoguai/LiYing) - 完成一般照相馆后期证件照处理流程的照片自动处理的工具。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing) ![GitHub Release Date](https://img.shields.io/github/release-date/aoguai/LiYing)
-
-### 音频
-
-- [buzz](https://github.com/chidiwilliams/buzz) - 离线转录和翻译音频。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz) ![GitHub Release Date](https://img.shields.io/github/release-date/chidiwilliams/buzz)
-- [Whisper](https://github.com/Const-me/Whisper) - 语音识别工具。 `Windows` `MPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper) ![GitHub Release Date](https://img.shields.io/github/release-date/Const-me/Whisper)
 
 ## 文档与阅读
 
