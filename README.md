@@ -62,6 +62,7 @@ A list of awesome softwares.
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏软件。 `Windows` `MS-PL` ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/NickeManarin/ScreenToGif?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/NickeManarin/ScreenToGif?style=flat)
 - [Cap](https://github.com/CapSoftware/Cap) - 录屏软件。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CapSoftware/Cap?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/CapSoftware/Cap?style=flat)
+- [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/zetaloop/keyviz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zetaloop/keyviz?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zetaloop/keyviz?style=flat)
 
 ## 剪贴板
 
