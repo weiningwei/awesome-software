@@ -152,6 +152,7 @@ A list of awesome softwares.
 - [QDirStat](https://github.com/shundhammer/qdirstat) - 基于 Qt 的磁盘空间使用统计查看工具。 `Linux` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/shundhammer/qdirstat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/shundhammer/qdirstat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/shundhammer/qdirstat?style=flat)
 - [FluentCleaner](https://github.com/builtbybel/FluentCleaner) - 基于 WinUI 3 的 Windows 系统清理工具（支持终端控制和多数据库）。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/builtbybel/FluentCleaner?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/builtbybel/FluentCleaner?style=flat)
 - [LightC](https://github.com/Chunyu33/light-c) - 免费、极简、轻量且高性能的C盘智能清理工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/Chunyu33/light-c?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chunyu33/light-c?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Chunyu33/light-c?style=flat)
+- [MangoDisk](https://github.com/harry0703/MangoDisk) - 以安全为首要考量的磁盘清理与磁盘空间分析工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/harry0703/MangoDisk?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/harry0703/MangoDisk?style=flat)
 
 ### 包管理器
 
