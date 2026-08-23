@@ -364,6 +364,7 @@ A list of awesome softwares.
 - [Final2x](https://github.com/EutropicAI/Final2x) - 图像超分辨率工具。 `跨平台` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/EutropicAI/Final2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EutropicAI/Final2x?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/EutropicAI/Final2x?style=flat)
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 轻量级的AI证件照制作工具。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Zeyi-Lin/HivisionIDPhotos?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Zeyi-Lin/HivisionIDPhotos?style=flat)
 - [LiYing](https://github.com/aoguai/LiYing) - 完成一般照相馆后期证件照处理流程的照片自动处理的工具。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/aoguai/LiYing?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aoguai/LiYing?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/aoguai/LiYing?style=flat)
+- [image-matting](https://github.com/pangxiaobin/image-matting) - 基于本地模型的 AI 抠图工具，支持批量抠图、证件照与图片格式转换、压缩。 `Windows` `CC BY-NC 4.0` ![GitHub Repo stars](https://img.shields.io/github/stars/pangxiaobin/image-matting?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pangxiaobin/image-matting?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/pangxiaobin/image-matting?style=flat)
 
 ## 文档与阅读
 
