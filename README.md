@@ -37,6 +37,7 @@ A list of awesome softwares.
   - [代码对比](#代码对比)
 - [AI 工具](#ai-工具)
   - [聊天与助手](#聊天与助手)
+  - [AI 编程工具](#ai-编程工具)
 - [多媒体](#多媒体)
   - [视频播放](#视频播放)
   - [视频剪辑与转码](#视频剪辑与转码)
@@ -296,6 +297,11 @@ A list of awesome softwares.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - 跨平台 ChatGPT/Web AI 客户端。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ChatGPTNextWeb/NextChat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ChatGPTNextWeb/NextChat?style=flat)
 - [chatbox](https://github.com/chatboxai/chatbox) - 跨平台 AI 桌面客户端，支持多模型。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chatboxai/chatbox?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/chatboxai/chatbox?style=flat)
 - [Everywhere](https://github.com/DearVa/Everywhere) - 交互式 AI 助手。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/DearVa/Everywhere?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DearVa/Everywhere?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/DearVa/Everywhere?style=flat)
+
+### AI 编程工具
+
+- [CC Switch](https://github.com/farion1231/cc-switch) - 跨平台的 Claude Code、Codex 等 AI 编程工具配置与切换管理器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/farion1231/cc-switch?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/farion1231/cc-switch?style=flat)
+- [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) - 面向 OpenAI Codex / ChatGPT 桌面应用的外部启动器与管理工具，支持供应商切换、会话管理和界面增强。 `Windows` `macOS` ![GitHub Repo stars](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BigPizzaV3/CodexPlusPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/BigPizzaV3/CodexPlusPlus?style=flat)
 
 ## 多媒体
 
