@@ -377,6 +377,7 @@ A list of awesome softwares.
 - [pdfarranger](https://github.com/pdfarranger/pdfarranger) - 合并或拆分PDF文档并旋转、裁剪和重新排列PDF。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pdfarranger/pdfarranger?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/pdfarranger/pdfarranger?style=flat)
 - [okular](https://github.com/KDE/okular) - KDE 出品的跨平台文档查看器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/okular?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KDE/okular?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/KDE/okular?style=flat)
 - [FileConverter](https://github.com/Tichau/FileConverter) - 文件转换工具。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Tichau/FileConverter?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Tichau/FileConverter?style=flat)
+- [ColorTxt](https://github.com/ssnangua/ColorTxt) - 本地 TXT 小说阅读器，支持内容上色、AI 阅读辅助与多格式电子书导入。 `跨平台` `MPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/ssnangua/ColorTxt?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ssnangua/ColorTxt?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ssnangua/ColorTxt?style=flat)
 
 ## 网站
 
