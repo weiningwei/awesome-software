@@ -157,6 +157,7 @@ A list of awesome softwares.
 - [LightC](https://github.com/Chunyu33/light-c) - 免费、极简、轻量且高性能的C盘智能清理工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/Chunyu33/light-c?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Chunyu33/light-c?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Chunyu33/light-c?style=flat)
 - [MangoDisk](https://github.com/harry0703/MangoDisk) - 以安全为首要考量的磁盘清理与磁盘空间分析工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/harry0703/MangoDisk?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/harry0703/MangoDisk?style=flat)
 - [RogueCleaner](https://github.com/aakk007/RogueCleaner) - 流氓软件克星，扫描并清理右键菜单、自启项、计划任务、服务与浏览器插件等残留。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/aakk007/RogueCleaner?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aakk007/RogueCleaner?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/aakk007/RogueCleaner?style=flat)
+- [WhoShitsOnMyC](https://github.com/Kami958/WhoShitsonMyC) - 磁盘空间变化对比轻量小工具，通过快照对比找出占用空间的文件。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Kami958/WhoShitsonMyC?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Kami958/WhoShitsonMyC?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Kami958/WhoShitsonMyC?style=flat)
 
 ### 包管理器
 
