@@ -79,6 +79,7 @@ A list of awesome softwares.
 - [rubick](https://github.com/rubickCenter/rubick) - 效率工具箱。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/rubickCenter/rubick?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rubickCenter/rubick?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/rubickCenter/rubick?style=flat)
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk) - 桌面快速启动工具。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/BookerLiu/GeekDesk?style=flat)
 - [SwiftList](https://github.com/SwiftList/SwiftList) - 毫秒级本地文件搜索与启动工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/SwiftList/SwiftList?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SwiftList/SwiftList?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/SwiftList/SwiftList?style=flat)
+- [Lertaro](https://github.com/Lertaro/Lertaro) - 全局文件搜索与生产力启动器，Listary 和 Everything 的开源替代。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Lertaro/Lertaro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Lertaro/Lertaro?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Lertaro/Lertaro?style=flat)
 
 ## 识别与翻译
 
