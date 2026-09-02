@@ -310,6 +310,7 @@ A list of awesome softwares.
 
 - [CC Switch](https://github.com/farion1231/cc-switch) - 跨平台的 Claude Code、Codex 等 AI 编程工具配置与切换管理器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/farion1231/cc-switch?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/farion1231/cc-switch?style=flat)
 - [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) - 面向 OpenAI Codex / ChatGPT 桌面应用的外部启动器与管理工具，支持供应商切换、会话管理和界面增强。 `Windows` `macOS` ![GitHub Repo stars](https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BigPizzaV3/CodexPlusPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/BigPizzaV3/CodexPlusPlus?style=flat)
+- [Skills Manager](https://github.com/xingkongliang/skills-manager) - 统一管理、同步和部署 AI 编程工具技能的桌面应用，支持 50+ 工具。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xingkongliang/skills-manager?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xingkongliang/skills-manager?style=flat)
 
 ## 多媒体
 
