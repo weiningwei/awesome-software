@@ -135,6 +135,7 @@ A list of awesome softwares.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Windows音量控制工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/File-New-Project/EarTrumpet?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/File-New-Project/EarTrumpet?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/File-New-Project/EarTrumpet?style=flat)
 - [InputTip](https://github.com/abgox/InputTip) - 输入法状态管理工具。 `Windows` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/abgox/InputTip?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/abgox/InputTip?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/abgox/InputTip?style=flat)
 - [RedDot](https://github.com/Autumn-one/RedDot) - 光标处显示中英文状态。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/Autumn-one/RedDot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Autumn-one/RedDot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Autumn-one/RedDot?style=flat)
+- [PeekDesktop](https://github.com/shanselman/PeekDesktop) - 点击桌面或任务栏空白处即可显示桌面，将 macOS Sonoma 的这一特性带到 Windows。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/shanselman/PeekDesktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/shanselman/PeekDesktop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/shanselman/PeekDesktop?style=flat)
 
 ### 系统优化
 
