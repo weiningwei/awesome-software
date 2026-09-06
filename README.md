@@ -92,6 +92,7 @@ A list of awesome softwares.
 - [stranslate](https://github.com/zggsong/stranslate) - 即用即走的翻译、OCR工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/zggsong/stranslate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zggsong/stranslate?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zggsong/stranslate?style=flat)
 - [buzz](https://github.com/chidiwilliams/buzz) - 离线转录和翻译音频。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chidiwilliams/buzz?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/chidiwilliams/buzz?style=flat)
 - [Whisper](https://github.com/Const-me/Whisper) - 语音识别工具。 `Windows` `MPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Const-me/Whisper?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Const-me/Whisper?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Const-me/Whisper?style=flat)
+- [SmartSub](https://github.com/buxuku/SmartSub) - 基于本地 Whisper / FunASR 等模型的离线语音转字幕工具，支持字幕翻译、AI 配音与声音克隆、字幕烧录。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/buxuku/SmartSub?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/buxuku/SmartSub?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/buxuku/SmartSub?style=flat)
 
 ## 局域网传输
 
