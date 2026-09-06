@@ -9,6 +9,7 @@ A list of awesome softwares.
 - [文件搜索与启动](#文件搜索与启动)
 - [识别与翻译](#识别与翻译)
 - [局域网传输](#局域网传输)
+- [远程桌面](#远程桌面)
 - [网页转桌面](#网页转桌面)
 - [系统工具](#系统工具)
   - [压缩与解压](#压缩与解压)
@@ -64,6 +65,8 @@ A list of awesome softwares.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录屏软件。 `Windows` `MS-PL` ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/NickeManarin/ScreenToGif?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/NickeManarin/ScreenToGif?style=flat)
 - [Cap](https://github.com/CapSoftware/Cap) - 录屏软件。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CapSoftware/Cap?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/CapSoftware/Cap?style=flat)
 - [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/zetaloop/keyviz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zetaloop/keyviz?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zetaloop/keyviz?style=flat)
+- [capptivo](https://github.com/SECHAK-AG/capptivo) - 面向产品演示的屏幕录制工具，支持自动缩放、光标美化与画面样式。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/SECHAK-AG/capptivo?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SECHAK-AG/capptivo?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/SECHAK-AG/capptivo?style=flat)
+- [Recordly](https://github.com/webadderallorg/Recordly) - 屏幕录制与演示视频编辑工具，内置自动缩放、光标美化、摄像头气泡与画框样式。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/webadderallorg/Recordly?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/webadderallorg/Recordly?style=flat)
 
 ## 剪贴板
 
@@ -95,6 +98,10 @@ A list of awesome softwares.
 - [localsend](https://github.com/localsend/localsend) - 局域网文件传输。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?style=flat)
 - [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网文件传输。 `跨平台` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/LANDrop/LANDrop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/LANDrop/LANDrop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/LANDrop/LANDrop?style=flat)
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/deskflow/deskflow?style=flat)
+
+## 远程桌面
+
+- [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 基于 RustDesk 的局域网远程桌面工具，仅在本地网络内直连，不经公网中转。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/zibo-chen/SubnetDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zibo-chen/SubnetDesk?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zibo-chen/SubnetDesk?style=flat)
 
 ## 网页转桌面
 
