@@ -119,6 +119,7 @@ A list of awesome softwares.
 - [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/memreduct?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/henrypp/memreduct?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/henrypp/memreduct?style=flat)
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/TrafficMonitor?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zhongyang219/TrafficMonitor?style=flat)
 - [Monit](https://github.com/fzf404/Monit) - 桌面小组件。 `macOS` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/fzf404/Monit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/fzf404/Monit?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit?style=flat)
+- [NexBox](https://github.com/MuLiuSaMa/NexBox) - 面向 PC 玩家的性能工具箱，集成硬件与帧率监控、游戏内叠加显示、系统优化和准心等辅助功能。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/MuLiuSaMa/NexBox?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/MuLiuSaMa/NexBox?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/MuLiuSaMa/NexBox?style=flat)
 
 ### 使用统计
 
