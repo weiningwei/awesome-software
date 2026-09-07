@@ -345,6 +345,7 @@ A list of awesome softwares.
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 跨平台开源视频剪辑器。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenCut-app/OpenCut?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/OpenCut-app/OpenCut?style=flat)
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 跨平台无损视频剪辑工具。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/mifi/lossless-cut?style=flat)
 - [HandBrake](https://github.com/HandBrake/HandBrake) - 跨平台视频转码软件。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/HandBrake/HandBrake?style=flat)
+- [CompressO](https://github.com/codeforreal1/compressO) - 基于 FFmpeg 的离线视频与图片压缩工具，支持批量压缩与字幕嵌入。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/codeforreal1/compressO?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codeforreal1/compressO?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/codeforreal1/compressO?style=flat)
 
 ### 直播
 
