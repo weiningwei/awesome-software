@@ -243,6 +243,7 @@ A list of awesome softwares.
 - [NotepadNext](https://github.com/dail8859/NotepadNext) - Notepad++ 的跨平台重新实现。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/dail8859/NotepadNext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dail8859/NotepadNext?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/dail8859/NotepadNext?style=flat)
 - [Notepad3](https://github.com/rizonesoft/Notepad3) - 轻量级 Windows 文本编辑器（Notepad2 衍生）。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/rizonesoft/Notepad3?style=flat)
 - [notepad4](https://github.com/zufuliu/notepad4) - 轻量级 Windows 文本编辑器（Notepad2 衍生）。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zufuliu/notepad4?style=flat)
+- [SideX](https://github.com/Sidenai/sidex) - 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Sidenai/sidex?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Sidenai/sidex?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Sidenai/sidex?style=flat)
 
 ### 字体
 
