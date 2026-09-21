@@ -140,6 +140,7 @@ A list of awesome softwares.
 - [Sucrose](https://github.com/Taiizor/Sucrose) - 动态壁纸引擎，支持多种交互式动态壁纸。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Taiizor/Sucrose?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Taiizor/Sucrose?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Taiizor/Sucrose?style=flat)
 - [openFences](https://github.com/weiweigogo/openFrence) - 轻量级 Windows 桌面图标分组管理工具，Stardock Fences 的开源替代。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/weiweigogo/openFrence?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/weiweigogo/openFrence?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/weiweigogo/openFrence?style=flat)
 - [BongoCat](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/BongoCat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vladelaina/BongoCat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vladelaina/BongoCat?style=flat)
+- [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/ayangweb/BongoCat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ayangweb/BongoCat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ayangweb/BongoCat?style=flat)
 
 ### 窗口与桌面工具
 
