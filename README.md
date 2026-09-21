@@ -84,6 +84,7 @@ A list of awesome softwares.
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk) - 桌面快速启动工具。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/BookerLiu/GeekDesk?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/BookerLiu/GeekDesk?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/BookerLiu/GeekDesk?style=flat)
 - [SwiftList](https://github.com/SwiftList/SwiftList) - 毫秒级本地文件搜索与启动工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/SwiftList/SwiftList?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SwiftList/SwiftList?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/SwiftList/SwiftList?style=flat)
 - [Lertaro](https://github.com/Lertaro/Lertaro) - 全局文件搜索与生产力启动器，Listary 和 Everything 的开源替代。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Lertaro/Lertaro?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Lertaro/Lertaro?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Lertaro/Lertaro?style=flat)
+- [PopDrop](https://github.com/hiforrest/PopDrop) - 按快捷键呼出置顶文件面板，集中查看、打开和拖放多个目录中的最新文件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/hiforrest/PopDrop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiforrest/PopDrop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hiforrest/PopDrop?style=flat)
 
 ## 识别与翻译
 
@@ -138,6 +139,7 @@ A list of awesome softwares.
 - [Sam Toki Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 适用于 Windows 的极简风格鼠标指针，包含多种指针方案。 `Windows` `CC BY-NC-SA 3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/SamToki/Sam-Toki-Mouse-Cursors?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/SamToki/Sam-Toki-Mouse-Cursors?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/SamToki/Sam-Toki-Mouse-Cursors?style=flat)
 - [Sucrose](https://github.com/Taiizor/Sucrose) - 动态壁纸引擎，支持多种交互式动态壁纸。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Taiizor/Sucrose?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Taiizor/Sucrose?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Taiizor/Sucrose?style=flat)
 - [openFences](https://github.com/weiweigogo/openFrence) - 轻量级 Windows 桌面图标分组管理工具，Stardock Fences 的开源替代。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/weiweigogo/openFrence?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/weiweigogo/openFrence?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/weiweigogo/openFrence?style=flat)
+- [BongoCat](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/BongoCat?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vladelaina/BongoCat?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vladelaina/BongoCat?style=flat)
 
 ### 窗口与桌面工具
 
