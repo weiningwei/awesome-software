@@ -285,6 +285,7 @@ A list of awesome softwares.
 - [shell360](https://github.com/nashaofu/shell360) - 跨平台 SSH 终端客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/nashaofu/shell360?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/nashaofu/shell360?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/nashaofu/shell360?style=flat)
 - [termora](https://github.com/TermoraDev/termora) - 跨平台 SSH/Telnet 终端客户端。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/TermoraDev/termora?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TermoraDev/termora?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/TermoraDev/termora?style=flat)
 - [Netcatty](https://github.com/binaricat/Netcatty) - 集 SSH 工作区、SFTP 文件管理与终端会话于一体的桌面客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/binaricat/Netcatty?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/binaricat/Netcatty?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/binaricat/Netcatty?style=flat)
+- [Pebrel](https://github.com/Kuddev/pebrel) - AI 原生、GPU 加速的 Windows 终端模拟器，支持 SSH、持久会话与分屏。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Kuddev/pebrel?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Kuddev/pebrel?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Kuddev/pebrel?style=flat)
 
 ### Git GUI
 
