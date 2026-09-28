@@ -412,6 +412,7 @@ A list of awesome softwares.
 - [okular](https://github.com/KDE/okular) - KDE 出品的跨平台文档查看器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/okular?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KDE/okular?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/KDE/okular?style=flat)
 - [FileConverter](https://github.com/Tichau/FileConverter) - 文件转换工具。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Tichau/FileConverter?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Tichau/FileConverter?style=flat)
 - [ColorTxt](https://github.com/ssnangua/ColorTxt) - 本地 TXT 小说阅读器，支持内容上色、AI 阅读辅助与多格式电子书导入。 `跨平台` `MPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/ssnangua/ColorTxt?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ssnangua/ColorTxt?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ssnangua/ColorTxt?style=flat)
+- [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - PDF 查看与编辑器，支持标注、测量、OCR 与 DWG/DXF 导入。 `跨平台` `LGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/OpenAEC-Foundation/open-pdf-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/OpenAEC-Foundation/open-pdf-studio?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/OpenAEC-Foundation/open-pdf-studio?style=flat)
 
 ## 网站
 
