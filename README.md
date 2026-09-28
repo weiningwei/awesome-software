@@ -358,6 +358,7 @@ A list of awesome softwares.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 跨平台无损视频剪辑工具。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mifi/lossless-cut?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/mifi/lossless-cut?style=flat)
 - [HandBrake](https://github.com/HandBrake/HandBrake) - 跨平台视频转码软件。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/HandBrake/HandBrake?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/HandBrake/HandBrake?style=flat)
 - [CompressO](https://github.com/codeforreal1/compressO) - 基于 FFmpeg 的离线视频与图片压缩工具，支持批量压缩与字幕嵌入。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/codeforreal1/compressO?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codeforreal1/compressO?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/codeforreal1/compressO?style=flat)
+- [video2x](https://github.com/k4yt3x/video2x) - 基于机器学习的视频超分辨率与帧插值工具，支持视频/图片放大与补帧。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/k4yt3x/video2x?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/k4yt3x/video2x?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/k4yt3x/video2x?style=flat)
 
 ### 直播
 
