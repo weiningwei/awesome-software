@@ -60,6 +60,7 @@ A list of awesome softwares.
 - [snow-shot](https://github.com/mg-chao/snow-shot) - 截图工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mg-chao/snow-shot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/mg-chao/snow-shot?style=flat)
 - [pear-rec](https://github.com/027xiguapi/pear-rec) - 截屏、录屏和录音软件。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/027xiguapi/pear-rec?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/027xiguapi/pear-rec?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/027xiguapi/pear-rec?style=flat)
 - [PixWit](https://github.com/yun-cun-li/PixWit) - 截图、录屏与简易视频剪辑工具，支持贴图、标注、OCR 与 GIF 转换。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/yun-cun-li/PixWit?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/yun-cun-li/PixWit?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/yun-cun-li/PixWit?style=flat)
+- [jietuba](https://github.com/1003129155/jietuba) - Windows 截图工具，支持长截图、标注、OCR、翻译、钉图、GIF 录制与剪贴板历史。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/1003129155/jietuba?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/1003129155/jietuba?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/1003129155/jietuba?style=flat)
 
 ### 录屏
 
