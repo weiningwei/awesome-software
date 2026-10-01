@@ -315,6 +315,7 @@ A list of awesome softwares.
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 跨平台数据库可视化管理客户端。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/beekeeper-studio/beekeeper-studio?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/beekeeper-studio/beekeeper-studio?style=flat)
 - [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - `SQLite` 数据库管理器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pawelsalawa/sqlitestudio?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/pawelsalawa/sqlitestudio?style=flat)
 - [dbgate](https://github.com/dbgate/dbgate) - 数据库管理工具。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/dbgate/dbgate?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/dbgate/dbgate?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/dbgate/dbgate?style=flat)
+- [dbx](https://github.com/t8y2/dbx) - 支持 100+ 数据库的跨平台客户端，提供桌面端、CLI、Docker 与内置 AI 和 MCP 服务。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/t8y2/dbx?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/t8y2/dbx?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/t8y2/dbx?style=flat)
 
 ### 代码对比
 
