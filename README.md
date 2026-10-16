@@ -13,6 +13,7 @@ A list of awesome softwares.
 - [网页转桌面](#网页转桌面)
 - [系统工具](#系统工具)
   - [压缩与解压](#压缩与解压)
+  - [文件管理](#文件管理)
   - [系统监控](#系统监控)
   - [使用统计](#使用统计)
   - [桌面美化](#桌面美化)
@@ -120,6 +121,10 @@ A list of awesome softwares.
 
 - [7zip](https://www.7-zip.org/) - 解压软件。 `跨平台`
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 自动解压。 `Windows`
+
+### 文件管理
+
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/aleksey-hoffman/sigma-file-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aleksey-hoffman/sigma-file-manager) ![GitHub Release Date](https://img.shields.io/github/release-date/aleksey-hoffman/sigma-file-manager)
 
 ### 系统监控
 
