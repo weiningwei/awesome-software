@@ -362,7 +362,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 46 款软件</summary>
+<summary>展开 47 款软件</summary>
 
 #### 视频播放
 
@@ -397,6 +397,7 @@
 - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0`
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
+- [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 #### 音乐
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - LX Music 桌面版。 `跨平台` `Apache-2.0`
