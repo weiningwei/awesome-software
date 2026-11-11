@@ -1,0 +1,19 @@
+.github/workflows/readme-check.yml
+  s_b9914cdde4703e::t_0d03082577e1ed 15,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0fccdea337794ea1e66e6832b7bb2b0d9d091879",
+  "prompts": {},
+  "sessions": {
+    "s_b9914cdde4703e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ca8f-9dab-7500-9265-60f484544938",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
