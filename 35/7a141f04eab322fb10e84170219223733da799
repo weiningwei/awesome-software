@@ -1,0 +1,23 @@
+README.md
+  s_302fb62639078f::t_0d01fadba2e257 5,15,116,212
+  s_302fb62639078f::t_751e8aa64a843d 209-211
+lists/system.md
+  s_302fb62639078f::t_74a1d4ea1050e1 110
+  s_302fb62639078f::t_23bdec0bd1f9e4 107-109,111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "357a141f04eab322fb10e84170219223733da799",
+  "prompts": {},
+  "sessions": {
+    "s_302fb62639078f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1caee-f892-7633-a4c3-e2549e8990ca",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
