@@ -2,22 +2,22 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件清单，共收录 276 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 275 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
-- [截图与录屏](#截图与录屏) · 13 款
+- [截图与录屏](#截图与录屏) · 12 款
 - [剪贴板](#剪贴板) · 4 款
 - [文件搜索与启动](#文件搜索与启动) · 7 款
 - [识别与翻译](#识别与翻译) · 8 款
-- [局域网传输](#局域网传输) · 4 款
+- [局域网传输](#局域网传输) · 3 款
 - [远程桌面](#远程桌面) · 2 款
 - [网页转桌面](#网页转桌面) · 1 款
-- [系统工具](#系统工具) · 75 款
+- [系统工具](#系统工具) · 77 款
 - [下载](#下载) · 23 款
 - [开发工具](#开发工具) · 58 款
 - [AI 工具](#ai-工具) · 14 款
-- [多媒体](#多媒体) · 51 款
+- [多媒体](#多媒体) · 50 款
 - [文档与阅读](#文档与阅读) · 14 款
 - [网站](#网站) · 2 款
 
@@ -26,7 +26,7 @@
 ### [截图与录屏](lists/screenshot-recording.md)
 
 <details>
-<summary>展开 13 款软件</summary>
+<summary>展开 12 款软件</summary>
 
 #### 截图
 
@@ -42,7 +42,6 @@
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕并逐帧编辑，导出 GIF 或视频。 `Windows` `MS-PL`
 - [Cap](https://github.com/CapSoftware/Cap) - 开源录屏工具，生成可分享的演示视频。 `跨平台`
-- [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0`
 - [capptivo](https://github.com/SECHAK-AG/capptivo) - 面向产品演示的屏幕录制工具，支持自动缩放、光标美化与画面样式。 `跨平台` `MIT`
 - [Recordly](https://github.com/webadderallorg/Recordly) - 屏幕录制与演示视频编辑工具，内置自动缩放、光标美化、摄像头气泡与画框样式。 `跨平台` `AGPL-3.0`
 
@@ -94,11 +93,10 @@
 ### [局域网传输](lists/local-transfer.md)
 
 <details>
-<summary>展开 4 款软件</summary>
+<summary>展开 3 款软件</summary>
 
 - [localsend](https://github.com/localsend/localsend) - 局域网跨设备文件传输工具，无需互联网连接。 `跨平台` `Apache-2.0`
 - [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网传输工具，自动发现设备并支持拖放发送。 `跨平台` `BSD-3-Clause`
-- [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0`
 - [DashBeam](https://github.com/tonyantony300/dashbeam) - 局域网与跨网络文件传输工具，支持 mDNS 设备发现、链接分享与浏览器免安装接收。 `跨平台` `AGPL-3.0`
 
 </details>
@@ -125,7 +123,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 75 款软件</summary>
+<summary>展开 77 款软件</summary>
 
 #### 压缩与解压
 
@@ -169,6 +167,8 @@
 - [PeekDesktop](https://github.com/shanselman/PeekDesktop) - 点击桌面或任务栏空白处即可显示桌面，将 macOS Sonoma 的这一特性带到 Windows。 `Windows` `MIT`
 - [WindInput](https://github.com/huanfeng/WindInput) - 轻量、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼和双拼。 `跨平台` `MIT`
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT`
+- [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0`
+- [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0`
 #### 自动化与广告跳过
 
 - [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
@@ -379,7 +379,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 51 款软件</summary>
+<summary>展开 50 款软件</summary>
 
 #### 视频播放
 
@@ -412,7 +412,6 @@
 - [pure_live](https://github.com/liuchuancong/pure_live) - 聚合哔哩哔哩、虎牙、斗鱼等平台的直播客户端。 `跨平台` `AGPL-3.0`
 #### B站
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩 API 的整理与文档项目。 `跨平台`
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0`
 - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0`
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`

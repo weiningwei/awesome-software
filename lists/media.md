@@ -37,7 +37,6 @@
 
 ## B站
 
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩 API 的整理与文档项目。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/SocialSisterYi/bilibili-API-collect?style=flat)
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili?display_date=published_at&style=flat)
 - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Richasy/Bili.Copilot?display_date=published_at&style=flat)
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
