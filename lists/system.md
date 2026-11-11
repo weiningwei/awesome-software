@@ -10,6 +10,7 @@
 ## 文件管理
 
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/aleksey-hoffman/sigma-file-manager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aleksey-hoffman/sigma-file-manager) ![GitHub Release Date](https://img.shields.io/github/release-date/aleksey-hoffman/sigma-file-manager?display_date=published_at&style=flat)
+- [Pulse](https://github.com/jimmgreen/pulse) - Windows 文件管理器，支持多窗格与可保存工作区、索引与拼音搜索、快速预览和批量重命名。 `Windows` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/jimmgreen/pulse?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/jimmgreen/pulse?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/jimmgreen/pulse?display_date=published_at&style=flat)
 
 ## 系统监控
 

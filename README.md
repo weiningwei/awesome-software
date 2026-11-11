@@ -126,7 +126,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 67 款软件</summary>
+<summary>展开 68 款软件</summary>
 
 #### 压缩与解压
 
@@ -135,6 +135,7 @@
 #### 文件管理
 
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0`
+- [Pulse](https://github.com/jimmgreen/pulse) - Windows 文件管理器，支持多窗格与可保存工作区、索引与拼音搜索、快速预览和批量重命名。 `Windows` `Apache-2.0`
 #### 系统监控
 
 - [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0`
