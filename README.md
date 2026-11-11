@@ -362,7 +362,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 45 款软件</summary>
+<summary>展开 46 款软件</summary>
 
 #### 视频播放
 
@@ -396,6 +396,7 @@
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方B站客户端。 `跨平台` `GPL-3.0`
 - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0`
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
+- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
 #### 音乐
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - LX Music 桌面版。 `跨平台` `Apache-2.0`
@@ -457,7 +458,7 @@
 ### [Android 应用](app.md)
 
 <details>
-<summary>展开 12 款软件</summary>
+<summary>展开 11 款软件</summary>
 
 #### 软件商店
 
@@ -477,7 +478,6 @@
 
 - [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android`
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android`
-- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
 #### 阅读
 
 - [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`

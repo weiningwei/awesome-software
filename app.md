@@ -31,7 +31,6 @@ Android 应用清单。
 
 - [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL) ![GitHub Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL?display_date=published_at&style=flat)
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/1250422131/bilibilias?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/1250422131/bilibilias) ![GitHub Release Date](https://img.shields.io/github/release-date/1250422131/bilibilias?display_date=published_at&style=flat)
-- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/bggRGjQaUbCoE/PiliPlus?display_date=published_at&style=flat)
 
 ## 阅读
 
