@@ -44,22 +44,28 @@ def index_lines(path: str) -> tuple[list[str], int]:
 
 
 def build() -> str:
+    sections = []
+    for name, path in [*CATEGORIES, ("Android 应用", "app.md")]:
+        entries, count = index_lines(path)
+        sections.append((name, path, entries, count))
+    total = sum(count for *_, count in sections)
+
     output = [
         "# awesome-software",
         "",
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->",
         "",
-        "按功能整理的软件清单。首页列出全部软件；点击分类标题可查看星标、最新版本和发布日期。",
+        f"按功能整理的软件清单，共收录 {total} 款。首页列出全部软件；"
+        "点击分类标题可打开分类页面，查看星标、最新版本与发布日期。",
         "",
         "## 分类",
         "",
     ]
-    for name, _ in CATEGORIES:
+    for name, _, _, count in sections:
         anchor = name.lower().replace(" ", "-")
-        output.append(f"- [{name}](#{anchor})")
-    output.extend(("- [Android 应用](#android-应用)", "", "## 软件清单", ""))
-    for name, path in [*CATEGORIES, ("Android 应用", "app.md")]:
-        entries, count = index_lines(path)
+        output.append(f"- [{name}](#{anchor}) · {count} 款")
+    output.extend(("", "## 软件清单", ""))
+    for name, path, entries, count in sections:
         output.extend(
             (
                 f"### [{name}]({path})",
