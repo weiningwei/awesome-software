@@ -60,7 +60,7 @@
 <details>
 <summary>展开 12 项</summary>
 
-#### 截图
+#### [截图](lists/screenshot-recording.md#截图)
 
 - [PixPin](https://pixpin.cn/) - 截图、贴图与长截图工具。 `Windows`
 - [Snipaste](https://www.snipaste.com/) - 截图与贴图工具，支持标注与取色。 `Windows`
@@ -70,7 +70,7 @@
 - [pear-rec](https://github.com/027xiguapi/pear-rec) - 截屏、录屏和录音软件。 `跨平台` `Apache-2.0`
 - [PixWit](https://github.com/yun-cun-li/PixWit) - 截图、录屏与简易视频剪辑工具，支持贴图、标注、OCR 与 GIF 转换。 `Windows` `GPL-3.0`
 - [jietuba](https://github.com/1003129155/jietuba) - Windows 截图工具，支持长截图、标注、OCR、翻译、钉图、GIF 录制与剪贴板历史。 `Windows` `MIT`
-#### 录屏
+#### [录屏](lists/screenshot-recording.md#录屏)
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕并逐帧编辑，导出 GIF 或视频。 `Windows` `MS-PL`
 - [Cap](https://github.com/CapSoftware/Cap) - 开源录屏工具，生成可分享的演示视频。 `跨平台`
@@ -148,27 +148,27 @@
 <details>
 <summary>展开 76 项</summary>
 
-#### 压缩与解压
+#### [压缩与解压](lists/system.md#压缩与解压)
 
 - [7zip](https://www.7-zip.org/) - 压缩与解压工具，支持 7z、ZIP 与 RAR 等格式。 `跨平台`
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 压缩包管理工具，支持自动解压与图片预览。 `Windows`
-#### 文件管理
+#### [文件管理](lists/system.md#文件管理)
 
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0`
 - [Pulse](https://github.com/jimmgreen/pulse) - Windows 文件管理器，支持多窗格与可保存工作区、索引与拼音搜索、快速预览和批量重命名。 `Windows` `Apache-2.0`
-#### 系统监控
+#### [系统监控](lists/system.md#系统监控)
 
 - [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0`
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 桌面悬浮窗，显示网速、CPU 与内存占用。 `Windows`
 - [Monit](https://github.com/fzf404/Monit) - 可自定义的 macOS 桌面小组件。 `macOS` `MIT`
 - [NexBox](https://github.com/MuLiuSaMa/NexBox) - 面向 PC 玩家的性能工具箱，集成硬件与帧率监控、游戏内叠加显示、系统优化和准心等辅助功能。 `Windows` `GPL-3.0`
 - [Voltide](https://github.com/sdparklab/Voltide) - Windows 托盘工具，显示 2.4G 无线键鼠、耳机与手柄的电量，无需安装厂商软件。 `Windows` `MIT`
-#### 使用统计
+#### [使用统计](lists/system.md#使用统计)
 
 - [Tai](https://github.com/Planshit/Tai) - 软件使用时长统计。 `Windows` `MIT`
 - [Work_Review](https://github.com/wm94i/Work_Review) - 本地工作轨迹记录器。 `Windows` `MIT`
 - [keyStats](https://github.com/debugtheworldbot/keyStats) - 统计键盘与鼠标的点击次数与移动距离。 `Windows` `MIT`
-#### 桌面美化
+#### [桌面美化](lists/system.md#桌面美化)
 
 - [Lively Wallpaper](https://github.com/rocksdanister/lively) - Windows 动态壁纸引擎，支持视频与网页壁纸。 `Windows` `GPL-3.0`
 - [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - 将 macOS 动态壁纸移植到 Windows。 `Windows` `MPL-2.0`
@@ -180,7 +180,7 @@
 - [BongoCat (ayangweb)](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT`
 - [Cursors](https://github.com/rohzzn/cursors) - Windows 鼠标指针切换工具，内置 60 套方案，支持导入本地光标包与社区光标库。 `Windows` `MIT`
 - [MiniDock](https://github.com/wang01116/MiniDock) - 轻量的 Windows 11 风格 Dock 栏，可固定应用、文件夹与网页，支持毛玻璃背景、悬停放大、窗口预览与应用组。 `Windows`
-#### 窗口与桌面工具
+#### [窗口与桌面工具](lists/system.md#窗口与桌面工具)
 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - 按住 Alt 键移动与缩放窗口。 `Windows` `GPL-3.0`
 - [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Windows 显示器亮度与对比度调节。 `Windows` `MIT`
@@ -192,13 +192,13 @@
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT`
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0`
 - [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0`
-#### 自动化与广告跳过
+#### [自动化与广告跳过](lists/system.md#自动化与广告跳过)
 
 - [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
 - [TapClick](https://github.com/LGH1996/TapClick) - Android 自动化点击工具。 `Android` `GPL-3.0`
 - [SKIPs](https://github.com/GuoXiCheng/SKIP) - 自动跳过应用开屏广告。 `Android` `GPL-3.0`
 - [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 安卓系统开屏广告自动跳过助手。 `Android` `MIT`
-#### 系统优化
+#### [系统优化](lists/system.md#系统优化)
 
 - [winutil](https://github.com/ChrisTitusTech/winutil) - Windows 系统管理工具。 `Windows` `MIT`
 - [optimizer](https://github.com/hellzerg/optimizer) - Windows 系统优化。 `Windows` `GPL-3.0`
@@ -208,7 +208,7 @@
 - [Windows-Defender-Manager](https://github.com/TwoSevenOneT/Windows-Defender-Manager) - 用于停止 Windows Defender 的工具，兼容 Windows 10/11。 `Windows`
 - [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - 免费的 Windows 系统优化工具，专注于性能、隐私和简洁性。 `Windows` `GPL-3.0`
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - PowerShell 脚本，用于移除 Windows 10/11 预装应用、禁用遥测并精简系统设置。 `Windows` `MIT`
-#### 清理与卸载
+#### [清理与卸载](lists/system.md#清理与卸载)
 
 - [geek](https://geekuninstaller.com/) - 轻量级软件卸载工具，支持强制卸载与清理残留。 `Windows`
 - [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - 支持批量卸载应用程序。 `Windows` `Apache-2.0`
@@ -226,7 +226,7 @@
 - [C盘管家](https://github.com/YGTQ3/disk-butler) - Windows 磁盘空间分析与清理工具，通过直读 NTFS MFT 秒级统计占用。 `Windows` `MIT`
 - [NcduWin](https://github.com/xiaodingfeng/ncdu-win-qt) - 基于 Qt 6 的磁盘空间分析工具，直接读取 NTFS MFT 快速扫描，提供 ncdu 风格文件列表与矩形树图，并支持重复文件查找与垃圾清理。 `Windows` `MIT`
 - [DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer) - Windows 驱动仓库管理工具，可枚举、导出并删除已安装的驱动包。 `Windows` `GPL-2.0`
-#### 包管理器
+#### [包管理器](lists/system.md#包管理器)
 
 - [Chocolatey](https://github.com/chocolatey/choco) - Windows 命令行包管理器。 `Windows`
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Windows 命令行包管理器，免管理员权限安装开发工具。 `Windows`
@@ -234,17 +234,17 @@
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - 统一管理 winget/Chocolatey/Scoop 等多种包管理器的图形界面。 `Windows` `MIT`
 - [F-Droid](https://github.com/f-droid/fdroidclient) - 开源 Android 应用商店。 `Android` `GPL-3.0`
 - [Droid-ify](https://github.com/Droid-ify/client) - 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0`
-#### 启动盘制作
+#### [启动盘制作](lists/system.md#启动盘制作)
 
 - [Ventoy](https://github.com/ventoy/Ventoy) - 启动盘制作，无需格式化。 `跨平台` `GPL-3.0`
 - [rufus](https://github.com/pbatard/rufus) - 制作 Windows 与 Linux 启动 U 盘。 `Windows` `GPL-3.0`
 - [etcher](https://github.com/balena-io/etcher) - 跨平台镜像写入工具，用于制作启动盘。 `跨平台` `Apache-2.0`
-#### 网络代理
+#### [网络代理](lists/system.md#网络代理)
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - 基于 mihomo 内核的跨平台代理客户端，支持系统代理、TUN 模式与规则管理。 `跨平台` `GPL-3.0`
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 Clash Meta 的跨平台代理客户端，支持 Windows、macOS、Linux 与 Android。 `跨平台` `GPL-3.0`
 - [v2rayN](https://github.com/2dust/v2rayN) - 支持 Xray、sing-box 等内核的跨平台代理客户端。 `跨平台` `GPL-3.0`
-#### 激活
+#### [激活](lists/system.md#激活)
 
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Windows/Office 激活脚本（HWID/KMS38）。 `Windows` `GPL-3.0`
 - [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - Windows/Office KMS 激活工具。 `Windows`
@@ -258,7 +258,7 @@
 <details>
 <summary>展开 23 项</summary>
 
-#### 通用下载器
+#### [通用下载器](lists/download.md#通用下载器)
 
 - [Motrix](https://github.com/agalwood/Motrix) - 基于 aria2 的多线程下载器，支持 HTTP/FTP/BT 与磁力链。 `跨平台` `MIT`
 - [gopeed](https://github.com/GopeedLab/gopeed) - Go 编写的跨平台下载器，支持 HTTP/BT/磁力链与扩展。 `跨平台` `GPL-3.0`
@@ -269,7 +269,7 @@
 - [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - 全协议下载器，支持 HTTP/BT/FTP/M3U8/DASH/eD2k 及 YouTube/B站/GitHub/HF 解析。 `跨平台` `GPL-3.0`
 - [Hydra](https://github.com/ja7ad/hydra) - 跨平台下载管理器，通过多连接与多镜像分片加速下载，支持 HTTP/FTP/Metalink 并提供命令行、TUI 与桌面 GUI。 `跨平台` `GPL-3.0`
 - [Plexo](https://github.com/anmolkapil/plexo) - 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT`
-#### 视频与流媒体下载
+#### [视频与流媒体下载](lists/download.md#视频与流媒体下载)
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 命令行 m3u8 下载工具，支持多线程与自动合并。 `Windows` `MIT`
 - [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - 跨平台 m3u8/DASH 流媒体下载命令行工具。 `跨平台` `MIT`
@@ -283,7 +283,7 @@
 - [YTSage](https://github.com/oop7/YTSage) - 带图形界面的 YouTube 下载器，支持音轨提取与字幕。 `跨平台` `MIT`
 - [downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩视频下载工具，支持批量下载与弹幕保存。 `Windows` `GPL-3.0`
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android`
-#### 网络加速
+#### [网络加速](lists/download.md#网络加速)
 
 - [Xget](https://github.com/xixu-me/Xget) - 面向 GitHub 等开发者资源的下载加速代理。 `跨平台` `AGPL-3.0`
 - [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 同步 GitHub hosts 的工具，支持图形界面与命令行。 `跨平台` `GPL-3.0`
@@ -297,7 +297,7 @@
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT`
-#### 编辑器
+#### [编辑器](lists/development.md#编辑器)
 
 - [Sublime Text](https://www.sublimetext.com/) - 轻量的跨平台代码编辑器，支持多光标与插件扩展。 `跨平台`
 - [VSCode](https://github.com/microsoft/vscode) - 微软跨平台代码编辑器。 `跨平台` `MIT`
@@ -307,7 +307,7 @@
 - [Notepad3](https://github.com/rizonesoft/Notepad3) - 基于 Scintilla 的轻量 Windows 文本编辑器。 `Windows`
 - [notepad4](https://github.com/zufuliu/notepad4) - Notepad2 的改进分支，支持语法高亮、代码折叠与自动补全。 `Windows`
 - [SideX](https://github.com/Sidenai/sidex) - 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT`
-#### 终端与 SSH
+#### [终端与 SSH](lists/development.md#终端与-ssh)
 
 - [terminal](https://github.com/microsoft/terminal) - Windows Terminal。 `Windows` `MIT`
 - [tabby](https://github.com/Eugeny/tabby) - 跨平台可定制终端模拟器。 `跨平台` `MIT`
@@ -321,7 +321,7 @@
 - [termora](https://github.com/TermoraDev/termora) - 跨平台 SSH/Telnet 终端客户端。 `跨平台`
 - [Netcatty](https://github.com/binaricat/Netcatty) - 集 SSH 工作区、SFTP 文件管理与终端会话于一体的桌面客户端。 `跨平台` `GPL-3.0`
 - [Pebrel](https://github.com/Kuddev/pebrel) - AI 原生、GPU 加速的 Windows 终端模拟器，支持 SSH、持久会话与分屏。 `Windows` `GPL-3.0`
-#### Git GUI
+#### [Git GUI](lists/development.md#git-gui)
 
 - [GitHub Desktop](https://github.com/desktop/desktop) - GitHub 官方 Git 图形客户端。 `跨平台` `MIT`
 - [sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows Git 图形客户端。 `Windows` `MIT`
@@ -335,20 +335,20 @@
 - [megit](https://github.com/eclipsesource/megit) - 基于 Eclipse 的 Git 图形客户端。 `跨平台` `EPL-2.0`
 - [GitYak](https://github.com/Eflyax/GitYak) - 可通过 SSH 操作远程服务器与本地仓库的跨平台 Git 图形客户端。 `跨平台`
 - [RemoteGit](https://github.com/adammery/remotegit) - 面向存放在 SSH 服务器上的仓库的 Git 图形客户端，可查看改动、差异、历史与分支并执行提交、推送和拉取。 `Windows` `macOS`
-#### API 测试
+#### [API 测试](lists/development.md#api-测试)
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 跨平台开源 API 测试 Web 工具。 `跨平台` `MIT`
 - [Bruno](https://github.com/usebruno/bruno) - 跨平台开源 API 客户端，支持 Git 集成。 `跨平台` `MIT`
 - [insomnia](https://github.com/Kong/insomnia) - 跨平台 API 设计与调试客户端。 `跨平台` `Apache-2.0`
 - [yaak](https://github.com/mountain-loop/yaak) - 跨平台 API 客户端。 `跨平台` `MIT`
-#### 数据库
+#### [数据库](lists/development.md#数据库)
 
 - [dbeaver](https://github.com/dbeaver/dbeaver) - 通用数据库工具与 SQL 客户端。 `跨平台` `Apache-2.0`
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - 跨平台数据库可视化管理客户端。 `跨平台`
 - [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - 跨平台 SQLite 数据库管理工具。 `跨平台`
 - [dbgate](https://github.com/dbgate/dbgate) - 跨平台数据库客户端，支持 MySQL、PostgreSQL 与 SQLite 等。 `跨平台` `GPL-3.0`
 - [dbx](https://github.com/t8y2/dbx) - 支持 100+ 数据库的跨平台客户端，提供桌面端、CLI、Docker 与内置 AI 和 MCP 服务。 `跨平台` `Apache-2.0`
-#### 代码对比
+#### [代码对比](lists/development.md#代码对比)
 
 - [meld](https://meldmerge.org/) - 可视化文件与目录对比工具，支持三向合并。 `跨平台`
 - [Beyond Compare](https://www.scootersoftware.com/) - 跨平台文件与目录对比工具。 `跨平台`
@@ -376,14 +376,14 @@
 <details>
 <summary>展开 14 项</summary>
 
-#### 聊天与助手
+#### [聊天与助手](lists/ai.md#聊天与助手)
 
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) - 支持多模型切换与知识库的 AI 桌面客户端。 `跨平台` `AGPL-3.0`
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - 跨平台 ChatGPT/Web AI 客户端。 `跨平台` `MIT`
 - [chatbox](https://github.com/chatboxai/chatbox) - 对话记录保存在本地的跨平台 AI 桌面客户端。 `跨平台` `GPL-3.0`
 - [Everywhere](https://github.com/DearVa/Everywhere) - 桌面 AI 助手，可在任意应用中快速唤起。 `Windows`
 - [Ollama](https://github.com/ollama/ollama) - 在本地运行与部署开源大模型的命令行工具，提供模型管理与兼容 OpenAI 的 API。 `跨平台` `MIT`
-#### AI 编程工具
+#### [AI 编程工具](lists/ai.md#ai-编程工具)
 
 - [CC Switch](https://github.com/farion1231/cc-switch) - 跨平台的 Claude Code、Codex 等 AI 编程工具配置与切换管理器。 `跨平台`
 - [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) - 面向 OpenAI Codex / ChatGPT 桌面应用的外部启动器与管理工具，支持供应商切换、会话管理和界面增强。 `Windows` `macOS`
@@ -402,7 +402,7 @@
 <details>
 <summary>展开 51 项</summary>
 
-#### 视频播放与观看
+#### [视频播放与观看](lists/media.md#视频播放与观看)
 
 - [Potplayer](https://potplayer.daum.net/) - Windows 视频播放器，支持硬件解码与多种字幕格式。 `Windows`
 - [mpv](https://github.com/mpv-player/mpv) - 命令行媒体播放器。 `跨平台`
@@ -423,20 +423,20 @@
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
-#### 视频剪辑与转码
+#### [视频剪辑与转码](lists/media.md#视频剪辑与转码)
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 跨平台开源视频剪辑器。 `跨平台` `MIT`
 - [lossless-cut](https://github.com/mifi/lossless-cut) - 跨平台无损视频剪辑工具。 `跨平台` `GPL-2.0`
 - [HandBrake](https://github.com/HandBrake/HandBrake) - 跨平台视频转码软件。 `跨平台`
 - [CompressO](https://github.com/codeforreal1/compressO) - 基于 FFmpeg 的离线视频与图片压缩工具，支持批量压缩与字幕嵌入。 `跨平台` `AGPL-3.0`
 - [video2x](https://github.com/k4yt3x/video2x) - 基于机器学习的视频超分辨率与帧插值工具，支持视频/图片放大与补帧。 `跨平台` `AGPL-3.0`
-#### 直播
+#### [直播](lists/media.md#直播)
 
 - [obs-studio](https://github.com/obsproject/obs-studio) - 视频录制以及直播串流软件。 `跨平台` `GPL-2.0`
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播。 `跨平台` `GPL-3.0`
 - [dtv](https://github.com/chen-zeong/dtv) - 跨平台直播桌面客户端。 `跨平台` `MIT`
 - [pure_live](https://github.com/liuchuancong/pure_live) - 聚合哔哩哔哩、虎牙、斗鱼等平台的直播客户端。 `跨平台` `AGPL-3.0`
-#### 音乐
+#### [音乐](lists/media.md#音乐)
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - LX Music 桌面版。 `跨平台` `Apache-2.0`
 - [spotube](https://github.com/KRTirtho/spotube) - 开源音乐播放器，结合 Spotify 元数据与 YouTube 音源。 `跨平台`
@@ -451,7 +451,7 @@
 - [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 常见音频格式的音频播放器。 `跨平台` `GPL-3.0`
 - [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器。 `跨平台` `AGPL-3.0`
 - [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) - 音乐播放器模仿酷狗。 `跨平台` `GPL-3.0`
-#### 图片
+#### [图片](lists/media.md#图片)
 
 - [HoneyView](https://www.bandisoft.com/honeyview/) - Windows 图片查看器。 `Windows`
 - [ImageGlass](https://github.com/d2phap/ImageGlass) - 开源图片查看器，支持 90 余种格式与色彩管理。 `跨平台` `GPL-3.0`
@@ -471,7 +471,7 @@
 <details>
 <summary>展开 20 项</summary>
 
-#### PDF、电子书与文档
+#### [PDF、电子书与文档](lists/documents.md#pdf电子书与文档)
 
 - [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
 - [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
@@ -487,7 +487,7 @@
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0`
 - [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0`
 - [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
-#### 笔记与 Markdown
+#### [笔记与 Markdown](lists/documents.md#笔记与-markdown)
 
 - [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
 - [NoteGen](https://github.com/codexu/note-gen) - 跨平台的 Markdown AI 笔记软件。 `跨平台` `GPL-3.0`

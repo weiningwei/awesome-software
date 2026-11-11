@@ -41,8 +41,9 @@ def index_lines(path: str) -> tuple[list[str], int, list[tuple[str, int]]]:
     current: int | None = None
     for line in lines:
         if line.startswith("## "):
-            result.extend(("#### " + line[3:], ""))
-            subs.append((line[3:].strip(), 0))
+            heading = line[3:].strip()
+            result.extend((f"#### [{heading}]({path}#{slug(heading)})", ""))
+            subs.append((heading, 0))
             current = len(subs) - 1
         elif ENTRY.match(line):
             result.append(BADGE.sub("", line).rstrip())
