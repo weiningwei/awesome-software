@@ -1,0 +1,49 @@
+lists/recognition-translation.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 5-12
+lists/web-to-desktop.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 5
+lists/download.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 7-15,19-30,34-35
+lists/remote-desktop.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 5-6
+lists/system.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 12,16-19,23-25,29-37,41-48,52-58,63-77,81-84,95-97,101-103
+lists/search-launch.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 6-11
+lists/clipboard.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 5-8
+lists/local-transfer.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 5-8
+CONTRIBUTING.md
+  s_f58ac5cc2ad8e4::t_d1b813fd14c306 7,10,22-23,32,38,48,51-52,57-58
+app.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 15-16,20-23,27-28,32-33,37
+lists/media.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 8-15,17-18,22-26,30-33,37-40,44-56,61-67
+lists/documents.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 7-16
+lists/ai.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 7-10,14-20
+lists/development.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 8-14,18-25,30-33,37-42,44-48,52-55,57-61,65-68,72-76,82
+lists/screenshot-recording.md
+  s_f58ac5cc2ad8e4::t_8e775a89cdde10 9-14,18-22
+AGENTS.md
+  s_f58ac5cc2ad8e4::t_d1b813fd14c306 34,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3b3de3e86490b6027376436986beac5c0223122d",
+  "prompts": {},
+  "sessions": {
+    "s_f58ac5cc2ad8e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ca4b-9761-7381-858c-c37a0bc7c726",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
