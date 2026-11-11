@@ -110,11 +110,13 @@
 | --- | :---: | :---: | :---: | :---: |
 | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✓ | ✓ | ✓ | ✗ |
 | [FlClash](https://github.com/chen08209/FlClash) | ✓ | ✓ | ✓ | ✓ |
+| [v2rayN](https://github.com/2dust/v2rayN) | ✓ | ✓ | ✓ | ✗ |
 
 ✓ 支持；✗ 不支持；? 待核实。
 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - 基于 mihomo 内核的跨平台代理客户端，支持系统代理、TUN 模式与规则管理。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/clash-verge-rev/clash-verge-rev?display_date=published_at&style=flat)
 - [FlClash](https://github.com/chen08209/FlClash) - 基于 Clash Meta 的跨平台代理客户端，支持 Windows、macOS、Linux 与 Android。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/chen08209/FlClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen08209/FlClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/chen08209/FlClash?display_date=published_at&style=flat)
+- [v2rayN](https://github.com/2dust/v2rayN) - 支持 Xray、sing-box 等内核的跨平台代理客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/2dust/v2rayN?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/2dust/v2rayN?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/2dust/v2rayN?display_date=published_at&style=flat)
 
 ## 激活
 
