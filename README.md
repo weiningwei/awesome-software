@@ -367,6 +367,7 @@ A list of awesome softwares.
 - [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/422658476/MPV-EASY-Player?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/422658476/MPV-EASY-Player) ![GitHub Release Date](https://img.shields.io/github/release-date/422658476/MPV-EASY-Player)
 
 - [红果短剧 TV](https://github.com/aston314/hongguo-tv-releases) - 第三方红果短剧客户端，支持 Android TV、webOS、macOS、Windows 与 Linux。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/aston314/hongguo-tv-releases?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/aston314/hongguo-tv-releases?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/aston314/hongguo-tv-releases?style=flat)
+- [红果短剧 桌面版](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases) - 第三方红果短剧客户端，提供 Windows 正式版与 macOS、Android TV 测试版，支持搜索、收藏与本机续播。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/waligoraamodio288-rgb/hongguo-desktop-releases?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/waligoraamodio288-rgb/hongguo-desktop-releases?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/waligoraamodio288-rgb/hongguo-desktop-releases?style=flat)
 
 ### 视频剪辑与转码
 
