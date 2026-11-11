@@ -287,7 +287,7 @@
 
 - [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
 - [NoteGen](https://github.com/codexu/note-gen) - 跨平台的 `Markdown AI` 笔记软件。 `跨平台` `GPL-3.0`
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 一个 `Markdown` 编辑器，但是更轻快、更智能、更纯粹。 `跨平台` `AGPL-3.0`
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0`
 - [MarkText](https://github.com/marktext/marktext) - 一个简单而优雅的 `Markdown` 编辑器。 `跨平台` `MIT`
 - [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台`
 #### 终端与 SSH
