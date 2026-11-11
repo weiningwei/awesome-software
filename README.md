@@ -2,23 +2,56 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 272 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 272 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
 - [截图与录屏](#截图与录屏) · 12 项
+  - [截图](lists/screenshot-recording.md#截图) · 8 项
+  - [录屏](lists/screenshot-recording.md#录屏) · 4 项
 - [剪贴板](#剪贴板) · 4 项
 - [文件搜索与启动](#文件搜索与启动) · 7 项
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 2 项
 - [系统工具](#系统工具) · 75 项
+  - [压缩与解压](lists/system.md#压缩与解压) · 2 项
+  - [文件管理](lists/system.md#文件管理) · 2 项
+  - [系统监控](lists/system.md#系统监控) · 5 项
+  - [使用统计](lists/system.md#使用统计) · 3 项
+  - [桌面美化](lists/system.md#桌面美化) · 10 项
+  - [窗口与桌面工具](lists/system.md#窗口与桌面工具) · 10 项
+  - [自动化与广告跳过](lists/system.md#自动化与广告跳过) · 4 项
+  - [系统优化](lists/system.md#系统优化) · 8 项
+  - [清理与卸载](lists/system.md#清理与卸载) · 16 项
+  - [包管理器](lists/system.md#包管理器) · 6 项
+  - [启动盘制作](lists/system.md#启动盘制作) · 3 项
+  - [网络代理](lists/system.md#网络代理) · 2 项
+  - [激活](lists/system.md#激活) · 4 项
 - [下载](#下载) · 23 项
+  - [通用下载器](lists/download.md#通用下载器) · 9 项
+  - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
+  - [网络加速](lists/download.md#网络加速) · 2 项
 - [开发工具](#开发工具) · 46 项
+  - [编辑器](lists/development.md#编辑器) · 8 项
+  - [终端与 SSH](lists/development.md#终端与-ssh) · 12 项
+  - [Git GUI](lists/development.md#git-gui) · 12 项
+  - [API 测试](lists/development.md#api-测试) · 4 项
+  - [数据库](lists/development.md#数据库) · 5 项
+  - [代码对比](lists/development.md#代码对比) · 3 项
 - [字体](#字体) · 7 项
 - [AI 工具](#ai-工具) · 14 项
+  - [聊天与助手](lists/ai.md#聊天与助手) · 5 项
+  - [AI 编程工具](lists/ai.md#ai-编程工具) · 9 项
 - [多媒体](#多媒体) · 51 项
+  - [视频播放与观看](lists/media.md#视频播放与观看) · 19 项
+  - [视频剪辑与转码](lists/media.md#视频剪辑与转码) · 5 项
+  - [直播](lists/media.md#直播) · 4 项
+  - [音乐](lists/media.md#音乐) · 13 项
+  - [图片](lists/media.md#图片) · 10 项
 - [文档与阅读](#文档与阅读) · 20 项
+  - [PDF、电子书与文档](lists/documents.md#pdf电子书与文档) · 14 项
+  - [笔记与 Markdown](lists/documents.md#笔记与-markdown) · 6 项
 
 ## 软件与字体清单
 

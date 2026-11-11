@@ -27,27 +27,40 @@ BADGE = re.compile(r"\s*!\[[^]]*\]\(https://img\.shields\.io/[^)]*\)")
 ENTRY = re.compile(r"^- \[[^]]+\]\(https?://")
 
 
-def index_lines(path: str) -> tuple[list[str], int]:
+def slug(text: str) -> str:
+    """Approximate GitHub's heading anchor format (lowercase, punctuation dropped, spaces hyphenated)."""
+    text = re.sub(r"[^\w\- ]", "", text.lower().strip(), flags=re.UNICODE)
+    return text.replace(" ", "-")
+
+
+def index_lines(path: str) -> tuple[list[str], int, list[tuple[str, int]]]:
     lines = (ROOT / path).read_text(encoding="utf-8").splitlines()
     result: list[str] = []
+    subs: list[tuple[str, int]] = []
     count = 0
+    current: int | None = None
     for line in lines:
         if line.startswith("## "):
             result.extend(("#### " + line[3:], ""))
+            subs.append((line[3:].strip(), 0))
+            current = len(subs) - 1
         elif ENTRY.match(line):
             result.append(BADGE.sub("", line).rstrip())
             count += 1
+            if current is not None:
+                name, sub_count = subs[current]
+                subs[current] = (name, sub_count + 1)
     if not count:
         raise ValueError(f"No software entries found in {path}")
-    return result, count
+    return result, count, [sub for sub in subs if sub[1]]
 
 
 def build() -> str:
     sections = []
     for name, path in CATEGORIES:
-        entries, count = index_lines(path)
-        sections.append((name, path, entries, count))
-    total = sum(count for *_, count in sections)
+        entries, count, subs = index_lines(path)
+        sections.append((name, path, entries, count, subs))
+    total = sum(section[3] for section in sections)
 
     output = [
         "# awesome-software",
@@ -55,16 +68,18 @@ def build() -> str:
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->",
         "",
         f"按功能整理的软件与字体清单，共收录 {total} 项。首页列出全部条目；"
-        "点击分类标题可打开分类页面，查看星标、最新版本与发布日期。",
+        "点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。",
         "",
         "## 分类",
         "",
     ]
-    for name, _, _, count in sections:
+    for name, path, _, count, subs in sections:
         anchor = name.lower().replace(" ", "-")
         output.append(f"- [{name}](#{anchor}) · {count} 项")
+        for sub, sub_count in subs:
+            output.append(f"  - [{sub}]({path}#{slug(sub)}) · {sub_count} 项")
     output.extend(("", "## 软件与字体清单", ""))
-    for name, path, entries, count in sections:
+    for name, path, entries, count, _ in sections:
         output.extend(
             (
                 f"### [{name}]({path})",
