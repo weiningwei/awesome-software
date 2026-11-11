@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
 
-按功能整理的软件清单，共收录 271 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 272 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -18,7 +18,7 @@
 - [开发工具](#开发工具) · 56 款
 - [AI 工具](#ai-工具) · 13 款
 - [多媒体](#多媒体) · 47 款
-- [文档与阅读](#文档与阅读) · 12 款
+- [文档与阅读](#文档与阅读) · 13 款
 - [网站](#网站) · 2 款
 - [Android 应用](#android-应用) · 11 款
 
@@ -435,7 +435,7 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 12 款软件</summary>
+<summary>展开 13 款软件</summary>
 
 - [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
 - [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
@@ -449,6 +449,7 @@
 - [ColorTxt](https://github.com/ssnangua/ColorTxt) - 本地 TXT 小说阅读器，支持内容上色、AI 阅读辅助与多格式电子书导入。 `跨平台` `MPL-2.0`
 - [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - PDF 查看与编辑器，支持标注、测量、OCR 与 DWG/DXF 导入。 `跨平台` `LGPL-3.0`
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0`
+- [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0`
 
 </details>
 
