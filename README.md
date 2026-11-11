@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件清单，共收录 273 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 274 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -16,7 +16,7 @@
 - [系统工具](#系统工具) · 69 款
 - [下载](#下载) · 22 款
 - [开发工具](#开发工具) · 56 款
-- [AI 工具](#ai-工具) · 13 款
+- [AI 工具](#ai-工具) · 14 款
 - [多媒体](#多媒体) · 48 款
 - [文档与阅读](#文档与阅读) · 13 款
 - [网站](#网站) · 2 款
@@ -343,7 +343,7 @@
 ### [AI 工具](lists/ai.md)
 
 <details>
-<summary>展开 13 款软件</summary>
+<summary>展开 14 款软件</summary>
 
 #### 聊天与助手
 
@@ -362,6 +362,7 @@
 - [cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 跨平台桌面工作台，支持多会话、Worktree、代码 diff 审查、技能市场与多模型接入。 `跨平台` `MIT`
 - [Orca](https://github.com/stablyai/orca) - 跨平台 AI 编程代理编排桌面应用，支持 Codex、Claude Code、OpenCode 等多代理并行运行于独立 Worktree。 `跨平台` `MIT`
 - [herdr](https://github.com/herdrdev/herdr) - 运行在终端内的 AI 编程代理会话管理器，支持分屏、断线重连与多机连接，可托管 Claude Code、Codex 等代理。 `跨平台` `Apache-2.0`
+- [magpie](https://github.com/yetone/magpie-releases) - 统一管理 Claude Code、Codex 等 AI 编程工具的模型与供应商，支持本地网关和故障切换。 `跨平台` `MIT`
 
 </details>
 
