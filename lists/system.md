@@ -1,0 +1,104 @@
+# 系统工具
+
+[返回首页](../README.md)
+
+## 压缩与解压
+
+- [7zip](https://www.7-zip.org/) - 解压软件。 `跨平台`
+- [Bandizip](https://www.bandisoft.com/bandizip/) - 自动解压。 `Windows`
+
+## 文件管理
+
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/aleksey-hoffman/sigma-file-manager?display_date=published_at&style=flat)
+
+## 系统监控
+
+- [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/henrypp/memreduct?display_date=published_at&style=flat)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/zhongyang219/TrafficMonitor?display_date=published_at&style=flat)
+- [Monit](https://github.com/fzf404/Monit) - 桌面小组件。 `macOS` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/fzf404/Monit?display_date=published_at&style=flat)
+- [NexBox](https://github.com/MuLiuSaMa/NexBox) - 面向 PC 玩家的性能工具箱，集成硬件与帧率监控、游戏内叠加显示、系统优化和准心等辅助功能。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/MuLiuSaMa/NexBox?display_date=published_at&style=flat)
+
+## 使用统计
+
+- [Tai](https://github.com/Planshit/Tai) - 软件使用时长统计。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/Planshit/Tai?display_date=published_at&style=flat)
+- [Work_Review](https://github.com/wm94i/Work_Review) - 本地工作轨迹记录器。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/wm94i/Work_Review?display_date=published_at&style=flat)
+- [keyStats](https://github.com/debugtheworldbot/keyStats) - 键盘鼠标统计。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/debugtheworldbot/keyStats?display_date=published_at&style=flat)
+
+## 桌面美化
+
+- [Lively Wallpaper](https://github.com/rocksdanister/lively) - 动态壁纸工具。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/rocksdanister/lively?display_date=published_at&style=flat)
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - 将 macOS 动态壁纸移植到 Windows。 `Windows` `MPL-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/t1m0thyj/WinDynamicDesktop?display_date=published_at&style=flat)
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - windows任务栏半透明/透明。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/TranslucentTB/TranslucentTB?display_date=published_at&style=flat)
+- [Sam Toki Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 适用于 Windows 的极简风格鼠标指针，包含多种指针方案。 `Windows` `CC BY-NC-SA 3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/SamToki/Sam-Toki-Mouse-Cursors?display_date=published_at&style=flat)
+- [Sucrose](https://github.com/Taiizor/Sucrose) - 动态壁纸引擎，支持多种交互式动态壁纸。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/Taiizor/Sucrose?display_date=published_at&style=flat)
+- [openFences](https://github.com/weiweigogo/openFrence) - 轻量级 Windows 桌面图标分组管理工具，Stardock Fences 的开源替代。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/weiweigogo/openFrence?display_date=published_at&style=flat)
+- [BongoCat](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/vladelaina/BongoCat?display_date=published_at&style=flat)
+- [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/ayangweb/BongoCat?display_date=published_at&style=flat)
+- [Cursors](https://github.com/rohzzn/cursors) - Windows 鼠标指针切换工具，内置 60 套方案，支持导入本地光标包与社区光标库。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/rohzzn/cursors?display_date=published_at&style=flat)
+
+## 窗口与桌面工具
+
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - 通过Alt键移动窗口。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/RamonUnch/AltSnap?display_date=published_at&style=flat)
+- [twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - windows显示器亮度管理。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/xanderfrangos/twinkle-tray?display_date=published_at&style=flat)
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Windows音量控制工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/File-New-Project/EarTrumpet?display_date=published_at&style=flat)
+- [InputTip](https://github.com/abgox/InputTip) - 输入法状态管理工具。 `Windows` `AGPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/abgox/InputTip?display_date=published_at&style=flat)
+- [RedDot](https://github.com/Autumn-one/RedDot) - 光标处显示中英文状态。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/Autumn-one/RedDot?display_date=published_at&style=flat)
+- [PeekDesktop](https://github.com/shanselman/PeekDesktop) - 点击桌面或任务栏空白处即可显示桌面，将 macOS Sonoma 的这一特性带到 Windows。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/shanselman/PeekDesktop?display_date=published_at&style=flat)
+- [WindInput](https://github.com/huanfeng/WindInput) - 轻量、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼和双拼。 `跨平台` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/huanfeng/WindInput?display_date=published_at&style=flat)
+- [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/xammen/BetterTrumpet?display_date=published_at&style=flat)
+
+## 系统优化
+
+- [winutil](https://github.com/ChrisTitusTech/winutil) - Windows 系统管理工具。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/ChrisTitusTech/winutil?display_date=published_at&style=flat)
+- [optimizer](https://github.com/hellzerg/optimizer) - Windows 系统优化。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/hellzerg/optimizer?display_date=published_at&style=flat)
+- [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - 轻便的Windows优化工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/ZyperWave/ZyperWinOptimize?display_date=published_at&style=flat)
+- [defendnot](https://github.com/es3n1n/defendnot) - 通过 WSC API 禁用 Windows Defender 的工具。 `Windows` `Apache-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/es3n1n/defendnot?display_date=published_at&style=flat)
+- [windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - 用于移除 Windows Defender 的工具，支持 Windows 8/10/11。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/ionuttbara/windows-defender-remover?display_date=published_at&style=flat)
+- [Windows-Defender-Manager](https://github.com/TwoSevenOneT/Windows-Defender-Manager) - 用于停止 Windows Defender 的工具，兼容 Windows 10/11。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/TwoSevenOneT/Windows-Defender-Manager?display_date=published_at&style=flat)
+- [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - 免费的 Windows 系统优化工具，专注于性能、隐私和简洁性。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/itsfatduck/optimizerDuck?display_date=published_at&style=flat)
+
+## 清理与卸载
+
+- [geek](https://geekuninstaller.com/) - 轻量级软件卸载工具，支持强制卸载与清理残留。 `Windows`
+- [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - 支持批量卸载应用程序。 `Windows` `Apache-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/Klocman/Bulk-Crap-Uninstaller?display_date=published_at&style=flat)
+- [czkawka](https://github.com/qarmin/czkawka) - 多功能文件清理工具。 `跨平台` ![GitHub Release Date](https://img.shields.io/github/release-date/qarmin/czkawka?display_date=published_at&style=flat)
+- [disktree](https://github.com/tobi/disktree) - 跨平台磁盘空间分析工具，以矩形树图展示占用并支持标记后安全删除。 `跨平台` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/tobi/disktree?display_date=published_at&style=flat)
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - 基于 DISM 的 Windows 系统优化与清理工具。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/Chuyu-Team/Dism-Multi-language?display_date=published_at&style=flat)
+- [bleachbit](https://github.com/bleachbit/bleachbit) - 文件清理。 `跨平台` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/bleachbit/bleachbit?display_date=published_at&style=flat)
+- [WindirStat](https://github.com/windirstat/windirstat) - 磁盘空间使用统计查看与清理工具。 `Windows` `GPL-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/windirstat/windirstat?display_date=published_at&style=flat)
+- [QDirStat](https://github.com/shundhammer/qdirstat) - 基于 Qt 的磁盘空间使用统计查看工具。 `Linux` `GPL-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/shundhammer/qdirstat?display_date=published_at&style=flat)
+- [FluentCleaner](https://github.com/builtbybel/FluentCleaner) - 基于 WinUI 3 的 Windows 系统清理工具（支持终端控制和多数据库）。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/builtbybel/FluentCleaner?display_date=published_at&style=flat)
+- [LightC](https://github.com/Chunyu33/light-c) - 免费、极简、轻量且高性能的C盘智能清理工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/Chunyu33/light-c?display_date=published_at&style=flat)
+- [MangoDisk](https://github.com/harry0703/MangoDisk) - 以安全为首要考量的磁盘清理与磁盘空间分析工具。 `跨平台` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/harry0703/MangoDisk?display_date=published_at&style=flat)
+- [RogueCleaner](https://github.com/aakk007/RogueCleaner) - 流氓软件克星，扫描并清理右键菜单、自启项、计划任务、服务与浏览器插件等残留。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/aakk007/RogueCleaner?display_date=published_at&style=flat)
+- [WhoShitsOnMyC](https://github.com/Kami958/WhoShitsonMyC) - 磁盘空间变化对比轻量小工具，通过快照对比找出占用空间的文件。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/Kami958/WhoShitsonMyC?display_date=published_at&style=flat)
+- [C盘管家](https://github.com/YGTQ3/disk-butler) - Windows 磁盘空间分析与清理工具，通过直读 NTFS MFT 秒级统计占用。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/YGTQ3/disk-butler?display_date=published_at&style=flat)
+- [NcduWin](https://github.com/xiaodingfeng/ncdu-win-qt) - 基于 Qt 6 的磁盘空间分析工具，直接读取 NTFS MFT 快速扫描，提供 ncdu 风格文件列表与矩形树图，并支持重复文件查找与垃圾清理。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/xiaodingfeng/ncdu-win-qt?display_date=published_at&style=flat)
+- [DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer) - Windows 驱动仓库管理工具，可枚举、导出并删除已安装的驱动包。 `Windows` `GPL-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/lostindark/DriverStoreExplorer?display_date=published_at&style=flat)
+
+## 包管理器
+
+- [Chocolatey](https://github.com/chocolatey/choco) - Windows 命令行包管理器。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/chocolatey/choco?display_date=published_at&style=flat)
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - Windows 命令行包管理器，免管理员权限安装开发工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/ScoopInstaller/Scoop?display_date=published_at&style=flat)
+- [winget](https://github.com/microsoft/winget-cli) - 微软官方 Windows 包管理器。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/microsoft/winget-cli?display_date=published_at&style=flat)
+- [UniGetUI](https://github.com/marticliment/UniGetUI) - 统一管理 winget/Chocolatey/Scoop 等多种包管理器的图形界面。 `Windows` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/marticliment/UniGetUI?display_date=published_at&style=flat)
+
+## 系统镜像
+
+- [HelloWindows](https://hellowindows.cn/) - Windows 原版镜像下载站。 `Windows`
+- [itellyou](https://next.itellyou.cn/) - Windows/Office 原版镜像下载站。 `Windows`
+- [系统库](https://www.xitongku.com/) - Windows 原版系统镜像与装机资源站。 `Windows`
+- [又要重装系统](https://yyczxt.com/) - Windows 系统镜像与重装资源站。 `Windows`
+
+## 启动盘制作
+
+- [Ventoy](https://github.com/ventoy/Ventoy) - 启动盘制作，无需格式化。 `跨平台` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/ventoy/Ventoy?display_date=published_at&style=flat)
+- [rufus](https://github.com/pbatard/rufus) - 启动盘制作。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/pbatard/rufus?display_date=published_at&style=flat)
+- [etcher](https://github.com/balena-io/etcher) - 启动盘制作。 `跨平台` `Apache-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/balena-io/etcher?display_date=published_at&style=flat)
+
+## 激活
+
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Windows/Office 激活脚本（HWID/KMS38）。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/massgravel/Microsoft-Activation-Scripts?display_date=published_at&style=flat)
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - Windows/Office KMS 激活工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/zbezj/HEU_KMS_Activator?display_date=published_at&style=flat)
+- [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) - Windows 数字权利激活工具。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/TGSAN/CMWTAT_Digital_Edition?display_date=published_at&style=flat)
+- [DragonKMS](http://www.yishimei.cn/network/319.html) - Windows KMS 激活工具。 `Windows`

@@ -1,0 +1,16 @@
+# 文档与阅读
+
+[返回首页](../README.md)
+
+- [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
+- [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - 轻量PDF阅读器。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/sumatrapdfreader/sumatrapdf?display_date=published_at&style=flat)
+- [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 跨平台的电子书阅读器。 `跨平台` `AGPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/koodo-reader/koodo-reader?display_date=published_at&style=flat)
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - PDF编辑器。 `跨平台` ![GitHub Release Date](https://img.shields.io/github/release-date/Stirling-Tools/Stirling-PDF?display_date=published_at&style=flat)
+- [PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF工具箱。 `Windows` ![GitHub Release Date](https://img.shields.io/github/release-date/wmjordan/PDFPatcher?display_date=published_at&style=flat)
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger) - 合并或拆分PDF文档并旋转、裁剪和重新排列PDF。 `跨平台` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/pdfarranger/pdfarranger?display_date=published_at&style=flat)
+- [okular](https://github.com/KDE/okular) - KDE 出品的跨平台文档查看器。 `跨平台` ![GitHub Release Date](https://img.shields.io/github/release-date/KDE/okular?display_date=published_at&style=flat)
+- [FileConverter](https://github.com/Tichau/FileConverter) - 文件转换工具。 `Windows` `GPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/Tichau/FileConverter?display_date=published_at&style=flat)
+- [ColorTxt](https://github.com/ssnangua/ColorTxt) - 本地 TXT 小说阅读器，支持内容上色、AI 阅读辅助与多格式电子书导入。 `跨平台` `MPL-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/ssnangua/ColorTxt?display_date=published_at&style=flat)
+- [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - PDF 查看与编辑器，支持标注、测量、OCR 与 DWG/DXF 导入。 `跨平台` `LGPL-3.0` ![GitHub Release Date](https://img.shields.io/github/release-date/OpenAEC-Foundation/open-pdf-studio?display_date=published_at&style=flat)
+- [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0` ![GitHub Release Date](https://img.shields.io/github/release-date/storytold/pdfcraft?display_date=published_at&style=flat)
