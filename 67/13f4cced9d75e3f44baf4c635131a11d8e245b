@@ -1,0 +1,22 @@
+AGENTS.md
+  h_ab7185b88fbcdb 9-10,24
+CONTRIBUTING.md
+  h_ab7185b88fbcdb 3,60,65,99,108
+README.md
+  h_ab7185b88fbcdb 3,467
+lists/android.md
+  h_ab7185b88fbcdb 3
+scripts/build_readme.py
+  h_ab7185b88fbcdb 48,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6713f4cced9d75e3f44baf4c635131a11d8e245b",
+  "prompts": {},
+  "humans": {
+    "h_ab7185b88fbcdb": {
+      "author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
