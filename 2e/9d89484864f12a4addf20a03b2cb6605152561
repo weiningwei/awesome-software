@@ -1,0 +1,22 @@
+scripts/build_readme.py
+  s_f58ac5cc2ad8e4::t_0d35884a83df9f 52
+  s_f58ac5cc2ad8e4::t_580a40dc9b1d6b 65
+README.md
+  s_f58ac5cc2ad8e4::t_c7fe4749691c14 5,27,52,64,79,95,107,117,126,223,260,339,362,427,447,457
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e9d89484864f12a4addf20a03b2cb6605152561",
+  "prompts": {},
+  "sessions": {
+    "s_f58ac5cc2ad8e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ca4b-9761-7381-858c-c37a0bc7c726",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
