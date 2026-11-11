@@ -340,7 +340,7 @@
 ### [AI 工具](lists/ai.md)
 
 <details>
-<summary>展开 11 款软件</summary>
+<summary>展开 12 款软件</summary>
 
 #### 聊天与助手
 
@@ -357,6 +357,7 @@
 - [AI Skills Buddy](https://github.com/konnga/skill-buddy) - 管理与同步 AI 编程工具技能及 MCP 服务器的桌面工作台。 `跨平台` `MIT`
 - [cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 跨平台桌面工作台，支持多会话、Worktree、代码 diff 审查、技能市场与多模型接入。 `跨平台` `MIT`
 - [Orca](https://github.com/stablyai/orca) - 跨平台 AI 编程代理编排桌面应用，支持 Codex、Claude Code、OpenCode 等多代理并行运行于独立 Worktree。 `跨平台` `MIT`
+- [herdr](https://github.com/herdrdev/herdr) - 运行在终端内的 AI 编程代理会话管理器，支持分屏、断线重连与多机连接，可托管 Claude Code、Codex 等代理。 `跨平台` `Apache-2.0`
 
 </details>
 
