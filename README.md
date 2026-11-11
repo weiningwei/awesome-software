@@ -243,7 +243,7 @@
 #### 视频与流媒体下载
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 命令行 m3u8 下载工具，支持多线程与自动合并。 `Windows` `MIT`
-- [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - 跨平台 m3u8/DASH 流媒体下载命令行工具。 `Windows` `MIT`
+- [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - 跨平台 m3u8/DASH 流媒体下载命令行工具。 `跨平台` `MIT`
 - [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - 带图形界面的 m3u8 下载器，支持批量任务与自动合并。 `Windows` `GPL-3.0`
 - [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - 下载 m3u8 视频并自动合并为 MP4。 `Windows`
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 命令行视频下载器（youtube-dl 分支）。 `跨平台` `AGPL-3.0`
