@@ -49,7 +49,7 @@ def build() -> str:
         "",
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->",
         "",
-        "按功能整理的软件清单。首页列出全部软件；分类页显示发布日期，便于比较同类软件的更新情况。",
+        "按功能整理的软件清单。首页列出全部软件；点击分类标题可查看星标、最新版本和发布日期。",
         "",
         "## 分类",
         "",
@@ -62,9 +62,7 @@ def build() -> str:
         entries, count = index_lines(path)
         output.extend(
             (
-                f"### {name}",
-                "",
-                f"[查看分类详情与发布日期]({path})",
+                f"### [{name}]({path})",
                 "",
                 "<details>",
                 f"<summary>展开 {count} 款软件</summary>",

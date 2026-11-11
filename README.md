@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
 
-按功能整理的软件清单。首页列出全部软件；分类页显示发布日期，便于比较同类软件的更新情况。
+按功能整理的软件清单。首页列出全部软件；点击分类标题可查看星标、最新版本和发布日期。
 
 ## 分类
 
@@ -24,9 +24,7 @@
 
 ## 软件清单
 
-### 截图与录屏
-
-[查看分类详情与发布日期](lists/screenshot-recording.md)
+### [截图与录屏](lists/screenshot-recording.md)
 
 <details>
 <summary>展开 13 款软件</summary>
@@ -51,9 +49,7 @@
 
 </details>
 
-### 剪贴板
-
-[查看分类详情与发布日期](lists/clipboard.md)
+### [剪贴板](lists/clipboard.md)
 
 <details>
 <summary>展开 4 款软件</summary>
@@ -65,9 +61,7 @@
 
 </details>
 
-### 文件搜索与启动
-
-[查看分类详情与发布日期](lists/search-launch.md)
+### [文件搜索与启动](lists/search-launch.md)
 
 <details>
 <summary>展开 7 款软件</summary>
@@ -82,9 +76,7 @@
 
 </details>
 
-### 识别与翻译
-
-[查看分类详情与发布日期](lists/recognition-translation.md)
+### [识别与翻译](lists/recognition-translation.md)
 
 <details>
 <summary>展开 8 款软件</summary>
@@ -100,9 +92,7 @@
 
 </details>
 
-### 局域网传输
-
-[查看分类详情与发布日期](lists/local-transfer.md)
+### [局域网传输](lists/local-transfer.md)
 
 <details>
 <summary>展开 4 款软件</summary>
@@ -114,9 +104,7 @@
 
 </details>
 
-### 远程桌面
-
-[查看分类详情与发布日期](lists/remote-desktop.md)
+### [远程桌面](lists/remote-desktop.md)
 
 <details>
 <summary>展开 2 款软件</summary>
@@ -126,9 +114,7 @@
 
 </details>
 
-### 网页转桌面
-
-[查看分类详情与发布日期](lists/web-to-desktop.md)
+### [网页转桌面](lists/web-to-desktop.md)
 
 <details>
 <summary>展开 1 款软件</summary>
@@ -137,9 +123,7 @@
 
 </details>
 
-### 系统工具
-
-[查看分类详情与发布日期](lists/system.md)
+### [系统工具](lists/system.md)
 
 <details>
 <summary>展开 65 款软件</summary>
@@ -236,9 +220,7 @@
 
 </details>
 
-### 下载
-
-[查看分类详情与发布日期](lists/download.md)
+### [下载](lists/download.md)
 
 <details>
 <summary>展开 23 款软件</summary>
@@ -275,9 +257,7 @@
 
 </details>
 
-### 开发工具
-
-[查看分类详情与发布日期](lists/development.md)
+### [开发工具](lists/development.md)
 
 <details>
 <summary>展开 55 款软件</summary>
@@ -356,9 +336,7 @@
 
 </details>
 
-### AI 工具
-
-[查看分类详情与发布日期](lists/ai.md)
+### [AI 工具](lists/ai.md)
 
 <details>
 <summary>展开 11 款软件</summary>
@@ -381,9 +359,7 @@
 
 </details>
 
-### 多媒体
-
-[查看分类详情与发布日期](lists/media.md)
+### [多媒体](lists/media.md)
 
 <details>
 <summary>展开 45 款软件</summary>
@@ -448,9 +424,7 @@
 
 </details>
 
-### 文档与阅读
-
-[查看分类详情与发布日期](lists/documents.md)
+### [文档与阅读](lists/documents.md)
 
 <details>
 <summary>展开 12 款软件</summary>
@@ -470,9 +444,7 @@
 
 </details>
 
-### 网站
-
-[查看分类详情与发布日期](lists/websites.md)
+### [网站](lists/websites.md)
 
 <details>
 <summary>展开 2 款软件</summary>
@@ -482,9 +454,7 @@
 
 </details>
 
-### Android 应用
-
-[查看分类详情与发布日期](app.md)
+### [Android 应用](app.md)
 
 <details>
 <summary>展开 11 款软件</summary>
