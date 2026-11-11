@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件清单，共收录 274 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 276 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -15,7 +15,7 @@
 - [网页转桌面](#网页转桌面) · 1 款
 - [系统工具](#系统工具) · 69 款
 - [下载](#下载) · 22 款
-- [开发工具](#开发工具) · 56 款
+- [开发工具](#开发工具) · 58 款
 - [AI 工具](#ai-工具) · 14 款
 - [多媒体](#多媒体) · 48 款
 - [文档与阅读](#文档与阅读) · 13 款
@@ -263,7 +263,7 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 56 款软件</summary>
+<summary>展开 58 款软件</summary>
 
 #### 编辑器
 
@@ -319,6 +319,8 @@
 - [Gitnuro](https://github.com/JetpackDuba/Gitnuro) - 基于 JGit 的跨平台 Git 客户端。 `跨平台` `GPL-3.0`
 - [Guitar](https://github.com/soramimi/Guitar) - 基于 Qt 的跨平台 Git 图形客户端。 `跨平台` `GPL-2.0`
 - [megit](https://github.com/eclipsesource/megit) - 基于 Eclipse 的 Git 图形客户端。 `跨平台` `EPL-2.0`
+- [GitYak](https://github.com/Eflyax/GitYak) - 可通过 SSH 操作远程服务器与本地仓库的跨平台 Git 图形客户端。 `跨平台`
+- [RemoteGit](https://github.com/adammery/remotegit) - 面向存放在 SSH 服务器上的仓库的 Git 图形客户端，可查看改动、差异、历史与分支并执行提交、推送和拉取。 `Windows` `macOS`
 #### API 测试
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 跨平台开源 API 测试 Web 工具。 `跨平台` `MIT`
