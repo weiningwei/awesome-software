@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
 
-按功能整理的软件清单，共收录 272 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 273 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -17,7 +17,7 @@
 - [下载](#下载) · 22 款
 - [开发工具](#开发工具) · 56 款
 - [AI 工具](#ai-工具) · 13 款
-- [多媒体](#多媒体) · 47 款
+- [多媒体](#多媒体) · 48 款
 - [文档与阅读](#文档与阅读) · 13 款
 - [网站](#网站) · 2 款
 - [Android 应用](#android-应用) · 11 款
@@ -368,7 +368,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 47 款软件</summary>
+<summary>展开 48 款软件</summary>
 
 #### 视频播放
 
@@ -429,6 +429,7 @@
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - 轻量级 AI 证件照制作工具。 `跨平台` `Apache-2.0`
 - [LiYing](https://github.com/aoguai/LiYing) - 完成一般照相馆后期证件照处理流程的照片自动处理的工具。 `跨平台` `AGPL-3.0`
 - [image-matting](https://github.com/pangxiaobin/image-matting) - 基于本地模型的 AI 抠图工具，支持批量抠图、证件照与图片格式转换、压缩。 `Windows` `CC BY-NC 4.0`
+- [PhotoCraft](https://github.com/storytold/photocraft) - 纯 Rust 编写的跨平台开源照片编辑器。 `跨平台` `Apache-2.0`
 
 </details>
 
