@@ -227,7 +227,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 23 款软件</summary>
+<summary>展开 22 款软件</summary>
 
 #### 通用下载器
 
@@ -249,7 +249,6 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 命令行视频下载器（youtube-dl 分支）。 `跨平台` `AGPL-3.0`
 - [lux](https://github.com/iawia002/lux) - 跨平台视频下载命令行工具。 `跨平台` `MIT`
 - [media-downloader](https://github.com/mhogomchungu/media-downloader) - 基于 yt-dlp 的视频下载图形界面。 `跨平台` `GPL-2.0`
-- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - 跨平台[`yt-dlp`](https://github.com/yt-dlp/yt-dlp)的GUI。 `Windows` `Unlicense`
 - [youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - 适用于 [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) 和 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) 的 WPF GUI。 `Windows` `GPL-3.0`
 - [Vividl](https://github.com/Bluegrams/Vividl) - yt-dlp 的 Windows 图形界面。 `Windows` `BSD-3-Clause`
 - [YTSage](https://github.com/oop7/YTSage) - YouTube下载器。 `跨平台` `MIT`
