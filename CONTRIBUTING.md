@@ -4,10 +4,10 @@
 
 ## 条目格式标准
 
-每款软件统一为「列表项 + 链接 + 简介 + 标签 + 可选的发布日期徽章」的形式（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
+每款软件统一为「列表项 + 链接 + 简介 + 标签 + 可选的徽章」的形式（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
 
 ```markdown
-- [软件名](仓库或主页链接) - 一句话简介。 `平台` `开源协议` ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat)
+- [软件名](仓库或主页链接) - 一句话简介。 `平台` `开源协议` ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat)
 ```
 
 ### 字段说明
@@ -19,7 +19,8 @@
 | 简介 | ✅ | 一句话客观描述功能，以句号（。）结尾，避免营销用语 |
 | 平台 | 🔶 | 反引号标签：`Windows` / `macOS` / `Linux` / `跨平台` |
 | 开源协议 | 🔶 | 使用 SPDX 标识，如 `MIT` / `GPL-3.0` / `AGPL-3.0` / `Unlicense` |
-| 发布日期徽章 | 🔶 | 有 GitHub Release 的项目添加，便于比较同类软件的更新时间 |
+| stars 徽章 | 🔶 | GitHub 项目添加，显示项目热度 |
+| 版本与发布日期徽章 | 🔶 | 有 GitHub Release 的项目添加，便于比较版本与发布时间 |
 
 > 🔶 = 建议填写，但非强制；存量条目正在逐步统一为该格式。
 
@@ -28,13 +29,13 @@
 - 软件名与简介之间用 ` - `（空格 + 短横 + 空格）分隔，**不要用** `:` 或 `：`
 - 平台、协议用反引号（`` ` ``）包裹，放在简介之后、徽章之前
 - 简介客观准确，不写「最好用」「神器」「必备」等主观评价
-- 有 GitHub Release 的条目使用发布日期徽章；无 Release 的条目不添加无效徽章
+- GitHub 条目使用 stars 徽章；有 Release 的条目再添加版本与发布日期徽章
 
 ### 正反例对比
 
 ✅ **正确**
 ```markdown
-- [LocalSend](https://github.com/localsend/localsend) - 局域网内跨设备文件传输工具。 `跨平台` `MIT` ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?display_date=published_at&style=flat)
+- [LocalSend](https://github.com/localsend/localsend) - 局域网内跨设备文件传输工具。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?display_date=published_at&style=flat)
 ```
 
 ❌ **错误**（问题：用冒号分隔、缺平台/协议、营销用语）
@@ -44,15 +45,17 @@
 
 ## 徽章约定
 
-有 GitHub Release 的条目，仅使用一枚 [shields.io](https://shields.io) **发布日期**徽章：
+GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars → 最新版本 → 发布日期**。如果项目没有 GitHub Release，只保留 stars 徽章：
 
 ```markdown
+![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?style=flat)
+![GitHub Release](https://img.shields.io/github/v/release/owner/repo?style=flat)
 ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat)
 ```
 
 - `owner/repo` 需替换为真实路径，且必须与条目链接指向同一仓库
-- 非 GitHub 项目（如官网、GitLab）和无 GitHub Release 的项目不添加此徽章
-- 不要添加 stars、版本、CI / build 状态等其他徽章
+- 非 GitHub 项目（如官网、GitLab）不添加这些徽章
+- 无 GitHub Release 的项目不添加版本与发布日期徽章；不要添加 CI / build 状态等无关徽章
 - `display_date=published_at` 显示 Release 的发布时间；它不代表仓库最近提交时间
 - `README.md` 首页索引不显示逐项徽章，徽章仅保留在分类文件和 `app.md`
 - release 日期徽章采用 shields.io 默认显示样式（仅月份，或非当年时显示 月份+年份，如 `may 2023`），目前不支持 `YYYY-MM-DD` 数字格式

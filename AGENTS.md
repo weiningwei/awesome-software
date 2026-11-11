@@ -31,10 +31,10 @@ rg "软件名或仓库名" lists app.md
 Use UTF-8 Markdown with two-space-friendly readable wrapping and consistent list syntax. Software entries follow:
 
 ```markdown
-- [Official Name](https://github.com/owner/repo) - 客观的一句话简介。 `平台` `SPDX-License` ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat)
+- [Official Name](https://github.com/owner/repo) - 客观的一句话简介。 `平台` `SPDX-License` ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat)
 ```
 
-Use the official software name, a concise factual description ending in `。`, and backtick labels such as `` `Windows` `` or `` `跨平台` ``. For GitHub projects with releases, use one shields.io release date badge. Append new entries to the end of the best-matching category. Never edit the generated README entries directly.
+Use the official software name, a concise factual description ending in `。`, and backtick labels such as `` `Windows` `` or `` `跨平台` ``. For GitHub projects, use shields.io badges in this order: stars, latest release, release date. Omit the latter two when the project has no GitHub Release. Append new entries to the end of the best-matching category. Never edit the generated README entries directly.
 
 ## Testing Guidelines
 
