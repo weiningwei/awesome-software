@@ -416,7 +416,7 @@
 #### 图片
 
 - [HoneyView](https://www.bandisoft.com/honeyview/) - Windows 图片查看器。 `Windows`
-- [ImageGlass](https://github.com/d2phap/ImageGlass) - 开源图片查看器，支持 90 余种格式与色彩管理。 `Windows`
+- [ImageGlass](https://github.com/d2phap/ImageGlass) - 开源图片查看器，支持 90 余种格式与色彩管理。 `跨平台` `GPL-3.0`
 - [PicView](https://github.com/Ruben2776/PicView) - 轻量图片查看器，支持批量处理与漫画阅读。 `Windows`
 - [upscayl](https://github.com/upscayl/upscayl) - 放大和增强低分辨率图像。 `跨平台` `AGPL-3.0`
 - [Final2x](https://github.com/EutropicAI/Final2x) - 图像超分辨率工具。 `跨平台` `BSD-3-Clause`
