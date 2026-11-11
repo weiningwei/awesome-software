@@ -156,8 +156,8 @@
 - [Sam Toki Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 适用于 Windows 的极简风格鼠标指针，包含多种指针方案。 `Windows` `CC BY-NC-SA 3.0`
 - [Sucrose](https://github.com/Taiizor/Sucrose) - 动态壁纸引擎，支持多种交互式动态壁纸。 `Windows` `GPL-3.0`
 - [openFences](https://github.com/weiweigogo/openFrence) - 轻量级 Windows 桌面图标分组管理工具，Stardock Fences 的开源替代。 `Windows` `MIT`
-- [BongoCat](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0`
-- [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT`
+- [BongoCat (vladelaina)](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0`
+- [BongoCat (ayangweb)](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT`
 - [Cursors](https://github.com/rohzzn/cursors) - Windows 鼠标指针切换工具，内置 60 套方案，支持导入本地光标包与社区光标库。 `Windows` `MIT`
 - [MiniDock](https://github.com/wang01116/MiniDock) - 轻量的 Windows 11 风格 Dock 栏，可固定应用、文件夹与网页，支持毛玻璃背景、悬停放大、窗口预览与应用组。 `Windows`
 #### 窗口与桌面工具
@@ -354,8 +354,8 @@
 
 - [CC Switch](https://github.com/farion1231/cc-switch) - 跨平台的 Claude Code、Codex 等 AI 编程工具配置与切换管理器。 `跨平台`
 - [Codex++](https://github.com/BigPizzaV3/CodexPlusPlus) - 面向 OpenAI Codex / ChatGPT 桌面应用的外部启动器与管理工具，支持供应商切换、会话管理和界面增强。 `Windows` `macOS`
-- [Skills Manager](https://github.com/xingkongliang/skills-manager) - 统一管理、同步和部署 AI 编程工具技能的桌面应用，支持 50+ 工具。 `跨平台` `MIT`
-- [Skills Manager](https://github.com/jiweiyeah/Skills-Manager) - 通过符号链接将 AI 技能同步到 32 个 AI 编程工具的开源桌面管理器。 `跨平台` `MIT`
+- [Skills Manager (xingkongliang)](https://github.com/xingkongliang/skills-manager) - 统一管理、同步和部署 AI 编程工具技能的桌面应用，支持 50+ 工具。 `跨平台` `MIT`
+- [Skills Manager (jiweiyeah)](https://github.com/jiweiyeah/Skills-Manager) - 通过符号链接将 AI 技能同步到 32 个 AI 编程工具的开源桌面管理器。 `跨平台` `MIT`
 - [AI Skills Buddy](https://github.com/konnga/skill-buddy) - 管理与同步 AI 编程工具技能及 MCP 服务器的桌面工作台。 `跨平台` `MIT`
 - [cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 跨平台桌面工作台，支持多会话、Worktree、代码 diff 审查、技能市场与多模型接入。 `跨平台` `MIT`
 - [Orca](https://github.com/stablyai/orca) - 跨平台 AI 编程代理编排桌面应用，支持 Codex、Claude Code、OpenCode 等多代理并行运行于独立 Worktree。 `跨平台` `MIT`
