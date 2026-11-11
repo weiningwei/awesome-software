@@ -1,0 +1,28 @@
+README.md
+  s_29d9ce35e93722::t_bedf7804996ee2 5,9-23,28,52,64,79,95,106,116,221,258,260,323,338,364,432,461,463
+CONTRIBUTING.md
+  s_29d9ce35e93722::t_bedf7804996ee2 3,76,103
+RESOURCES.md
+  s_29d9ce35e93722::t_bedf7804996ee2 1-20
+scripts/build_readme.py
+  s_29d9ce35e93722::t_bedf7804996ee2 83-86
+  s_29d9ce35e93722::t_3b0392eb0b6350 57,65-66,73
+lists/development.md
+  s_29d9ce35e93722::t_bedf7804996ee2 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "478ebf8fdcc454b25133b21243de286bf18d246f",
+  "prompts": {},
+  "sessions": {
+    "s_29d9ce35e93722": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cae1-cb90-70c3-8ee9-33b560c68bc2",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
