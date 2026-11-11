@@ -1,0 +1,16 @@
+README.md
+  h_ab7185b88fbcdb 63,73,151,155,159,166,171,183,195,201,211,229,237,242,247,261,272,286,300,310,324,338,344,351,379,386,405,426,433,439,454,474,490
+scripts/build_readme.py
+  h_ab7185b88fbcdb 44-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c251c175fba957101134ba8f812479d8e689be35",
+  "prompts": {},
+  "humans": {
+    "h_ab7185b88fbcdb": {
+      "author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
