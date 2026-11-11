@@ -1,0 +1,21 @@
+lists/ai.md
+  s_c06532aa249c03::t_6e089a886c61fb 23
+README.md
+  s_c06532aa249c03::t_432cff2eeea862 5,19,346,365
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "98938c6ed74b1dac32f5f5f059448c2d1e645348",
+  "prompts": {},
+  "sessions": {
+    "s_c06532aa249c03": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cad7-9c38-7670-a6bd-e9e482a762fa",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
