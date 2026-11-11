@@ -126,7 +126,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 65 款软件</summary>
+<summary>展开 66 款软件</summary>
 
 #### 压缩与解压
 
@@ -157,6 +157,7 @@
 - [BongoCat](https://github.com/vladelaina/BongoCat) - 桌面宠物猫，按键和鼠标操作时显示猫爪敲击动画，支持自定义模型。 `跨平台` `AGPL-3.0`
 - [BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT`
 - [Cursors](https://github.com/rohzzn/cursors) - Windows 鼠标指针切换工具，内置 60 套方案，支持导入本地光标包与社区光标库。 `Windows` `MIT`
+- [MiniDock](https://github.com/wang01116/MiniDock) - 轻量的 Windows 11 风格 Dock 栏，可固定应用、文件夹与网页，支持毛玻璃背景、悬停放大、窗口预览与应用组。 `Windows`
 #### 窗口与桌面工具
 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - 通过Alt键移动窗口。 `Windows` `GPL-3.0`
