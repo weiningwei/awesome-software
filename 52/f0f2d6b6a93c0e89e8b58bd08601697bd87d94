@@ -1,0 +1,73 @@
+lists/local-transfer.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-8
+lists/system.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-9,11-13,15-20,22-26,28-38,40-49,51-59,61-78,80-85,87-92,94-98,100-104
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,10,14,21,27,39,50,60,79,86,93,99
+lists/search-launch.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-11
+lists/screenshot-recording.md
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,16
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-15,17-22
+lists/remote-desktop.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-6
+lists/clipboard.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-8
+lists/ai.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-11,13-20
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,12
+lists/development.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-15,17-26,28-34,36-49,51-62,64-69,71-77,79-82
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,16,27,35,50,63,70,78
+AGENTS.md
+  s_f58ac5cc2ad8e4::t_ec8b96854cb0d0 7-10,14,18,21-22,24,34,37
+scripts/build_readme.py
+  s_f58ac5cc2ad8e4::t_4f349e084f87f8 1-30,32-35,38-49,52-56,61,63-105
+  s_f58ac5cc2ad8e4::t_882f2e75363f4c 36-37
+  s_f58ac5cc2ad8e4::t_c322f6a71c4a5d 57
+  s_f58ac5cc2ad8e4::t_7e85ab9d3a7de5 58-60
+  s_f58ac5cc2ad8e4::t_507e582c8b48bd 31,62
+  s_f58ac5cc2ad8e4::t_709324ec52ccdb 50-51
+lists/download.md
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,17,32
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-16,18-31,33-35
+README.md
+  s_f58ac5cc2ad8e4::t_fc1153eceff359 5-8,24-29,31-32,38-43,45-59,61-64,66,68,70,72-73,76-81,83,85,87,89-90,92-99,101,103,105,107-108,110-113,115-117,119,121-122,124-125,127,129,131,133-134,136,138,140,142,144-145,153,156-159,162-164,167-175,178-185,188-194,198-212,215-218,227-229,232-235,237,239-241,243-244,248-256,259-270,273-274,276,278,280,282-283,288-294,297-304,308-311,314-319,321-325,328-331,333-337,340-343,346-350,355,357,359,361,363-364,368-371,374-380,382,384,386,388-389,394-403,406-410,413-416,419-422,425-437,441-453,455-456,460-478,483-491,493-495,497-501,503-505,507-509,511-515,518
+  s_f58ac5cc2ad8e4::t_fa811957abf286 3-4,23
+  s_f58ac5cc2ad8e4::t_6c13e3808c5120 34,44,147-151,154,160,165,176,186,195,213,219,225,230,246,257,271,285,295,305,312,326,338,344,351,366,372,391,404,411,417,423,438,492,496,502,506,510
+  s_f58ac5cc2ad8e4::t_e062cd37dbb1a3 152,155,161,166,177,187,214,284,296,313,327,339,345,353-354,405,412,418,424
+lists/documents.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-16
+lists/media.md
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 5,20,28,35,42,58
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-4,6-19,21-27,29-34,36-41,43-57,59-67
+lists/recognition-translation.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-12
+lists/websites.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-6
+CONTRIBUTING.md
+  s_f58ac5cc2ad8e4::t_ec8b96854cb0d0 3,10,18,22,31,37,40,47,50,54-57,62-63,65-66,95-97,99-100
+  s_f58ac5cc2ad8e4::t_bbd7dd2d3ced92 7,98
+  s_f58ac5cc2ad8e4::t_fd148cfeb30c7a 106
+app.md
+  s_f58ac5cc2ad8e4::t_4d4aca306725d7 1-4,13,18,25,30,35
+  s_f58ac5cc2ad8e4::t_709324ec52ccdb 5
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 15-16,20-23,27-28,32-33,37
+lists/web-to-desktop.md
+  s_f58ac5cc2ad8e4::t_d5e7f883f82425 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "52f0f2d6b6a93c0e89e8b58bd08601697bd87d94",
+  "prompts": {},
+  "sessions": {
+    "s_f58ac5cc2ad8e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ca4b-9761-7381-858c-c37a0bc7c726",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
