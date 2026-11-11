@@ -1,6 +1,6 @@
 # awesome-software
 
-<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
+<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
 按功能整理的软件清单，共收录 273 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
@@ -464,7 +464,7 @@
 
 </details>
 
-### [Android 应用](app.md)
+### [Android 应用](lists/android.md)
 
 <details>
 <summary>展开 11 款软件</summary>

@@ -1,6 +1,6 @@
 # Android 应用
 
-[返回首页](README.md)
+[返回首页](../README.md)
 
 Android 应用清单。
 

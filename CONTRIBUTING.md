@@ -1,6 +1,6 @@
 # 贡献指南 / Contributing
 
-感谢你为 awesome-software 推荐好用的开源软件！本指南说明条目的**标准格式**、**徽章约定**、**分类规则**与**提交流程**，新增条目请遵循此处规范。分类文件和 `app.md` 是条目的维护位置；`README.md` 中的折叠索引由脚本生成。
+感谢你为 awesome-software 推荐好用的开源软件！本指南说明条目的**标准格式**、**徽章约定**、**分类规则**与**提交流程**，新增条目请遵循此处规范。分类文件（`lists/*.md`）是条目的维护位置；`README.md` 中的折叠索引由脚本生成。
 
 ## 条目格式标准
 
@@ -57,12 +57,12 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars 
 - 非 GitHub 项目（如官网、GitLab）不添加这些徽章
 - 无 GitHub Release 的项目不添加版本与发布日期徽章；不要添加 CI / build 状态等无关徽章
 - `display_date=published_at` 显示 Release 的发布时间；它不代表仓库最近提交时间
-- `README.md` 首页索引不显示逐项徽章，徽章仅保留在分类文件和 `app.md`
+- `README.md` 首页索引不显示逐项徽章，徽章仅保留在分类文件（`lists/*.md`）
 - release 日期徽章采用 shields.io 默认显示样式（仅月份，或非当年时显示 月份+年份，如 `may 2023`），目前不支持 `YYYY-MM-DD` 数字格式
 
 ## 如何添加一款软件
 
-1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`；Android 应用编辑 `app.md`
+1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`（Android 应用为 `lists/android.md`）
 2. 将新条目添加到该分类列表的**末尾**，不要直接修改 `README.md` 中的生成内容
 3. 按上述标准格式填写（至少包含：名称、链接、简介）
 4. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
@@ -96,8 +96,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars 
 ```
 awesome-software/
 ├── README.md             # 自动生成的无徽章折叠索引
-├── lists/                # 按功能分类的详细软件条目
-├── app.md                # Android 应用条目
+├── lists/                # 按功能分类的详细软件条目（含 Android 应用）
 ├── scripts/build_readme.py  # 生成首页索引
 ├── CONTRIBUTING.md       # 本贡献指南
 ├── LICENSE               # 清单本身的许可（CC0）
@@ -106,6 +105,6 @@ awesome-software/
 
 ## 许可
 
-本清单（`README.md`、`lists/*.md`、`app.md` 及整理成果）以 **CC0 1.0** 发布，可自由复制与再分发；所收录的各款软件仍归其原作者所有，请遵守各自的许可证。
+本清单（`README.md`、`lists/*.md` 及整理成果）以 **CC0 1.0** 发布，可自由复制与再分发；所收录的各款软件仍归其原作者所有，请遵守各自的许可证。
 
 感谢你的贡献！🎉

@@ -6,8 +6,8 @@ This repository is a curated Markdown directory rather than an executable applic
 
 - `README.md` is the generated, badge-free index of every software entry, grouped into collapsible categories.
 - `lists/*.md` contains the editable software entries, organized by functional category and subcategory.
-- `app.md` contains the editable list of Android applications.
-- `scripts/build_readme.py` regenerates the README index from the category files and `app.md`.
+- `lists/android.md` contains the editable list of Android applications.
+- `scripts/build_readme.py` regenerates the README index from the category files in `lists/`.
 - `CONTRIBUTING.md` is the authoritative reference for entry format, badges, categorization, and quality standards.
 - `LICENSE` describes the license for the curated content; `.gitignore` contains repository exclusions.
 
@@ -21,7 +21,7 @@ No application build or run commands are configured. Before submitting documenta
 python scripts/build_readme.py
 python scripts/build_readme.py --check
 git diff --check
-rg "软件名或仓库名" lists app.md
+rg "软件名或仓库名" lists
 ```
 
 `git diff --check` catches whitespace errors; `rg` (ripgrep) helps prevent duplicate entries. If `rg` is unavailable, use `git grep` or editor search instead. Review the rendered Markdown and verify every external link manually when adding entries.
