@@ -457,7 +457,7 @@
 ### [Android 应用](app.md)
 
 <details>
-<summary>展开 11 款软件</summary>
+<summary>展开 12 款软件</summary>
 
 #### 软件商店
 
@@ -477,6 +477,7 @@
 
 - [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android`
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android`
+- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
 #### 阅读
 
 - [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
