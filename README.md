@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
 
-按功能整理的软件清单，共收录 269 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 270 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -15,7 +15,7 @@
 - [网页转桌面](#网页转桌面) · 1 款
 - [系统工具](#系统工具) · 69 款
 - [下载](#下载) · 22 款
-- [开发工具](#开发工具) · 55 款
+- [开发工具](#开发工具) · 56 款
 - [AI 工具](#ai-工具) · 12 款
 - [多媒体](#多媒体) · 47 款
 - [文档与阅读](#文档与阅读) · 12 款
@@ -263,7 +263,7 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 55 款软件</summary>
+<summary>展开 56 款软件</summary>
 
 #### 编辑器
 
@@ -292,6 +292,7 @@
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0`
 - [MarkText](https://github.com/marktext/marktext) - 简洁的 Markdown 编辑器，支持实时预览与导出。 `跨平台` `MIT`
 - [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台`
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 本地优先的开源协作工作区，集文档、表格、看板与 AI 于一体。 `跨平台` `AGPL-3.0`
 #### 终端与 SSH
 
 - [terminal](https://github.com/microsoft/terminal) - Windows Terminal。 `Windows` `MIT`
