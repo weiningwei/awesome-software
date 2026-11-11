@@ -2,32 +2,30 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件清单，共收录 275 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 268 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
-- [截图与录屏](#截图与录屏) · 12 款
-- [剪贴板](#剪贴板) · 4 款
-- [文件搜索与启动](#文件搜索与启动) · 7 款
-- [识别与翻译](#识别与翻译) · 8 款
-- [局域网传输](#局域网传输) · 3 款
-- [远程桌面](#远程桌面) · 2 款
-- [网页转桌面](#网页转桌面) · 1 款
-- [系统工具](#系统工具) · 77 款
-- [下载](#下载) · 23 款
-- [开发工具](#开发工具) · 44 款
-- [字体](#字体) · 8 款
-- [AI 工具](#ai-工具) · 14 款
-- [多媒体](#多媒体) · 50 款
-- [文档与阅读](#文档与阅读) · 20 款
-- [网站](#网站) · 2 款
+- [截图与录屏](#截图与录屏) · 12 项
+- [剪贴板](#剪贴板) · 4 项
+- [文件搜索与启动](#文件搜索与启动) · 7 项
+- [识别与翻译](#识别与翻译) · 8 项
+- [局域网传输](#局域网传输) · 3 项
+- [远程桌面](#远程桌面) · 2 项
+- [系统工具](#系统工具) · 73 项
+- [下载](#下载) · 23 项
+- [开发工具](#开发工具) · 45 项
+- [字体](#字体) · 7 项
+- [AI 工具](#ai-工具) · 14 项
+- [多媒体](#多媒体) · 50 项
+- [文档与阅读](#文档与阅读) · 20 项
 
-## 软件清单
+## 软件与字体清单
 
 ### [截图与录屏](lists/screenshot-recording.md)
 
 <details>
-<summary>展开 12 款软件</summary>
+<summary>展开 12 项</summary>
 
 #### 截图
 
@@ -51,7 +49,7 @@
 ### [剪贴板](lists/clipboard.md)
 
 <details>
-<summary>展开 4 款软件</summary>
+<summary>展开 4 项</summary>
 
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。 `跨平台` `GPL-3.0`
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 跨平台的剪贴板管理工具。 `跨平台` `Apache-2.0`
@@ -63,7 +61,7 @@
 ### [文件搜索与启动](lists/search-launch.md)
 
 <details>
-<summary>展开 7 款软件</summary>
+<summary>展开 7 项</summary>
 
 - [Listary](https://www.listary.com/) - 搜索文件、快速跳转。 `Windows`
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 快速文件搜索和应用启动工具。 `Windows` `MIT`
@@ -78,7 +76,7 @@
 ### [识别与翻译](lists/recognition-translation.md)
 
 <details>
-<summary>展开 8 款软件</summary>
+<summary>展开 8 项</summary>
 
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 离线 OCR 工具，支持截图识别与批量处理。 `跨平台` `MIT`
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 划词翻译与 OCR 工具，支持多种翻译接口。 `跨平台` `GPL-3.0`
@@ -94,7 +92,7 @@
 ### [局域网传输](lists/local-transfer.md)
 
 <details>
-<summary>展开 3 款软件</summary>
+<summary>展开 3 项</summary>
 
 - [localsend](https://github.com/localsend/localsend) - 局域网跨设备文件传输工具，无需互联网连接。 `跨平台` `Apache-2.0`
 - [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网传输工具，自动发现设备并支持拖放发送。 `跨平台` `BSD-3-Clause`
@@ -105,26 +103,17 @@
 ### [远程桌面](lists/remote-desktop.md)
 
 <details>
-<summary>展开 2 款软件</summary>
+<summary>展开 2 项</summary>
 
 - [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 基于 RustDesk 的局域网远程桌面工具，仅在本地网络内直连，不经公网中转。 `跨平台` `AGPL-3.0`
 - [1Remote](https://github.com/1Remote/1Remote) - 统一管理 RDP、SSH、VNC、sFTP 等远程连接的会话管理器。 `Windows` `GPL-3.0`
 
 </details>
 
-### [网页转桌面](lists/web-to-desktop.md)
-
-<details>
-<summary>展开 1 款软件</summary>
-
-- [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
-
-</details>
-
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 77 款软件</summary>
+<summary>展开 73 项</summary>
 
 #### 压缩与解压
 
@@ -212,12 +201,6 @@
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - 统一管理 winget/Chocolatey/Scoop 等多种包管理器的图形界面。 `Windows` `MIT`
 - [F-Droid](https://github.com/f-droid/fdroidclient) - 开源 Android 应用商店。 `Android` `GPL-3.0`
 - [Droid-ify](https://github.com/Droid-ify/client) - 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0`
-#### 系统镜像
-
-- [HelloWindows](https://hellowindows.cn/) - Windows 原版镜像下载站。 `Windows`
-- [itellyou](https://next.itellyou.cn/) - Windows/Office 原版镜像下载站。 `Windows`
-- [系统库](https://www.xitongku.com/) - Windows 原版系统镜像与装机资源站。 `Windows`
-- [又要重装系统](https://yyczxt.com/) - Windows 系统镜像与重装资源站。 `Windows`
 #### 启动盘制作
 
 - [Ventoy](https://github.com/ventoy/Ventoy) - 启动盘制作，无需格式化。 `跨平台` `GPL-3.0`
@@ -235,7 +218,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 23 款软件</summary>
+<summary>展开 23 项</summary>
 
 #### 通用下载器
 
@@ -272,8 +255,9 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 44 款软件</summary>
+<summary>展开 45 项</summary>
 
+- [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
 #### 编辑器
 
 - [Sublime Text](https://www.sublimetext.com/) - 轻量的跨平台代码编辑器，支持多光标与插件扩展。 `跨平台`
@@ -336,7 +320,7 @@
 ### [字体](lists/fonts.md)
 
 <details>
-<summary>展开 8 款软件</summary>
+<summary>展开 7 项</summary>
 
 - [FiraCode](https://github.com/tonsky/FiraCode) - 带编程连字的等宽编程字体。 `跨平台` `OFL-1.1`
 - [maple-font](https://github.com/subframe7536/maple-font) - Maple Mono 等宽编程字体，含中文与连字。 `跨平台` `OFL-1.1`
@@ -345,14 +329,13 @@
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 基于 Klee One 衍生的开源中文楷体字体。 `跨平台` `OFL-1.1`
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 的源代码字体。 `跨平台` `OFL-1.1`
 - [monaspace](https://github.com/githubnext/monaspace) - GitHub 推出的等宽编程字体超级家族。 `跨平台` `OFL-1.1`
-- [free-font](https://github.com/wordshub/free-font) - 按授权整理的免费商用字体合集。 `跨平台`
 
 </details>
 
 ### [AI 工具](lists/ai.md)
 
 <details>
-<summary>展开 14 款软件</summary>
+<summary>展开 14 项</summary>
 
 #### 聊天与助手
 
@@ -378,7 +361,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 50 款软件</summary>
+<summary>展开 50 项</summary>
 
 #### 视频播放与观看
 
@@ -446,7 +429,7 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 20 款软件</summary>
+<summary>展开 20 项</summary>
 
 #### PDF、电子书与文档
 
@@ -475,15 +458,9 @@
 
 </details>
 
-### [网站](lists/websites.md)
+## 相关资源
 
-<details>
-<summary>展开 2 款软件</summary>
-
-- [果核剥壳](https://www.ghxi.com/) - 软件下载站，提供去广告纯净版软件。 `Web`
-- [大眼仔旭](https://www.dayanzai.me/) - 软件下载站，提供绿色软件与资源。 `Web`
-
-</details>
+软件下载站、系统镜像下载站与资料合集见 [相关资源](RESOURCES.md)。
 
 ## 贡献
 

@@ -98,13 +98,6 @@
 - [F-Droid](https://github.com/f-droid/fdroidclient) - 开源 Android 应用商店。 `Android` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/f-droid/fdroidclient?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/f-droid/fdroidclient?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/f-droid/fdroidclient?display_date=published_at&style=flat)
 - [Droid-ify](https://github.com/Droid-ify/client) - 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Droid-ify/client?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Droid-ify/client?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Droid-ify/client?display_date=published_at&style=flat)
 
-## 系统镜像
-
-- [HelloWindows](https://hellowindows.cn/) - Windows 原版镜像下载站。 `Windows`
-- [itellyou](https://next.itellyou.cn/) - Windows/Office 原版镜像下载站。 `Windows`
-- [系统库](https://www.xitongku.com/) - Windows 原版系统镜像与装机资源站。 `Windows`
-- [又要重装系统](https://yyczxt.com/) - Windows 系统镜像与重装资源站。 `Windows`
-
 ## 启动盘制作
 
 - [Ventoy](https://github.com/ventoy/Ventoy) - 启动盘制作，无需格式化。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/ventoy/Ventoy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ventoy/Ventoy?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ventoy/Ventoy?display_date=published_at&style=flat)

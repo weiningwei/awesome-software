@@ -2,6 +2,8 @@
 
 [返回首页](../README.md)
 
+- [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake?display_date=published_at&style=flat)
+
 ## 编辑器
 
 - [Sublime Text](https://www.sublimetext.com/) - 轻量的跨平台代码编辑器，支持多光标与插件扩展。 `跨平台`

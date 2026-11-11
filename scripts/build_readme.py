@@ -15,7 +15,6 @@ CATEGORIES = [
     ("识别与翻译", "lists/recognition-translation.md"),
     ("局域网传输", "lists/local-transfer.md"),
     ("远程桌面", "lists/remote-desktop.md"),
-    ("网页转桌面", "lists/web-to-desktop.md"),
     ("系统工具", "lists/system.md"),
     ("下载", "lists/download.md"),
     ("开发工具", "lists/development.md"),
@@ -23,7 +22,6 @@ CATEGORIES = [
     ("AI 工具", "lists/ai.md"),
     ("多媒体", "lists/media.md"),
     ("文档与阅读", "lists/documents.md"),
-    ("网站", "lists/websites.md"),
 ]
 BADGE = re.compile(r"\s*!\[[^]]*\]\(https://img\.shields\.io/[^)]*\)")
 ENTRY = re.compile(r"^- \[[^]]+\]\(https?://")
@@ -56,7 +54,7 @@ def build() -> str:
         "",
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->",
         "",
-        f"按功能整理的软件清单，共收录 {total} 款。首页列出全部软件；"
+        f"按功能整理的软件与字体清单，共收录 {total} 项。首页列出全部条目；"
         "点击分类标题可打开分类页面，查看星标、最新版本与发布日期。",
         "",
         "## 分类",
@@ -64,15 +62,15 @@ def build() -> str:
     ]
     for name, _, _, count in sections:
         anchor = name.lower().replace(" ", "-")
-        output.append(f"- [{name}](#{anchor}) · {count} 款")
-    output.extend(("", "## 软件清单", ""))
+        output.append(f"- [{name}](#{anchor}) · {count} 项")
+    output.extend(("", "## 软件与字体清单", ""))
     for name, path, entries, count in sections:
         output.extend(
             (
                 f"### [{name}]({path})",
                 "",
                 "<details>",
-                f"<summary>展开 {count} 款软件</summary>",
+                f"<summary>展开 {count} 项</summary>",
                 "",
                 *entries,
                 "",
@@ -82,6 +80,10 @@ def build() -> str:
         )
     output.extend(
         (
+            "## 相关资源",
+            "",
+            "软件下载站、系统镜像下载站与资料合集见 [相关资源](RESOURCES.md)。",
+            "",
             "## 贡献",
             "",
             "欢迎推荐好用的开源或免费软件。添加条目的格式与分类规则请阅读 [贡献指南](CONTRIBUTING.md)。",
