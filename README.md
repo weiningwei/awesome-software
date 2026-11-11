@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 270 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 272 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -12,7 +12,7 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 2 项
-- [系统工具](#系统工具) · 73 项
+- [系统工具](#系统工具) · 75 项
 - [下载](#下载) · 23 项
 - [开发工具](#开发工具) · 46 项
 - [字体](#字体) · 7 项
@@ -113,7 +113,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 73 项</summary>
+<summary>展开 75 项</summary>
 
 #### 压缩与解压
 
@@ -206,6 +206,10 @@
 - [Ventoy](https://github.com/ventoy/Ventoy) - 启动盘制作，无需格式化。 `跨平台` `GPL-3.0`
 - [rufus](https://github.com/pbatard/rufus) - 制作 Windows 与 Linux 启动 U 盘。 `Windows` `GPL-3.0`
 - [etcher](https://github.com/balena-io/etcher) - 跨平台镜像写入工具，用于制作启动盘。 `跨平台` `Apache-2.0`
+#### 网络代理
+
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - 基于 mihomo 内核的跨平台代理客户端，支持系统代理、TUN 模式与规则管理。 `跨平台` `GPL-3.0`
+- [FlClash](https://github.com/chen08209/FlClash) - 基于 Clash Meta 的跨平台代理客户端，支持 Windows、macOS、Linux 与 Android。 `跨平台` `GPL-3.0`
 #### 激活
 
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Windows/Office 激活脚本（HWID/KMS38）。 `Windows` `GPL-3.0`
