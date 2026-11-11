@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 269 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 270 项。首页列出全部条目；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -17,7 +17,7 @@
 - [开发工具](#开发工具) · 46 项
 - [字体](#字体) · 7 项
 - [AI 工具](#ai-工具) · 14 项
-- [多媒体](#多媒体) · 50 项
+- [多媒体](#多媒体) · 51 项
 - [文档与阅读](#文档与阅读) · 20 项
 
 ## 软件与字体清单
@@ -362,7 +362,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 50 项</summary>
+<summary>展开 51 项</summary>
 
 #### 视频播放与观看
 
@@ -424,6 +424,7 @@
 - [LiYing](https://github.com/aoguai/LiYing) - 完成一般照相馆后期证件照处理流程的照片自动处理的工具。 `跨平台` `AGPL-3.0`
 - [image-matting](https://github.com/pangxiaobin/image-matting) - 基于本地模型的 AI 抠图工具，支持批量抠图、证件照与图片格式转换、压缩。 `Windows` `CC BY-NC 4.0`
 - [PhotoCraft](https://github.com/storytold/photocraft) - 纯 Rust 编写的跨平台开源照片编辑器。 `跨平台` `Apache-2.0`
+- [果核看图](https://pic.ghxi.com/zh/) - Windows 图片查看器，支持 HEIC、AVIF、RAW、PSD 等格式与 ICC 色彩管理，提供绿色免安装版。 `Windows`
 
 </details>
 
