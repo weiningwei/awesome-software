@@ -126,7 +126,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 66 款软件</summary>
+<summary>展开 67 款软件</summary>
 
 #### 压缩与解压
 
@@ -177,6 +177,7 @@
 - [windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - 用于移除 Windows Defender 的工具，支持 Windows 8/10/11。 `Windows`
 - [Windows-Defender-Manager](https://github.com/TwoSevenOneT/Windows-Defender-Manager) - 用于停止 Windows Defender 的工具，兼容 Windows 10/11。 `Windows`
 - [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - 免费的 Windows 系统优化工具，专注于性能、隐私和简洁性。 `Windows` `GPL-3.0`
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) - PowerShell 脚本，用于移除 Windows 10/11 预装应用、禁用遥测并精简系统设置。 `Windows` `MIT`
 #### 清理与卸载
 
 - [geek](https://geekuninstaller.com/) - 轻量级软件卸载工具，支持强制卸载与清理残留。 `Windows`
