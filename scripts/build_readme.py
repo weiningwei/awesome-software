@@ -45,7 +45,7 @@ def index_lines(path: str) -> tuple[list[str], int]:
 
 def build() -> str:
     sections = []
-    for name, path in [*CATEGORIES, ("Android 应用", "lists/android.md")]:
+    for name, path in CATEGORIES:
         entries, count = index_lines(path)
         sections.append((name, path, entries, count))
     total = sum(count for *_, count in sections)

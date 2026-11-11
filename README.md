@@ -13,14 +13,13 @@
 - [局域网传输](#局域网传输) · 4 款
 - [远程桌面](#远程桌面) · 2 款
 - [网页转桌面](#网页转桌面) · 1 款
-- [系统工具](#系统工具) · 69 款
-- [下载](#下载) · 22 款
+- [系统工具](#系统工具) · 75 款
+- [下载](#下载) · 23 款
 - [开发工具](#开发工具) · 58 款
 - [AI 工具](#ai-工具) · 14 款
-- [多媒体](#多媒体) · 48 款
-- [文档与阅读](#文档与阅读) · 13 款
+- [多媒体](#多媒体) · 51 款
+- [文档与阅读](#文档与阅读) · 14 款
 - [网站](#网站) · 2 款
-- [Android 应用](#android-应用) · 11 款
 
 ## 软件清单
 
@@ -126,7 +125,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 69 款软件</summary>
+<summary>展开 75 款软件</summary>
 
 #### 压缩与解压
 
@@ -170,6 +169,12 @@
 - [PeekDesktop](https://github.com/shanselman/PeekDesktop) - 点击桌面或任务栏空白处即可显示桌面，将 macOS Sonoma 的这一特性带到 Windows。 `Windows` `MIT`
 - [WindInput](https://github.com/huanfeng/WindInput) - 轻量、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼和双拼。 `跨平台` `MIT`
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT`
+#### 自动化与广告跳过
+
+- [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
+- [TapClick](https://github.com/LGH1996/TapClick) - Android 自动化点击工具。 `Android` `GPL-3.0`
+- [SKIPs](https://github.com/GuoXiCheng/SKIP) - 自动跳过应用开屏广告。 `Android` `GPL-3.0`
+- [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 安卓系统开屏广告自动跳过助手。 `Android` `MIT`
 #### 系统优化
 
 - [winutil](https://github.com/ChrisTitusTech/winutil) - Windows 系统管理工具。 `Windows` `MIT`
@@ -204,6 +209,8 @@
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Windows 命令行包管理器，免管理员权限安装开发工具。 `Windows`
 - [winget](https://github.com/microsoft/winget-cli) - 微软官方 Windows 包管理器。 `Windows` `MIT`
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - 统一管理 winget/Chocolatey/Scoop 等多种包管理器的图形界面。 `Windows` `MIT`
+- [F-Droid](https://github.com/f-droid/fdroidclient) - 开源 Android 应用商店。 `Android` `GPL-3.0`
+- [Droid-ify](https://github.com/Droid-ify/client) - 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0`
 #### 系统镜像
 
 - [HelloWindows](https://hellowindows.cn/) - Windows 原版镜像下载站。 `Windows`
@@ -227,7 +234,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 22 款软件</summary>
+<summary>展开 23 款软件</summary>
 
 #### 通用下载器
 
@@ -253,6 +260,7 @@
 - [Vividl](https://github.com/Bluegrams/Vividl) - yt-dlp 的 Windows 图形界面。 `Windows` `BSD-3-Clause`
 - [YTSage](https://github.com/oop7/YTSage) - 带图形界面的 YouTube 下载器，支持音轨提取与字幕。 `跨平台` `MIT`
 - [downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩视频下载工具，支持批量下载与弹幕保存。 `Windows` `GPL-3.0`
+- [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android`
 #### 网络加速
 
 - [Xget](https://github.com/xixu-me/Xget) - 面向 GitHub 等开发者资源的下载加速代理。 `跨平台` `AGPL-3.0`
@@ -371,7 +379,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 48 款软件</summary>
+<summary>展开 51 款软件</summary>
 
 #### 视频播放
 
@@ -386,6 +394,9 @@
 - [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0`
 - [红果短剧 TV](https://github.com/aston314/hongguo-tv-releases) - 第三方红果短剧客户端，支持 Android TV、webOS、macOS、Windows 与 Linux。 `跨平台`
 - [红果短剧 桌面版](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases) - 第三方红果短剧客户端，提供 Windows 正式版与 macOS、Android TV 测试版，支持搜索、收藏与本机续播。 `跨平台`
+- [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 追番看番的 Android 客户端。 `Android` `Apache-2.0`
+- [AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - AfuseKt 移动端动漫追番应用。 `Android`
+- [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android`
 #### 视频剪辑与转码
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 跨平台开源视频剪辑器。 `跨平台` `MIT`
@@ -439,7 +450,7 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 13 款软件</summary>
+<summary>展开 14 款软件</summary>
 
 - [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
 - [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
@@ -454,6 +465,7 @@
 - [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - PDF 查看与编辑器，支持标注、测量、OCR 与 DWG/DXF 导入。 `跨平台` `LGPL-3.0`
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0`
 - [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0`
+- [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
 
 </details>
 
@@ -464,35 +476,6 @@
 
 - [果核剥壳](https://www.ghxi.com/) - 软件下载站，提供去广告纯净版软件。 `Web`
 - [大眼仔旭](https://www.dayanzai.me/) - 软件下载站，提供绿色软件与资源。 `Web`
-
-</details>
-
-### [Android 应用](lists/android.md)
-
-<details>
-<summary>展开 11 款软件</summary>
-
-#### 软件商店
-
-- [F-Droid](https://github.com/f-droid/fdroidclient) - 开源 Android 应用商店。 `Android` `GPL-3.0`
-- [Droid-ify](https://github.com/Droid-ify/client) - 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0`
-#### 去广告
-
-- [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
-- [TapClick](https://github.com/LGH1996/TapClick) - Android 自动化点击工具。 `Android` `GPL-3.0`
-- [SKIPs](https://github.com/GuoXiCheng/SKIP) - 自动跳过应用开屏广告。 `Android` `GPL-3.0`
-- [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 安卓系统开屏广告自动跳过助手。 `Android` `MIT`
-#### 动漫/影视
-
-- [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 追番看番的 Android 客户端。 `Android` `Apache-2.0`
-- [AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - AfuseKt 移动端动漫追番应用。 `Android`
-#### B站
-
-- [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android`
-- [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android`
-#### 阅读
-
-- [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
 
 </details>
 

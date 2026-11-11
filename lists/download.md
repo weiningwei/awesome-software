@@ -27,6 +27,7 @@
 - [Vividl](https://github.com/Bluegrams/Vividl) - yt-dlp 的 Windows 图形界面。 `Windows` `BSD-3-Clause` ![GitHub Repo stars](https://img.shields.io/github/stars/Bluegrams/Vividl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Bluegrams/Vividl?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Bluegrams/Vividl?display_date=published_at&style=flat)
 - [YTSage](https://github.com/oop7/YTSage) - 带图形界面的 YouTube 下载器，支持音轨提取与字幕。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/oop7/YTSage?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/oop7/YTSage?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/oop7/YTSage?display_date=published_at&style=flat)
 - [downkyi](https://github.com/leiurayer/downkyi) - 哔哩哔哩视频下载工具，支持批量下载与弹幕保存。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/leiurayer/downkyi?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/leiurayer/downkyi?display_date=published_at&style=flat)
+- [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频解析工具。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/1250422131/bilibilias?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/1250422131/bilibilias?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/1250422131/bilibilias?display_date=published_at&style=flat)
 
 ## 网络加速
 

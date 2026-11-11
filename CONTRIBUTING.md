@@ -62,7 +62,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars 
 
 ## 如何添加一款软件
 
-1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`（Android 应用为 `lists/android.md`）
+1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`
 2. 将新条目添加到该分类列表的**末尾**，不要直接修改 `README.md` 中的生成内容
 3. 按上述标准格式填写（至少包含：名称、链接、简介）
 4. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
@@ -96,7 +96,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars 
 ```
 awesome-software/
 ├── README.md             # 自动生成的无徽章折叠索引
-├── lists/                # 按功能分类的详细软件条目（含 Android 应用）
+├── lists/                # 按功能分类的详细软件条目
 ├── scripts/build_readme.py  # 生成首页索引
 ├── CONTRIBUTING.md       # 本贡献指南
 ├── LICENSE               # 清单本身的许可（CC0）
