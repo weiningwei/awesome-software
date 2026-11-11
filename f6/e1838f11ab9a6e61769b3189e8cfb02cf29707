@@ -1,0 +1,27 @@
+lists/fonts.md
+  s_29d9ce35e93722::t_d5367cfac8d73a 1-12
+scripts/build_readme.py
+  s_29d9ce35e93722::t_d5367cfac8d73a 22
+lists/documents.md
+  s_29d9ce35e93722::t_d5367cfac8d73a 5-6,21-29
+lists/media.md
+  s_29d9ce35e93722::t_d5367cfac8d73a 5,22-26
+README.md
+  s_29d9ce35e93722::t_d5367cfac8d73a 18-19,22,275,336-351,383,399-403,449-451,467-474
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6e1838f11ab9a6e61769b3189e8cfb02cf29707",
+  "prompts": {},
+  "sessions": {
+    "s_29d9ce35e93722": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cae1-cb90-70c3-8ee9-33b560c68bc2",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "weiningwei <weiningwei09@gmail.com>"
+    }
+  }
+}
