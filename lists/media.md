@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-## 视频播放
+## 视频播放与观看
 
 - [Potplayer](https://potplayer.daum.net/) - Windows 视频播放器，支持硬件解码与多种字幕格式。 `Windows`
 - [mpv](https://github.com/mpv-player/mpv) - 命令行媒体播放器。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/mpv-player/mpv?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/mpv-player/mpv?display_date=published_at&style=flat)
@@ -19,6 +19,11 @@
 - [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 追番看番的 Android 客户端。 `Android` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/easybangumiorg/EasyBangumi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/easybangumiorg/EasyBangumi?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/easybangumiorg/EasyBangumi?display_date=published_at&style=flat)
 - [AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - AfuseKt 移动端动漫追番应用。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/AttemptD/AfuseKt-release?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/AttemptD/AfuseKt-release?display_date=published_at&style=flat)
 - [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaye13579/BBLL?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL?display_date=published_at&style=flat)
+- [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili?display_date=published_at&style=flat)
+- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Richasy/Bili.Copilot?display_date=published_at&style=flat)
+- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
+- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/bggRGjQaUbCoE/PiliPlus?display_date=published_at&style=flat)
+- [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/CKopoer/BiliSail?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CKopoer/BiliSail?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/CKopoer/BiliSail?display_date=published_at&style=flat)
 
 ## 视频剪辑与转码
 
@@ -34,14 +39,6 @@
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xiaoyaocz/dart_simple_live?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xiaoyaocz/dart_simple_live?display_date=published_at&style=flat)
 - [dtv](https://github.com/chen-zeong/dtv) - 跨平台直播桌面客户端。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/chen-zeong/dtv?display_date=published_at&style=flat)
 - [pure_live](https://github.com/liuchuancong/pure_live) - 聚合哔哩哔哩、虎牙、斗鱼等平台的直播客户端。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/liuchuancong/pure_live?display_date=published_at&style=flat)
-
-## B站
-
-- [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xfangfang/wiliwili?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili?display_date=published_at&style=flat)
-- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/Bili.Copilot?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Richasy/Bili.Copilot?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Richasy/Bili.Copilot?display_date=published_at&style=flat)
-- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
-- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/bggRGjQaUbCoE/PiliPlus?display_date=published_at&style=flat)
-- [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/CKopoer/BiliSail?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CKopoer/BiliSail?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/CKopoer/BiliSail?display_date=published_at&style=flat)
 
 ## 音乐
 

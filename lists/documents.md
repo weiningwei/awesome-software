@@ -2,6 +2,8 @@
 
 [返回首页](../README.md)
 
+## PDF、电子书与文档
+
 - [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
 - [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - 轻量的 PDF 阅读器，支持 PDF、EPUB 与 CBZ 等格式。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/sumatrapdfreader/sumatrapdf?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/sumatrapdfreader/sumatrapdf?display_date=published_at&style=flat)
@@ -16,3 +18,12 @@
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/pdfcraft?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/storytold/pdfcraft?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/storytold/pdfcraft?display_date=published_at&style=flat)
 - [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/jgraph/drawio-desktop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/jgraph/drawio-desktop?display_date=published_at&style=flat)
 - [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android` ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/gedoor/legado?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/gedoor/legado?display_date=published_at&style=flat)
+
+## 笔记与 Markdown
+
+- [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
+- [NoteGen](https://github.com/codexu/note-gen) - 跨平台的 Markdown AI 笔记软件。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/codexu/note-gen?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/codexu/note-gen?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/codexu/note-gen?display_date=published_at&style=flat)
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/drl990114/MarkFlowy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/drl990114/MarkFlowy?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/drl990114/MarkFlowy?display_date=published_at&style=flat)
+- [MarkText](https://github.com/marktext/marktext) - 简洁的 Markdown 编辑器，支持实时预览与导出。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/marktext/marktext?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/marktext/marktext?display_date=published_at&style=flat)
+- [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/laurent22/joplin?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/laurent22/joplin?display_date=published_at&style=flat)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 本地优先的开源协作工作区，集文档、表格、看板与 AI 于一体。 `跨平台` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/AppFlowy-IO/AppFlowy?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/AppFlowy-IO/AppFlowy?display_date=published_at&style=flat)

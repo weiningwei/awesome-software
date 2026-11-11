@@ -15,10 +15,11 @@
 - [网页转桌面](#网页转桌面) · 1 款
 - [系统工具](#系统工具) · 77 款
 - [下载](#下载) · 23 款
-- [开发工具](#开发工具) · 58 款
+- [开发工具](#开发工具) · 44 款
+- [字体](#字体) · 8 款
 - [AI 工具](#ai-工具) · 14 款
 - [多媒体](#多媒体) · 50 款
-- [文档与阅读](#文档与阅读) · 14 款
+- [文档与阅读](#文档与阅读) · 20 款
 - [网站](#网站) · 2 款
 
 ## 软件清单
@@ -271,7 +272,7 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 58 款软件</summary>
+<summary>展开 44 款软件</summary>
 
 #### 编辑器
 
@@ -283,24 +284,6 @@
 - [Notepad3](https://github.com/rizonesoft/Notepad3) - 基于 Scintilla 的轻量 Windows 文本编辑器。 `Windows`
 - [notepad4](https://github.com/zufuliu/notepad4) - Notepad2 的改进分支，支持语法高亮、代码折叠与自动补全。 `Windows`
 - [SideX](https://github.com/Sidenai/sidex) - 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT`
-#### 字体
-
-- [FiraCode](https://github.com/tonsky/FiraCode) - 带编程连字的等宽编程字体。 `跨平台` `OFL-1.1`
-- [maple-font](https://github.com/subframe7536/maple-font) - Maple Mono 等宽编程字体，含中文与连字。 `跨平台` `OFL-1.1`
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains 官方字体。 `跨平台` `OFL-1.1`
-- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrainsMono + Maple Mono 合成字体。 `跨平台` `OFL-1.1`
-- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 基于 Klee One 衍生的开源中文楷体字体。 `跨平台` `OFL-1.1`
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 的源代码字体。 `跨平台` `OFL-1.1`
-- [monaspace](https://github.com/githubnext/monaspace) - GitHub 推出的等宽编程字体超级家族。 `跨平台` `OFL-1.1`
-- [free-font](https://github.com/wordshub/free-font) - 按授权整理的免费商用字体合集。 `跨平台`
-#### 笔记与 Markdown
-
-- [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
-- [NoteGen](https://github.com/codexu/note-gen) - 跨平台的 Markdown AI 笔记软件。 `跨平台` `GPL-3.0`
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0`
-- [MarkText](https://github.com/marktext/marktext) - 简洁的 Markdown 编辑器，支持实时预览与导出。 `跨平台` `MIT`
-- [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台`
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 本地优先的开源协作工作区，集文档、表格、看板与 AI 于一体。 `跨平台` `AGPL-3.0`
 #### 终端与 SSH
 
 - [terminal](https://github.com/microsoft/terminal) - Windows Terminal。 `Windows` `MIT`
@@ -350,6 +333,22 @@
 
 </details>
 
+### [字体](lists/fonts.md)
+
+<details>
+<summary>展开 8 款软件</summary>
+
+- [FiraCode](https://github.com/tonsky/FiraCode) - 带编程连字的等宽编程字体。 `跨平台` `OFL-1.1`
+- [maple-font](https://github.com/subframe7536/maple-font) - Maple Mono 等宽编程字体，含中文与连字。 `跨平台` `OFL-1.1`
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains 官方字体。 `跨平台` `OFL-1.1`
+- [Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrainsMono + Maple Mono 合成字体。 `跨平台` `OFL-1.1`
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 基于 Klee One 衍生的开源中文楷体字体。 `跨平台` `OFL-1.1`
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 的源代码字体。 `跨平台` `OFL-1.1`
+- [monaspace](https://github.com/githubnext/monaspace) - GitHub 推出的等宽编程字体超级家族。 `跨平台` `OFL-1.1`
+- [free-font](https://github.com/wordshub/free-font) - 按授权整理的免费商用字体合集。 `跨平台`
+
+</details>
+
 ### [AI 工具](lists/ai.md)
 
 <details>
@@ -381,7 +380,7 @@
 <details>
 <summary>展开 50 款软件</summary>
 
-#### 视频播放
+#### 视频播放与观看
 
 - [Potplayer](https://potplayer.daum.net/) - Windows 视频播放器，支持硬件解码与多种字幕格式。 `Windows`
 - [mpv](https://github.com/mpv-player/mpv) - 命令行媒体播放器。 `跨平台`
@@ -397,6 +396,11 @@
 - [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 追番看番的 Android 客户端。 `Android` `Apache-2.0`
 - [AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - AfuseKt 移动端动漫追番应用。 `Android`
 - [BBLL](https://github.com/xiaye13579/BBLL) - 第三方哔哩哔哩 Android 客户端。 `Android`
+- [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0`
+- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0`
+- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
+- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
+- [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 #### 视频剪辑与转码
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 跨平台开源视频剪辑器。 `跨平台` `MIT`
@@ -410,13 +414,6 @@
 - [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播。 `跨平台` `GPL-3.0`
 - [dtv](https://github.com/chen-zeong/dtv) - 跨平台直播桌面客户端。 `跨平台` `MIT`
 - [pure_live](https://github.com/liuchuancong/pure_live) - 聚合哔哩哔哩、虎牙、斗鱼等平台的直播客户端。 `跨平台` `AGPL-3.0`
-#### B站
-
-- [wiliwili](https://github.com/xfangfang/wiliwili) - 全平台第三方哔哩哔哩客户端，支持手柄操作。 `跨平台` `GPL-3.0`
-- [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端。 `Windows` `GPL-3.0`
-- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
-- [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
-- [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 #### 音乐
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - LX Music 桌面版。 `跨平台` `Apache-2.0`
@@ -449,7 +446,9 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 14 款软件</summary>
+<summary>展开 20 款软件</summary>
+
+#### PDF、电子书与文档
 
 - [pdf24](https://www.pdf24.org/zh/) - 免费 PDF 工具箱，支持创建、编辑与转换。 `跨平台`
 - [pdfgear](https://www.pdfgear.com/zh/) - 免费 PDF 阅读与编辑器。 `跨平台`
@@ -465,6 +464,14 @@
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0`
 - [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0`
 - [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
+#### 笔记与 Markdown
+
+- [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
+- [NoteGen](https://github.com/codexu/note-gen) - 跨平台的 Markdown AI 笔记软件。 `跨平台` `GPL-3.0`
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0`
+- [MarkText](https://github.com/marktext/marktext) - 简洁的 Markdown 编辑器，支持实时预览与导出。 `跨平台` `MIT`
+- [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台`
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 本地优先的开源协作工作区，集文档、表格、看板与 AI 于一体。 `跨平台` `AGPL-3.0`
 
 </details>
 

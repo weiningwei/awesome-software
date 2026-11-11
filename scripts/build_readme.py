@@ -19,6 +19,7 @@ CATEGORIES = [
     ("系统工具", "lists/system.md"),
     ("下载", "lists/download.md"),
     ("开发工具", "lists/development.md"),
+    ("字体", "lists/fonts.md"),
     ("AI 工具", "lists/ai.md"),
     ("多媒体", "lists/media.md"),
     ("文档与阅读", "lists/documents.md"),
