@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md 或 app.md。 -->
 
-按功能整理的软件清单，共收录 270 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
+按功能整理的软件清单，共收录 271 款。首页列出全部软件；点击分类标题可打开分类页面，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -16,7 +16,7 @@
 - [系统工具](#系统工具) · 69 款
 - [下载](#下载) · 22 款
 - [开发工具](#开发工具) · 56 款
-- [AI 工具](#ai-工具) · 12 款
+- [AI 工具](#ai-工具) · 13 款
 - [多媒体](#多媒体) · 47 款
 - [文档与阅读](#文档与阅读) · 12 款
 - [网站](#网站) · 2 款
@@ -343,7 +343,7 @@
 ### [AI 工具](lists/ai.md)
 
 <details>
-<summary>展开 12 款软件</summary>
+<summary>展开 13 款软件</summary>
 
 #### 聊天与助手
 
@@ -351,6 +351,7 @@
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - 跨平台 ChatGPT/Web AI 客户端。 `跨平台` `MIT`
 - [chatbox](https://github.com/chatboxai/chatbox) - 对话记录保存在本地的跨平台 AI 桌面客户端。 `跨平台` `GPL-3.0`
 - [Everywhere](https://github.com/DearVa/Everywhere) - 桌面 AI 助手，可在任意应用中快速唤起。 `Windows`
+- [Ollama](https://github.com/ollama/ollama) - 在本地运行与部署开源大模型的命令行工具，提供模型管理与兼容 OpenAI 的 API。 `跨平台` `MIT`
 #### AI 编程工具
 
 - [CC Switch](https://github.com/farion1231/cc-switch) - 跨平台的 Claude Code、Codex 等 AI 编程工具配置与切换管理器。 `跨平台`
