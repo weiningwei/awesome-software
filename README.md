@@ -126,7 +126,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 68 款软件</summary>
+<summary>展开 69 款软件</summary>
 
 #### 压缩与解压
 
@@ -142,6 +142,7 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 桌面悬浮窗软件: 显示当前网速、CPU及内存利用率。 `Windows`
 - [Monit](https://github.com/fzf404/Monit) - 桌面小组件。 `macOS` `MIT`
 - [NexBox](https://github.com/MuLiuSaMa/NexBox) - 面向 PC 玩家的性能工具箱，集成硬件与帧率监控、游戏内叠加显示、系统优化和准心等辅助功能。 `Windows` `GPL-3.0`
+- [Voltide](https://github.com/sdparklab/Voltide) - Windows 托盘工具，显示 2.4G 无线键鼠、耳机与手柄的电量，无需安装厂商软件。 `Windows` `MIT`
 #### 使用统计
 
 - [Tai](https://github.com/Planshit/Tai) - 软件使用时长统计。 `Windows` `MIT`
