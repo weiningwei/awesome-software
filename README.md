@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 273 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 274 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -28,8 +28,8 @@
   - [启动盘制作](lists/system.md#启动盘制作) · 3 项
   - [网络代理](lists/system.md#网络代理) · 3 项
   - [激活](lists/system.md#激活) · 4 项
-- [下载](#下载) · 23 项
-  - [通用下载器](lists/download.md#通用下载器) · 9 项
+- [下载](#下载) · 24 项
+  - [通用下载器](lists/download.md#通用下载器) · 10 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
   - [网络加速](lists/download.md#网络加速) · 2 项
 - [开发工具](#开发工具) · 46 项
@@ -256,7 +256,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 23 项</summary>
+<summary>展开 24 项</summary>
 
 #### [通用下载器](lists/download.md#通用下载器)
 
@@ -269,6 +269,7 @@
 - [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - 全协议下载器，支持 HTTP/BT/FTP/M3U8/DASH/eD2k 及 YouTube/B站/GitHub/HF 解析。 `跨平台` `GPL-3.0`
 - [Hydra](https://github.com/ja7ad/hydra) - 跨平台下载管理器，通过多连接与多镜像分片加速下载，支持 HTTP/FTP/Metalink 并提供命令行、TUI 与桌面 GUI。 `跨平台` `GPL-3.0`
 - [Plexo](https://github.com/anmolkapil/plexo) - 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT`
+- [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0`
 #### [视频与流媒体下载](lists/download.md#视频与流媒体下载)
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 命令行 m3u8 下载工具，支持多线程与自动合并。 `Windows` `MIT`
