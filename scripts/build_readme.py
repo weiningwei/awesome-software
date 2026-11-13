@@ -1,0 +1,128 @@
+"""Build the badge-free, collapsible README index from category Markdown files."""
+
+from __future__ import annotations
+
+import argparse
+import re
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parent.parent
+CATEGORIES = [
+    ("截图与录屏", "lists/screenshot-recording.md"),
+    ("剪贴板", "lists/clipboard.md"),
+    ("文件搜索与启动", "lists/search-launch.md"),
+    ("识别与翻译", "lists/recognition-translation.md"),
+    ("局域网传输", "lists/local-transfer.md"),
+    ("远程桌面", "lists/remote-desktop.md"),
+    ("系统工具", "lists/system.md"),
+    ("下载", "lists/download.md"),
+    ("开发工具", "lists/development.md"),
+    ("字体", "lists/fonts.md"),
+    ("AI 工具", "lists/ai.md"),
+    ("多媒体", "lists/media.md"),
+    ("文档与阅读", "lists/documents.md"),
+]
+BADGE = re.compile(r"\s*!\[[^]]*\]\(https://img\.shields\.io/[^)]*\)")
+ENTRY = re.compile(r"^- \[[^]]+\]\(https?://")
+
+
+def slug(text: str) -> str:
+    """Approximate GitHub's heading anchor format (lowercase, punctuation dropped, spaces hyphenated)."""
+    text = re.sub(r"[^\w\- ]", "", text.lower().strip(), flags=re.UNICODE)
+    return text.replace(" ", "-")
+
+
+def index_lines(path: str) -> tuple[list[str], int, list[tuple[str, int]]]:
+    lines = (ROOT / path).read_text(encoding="utf-8").splitlines()
+    result: list[str] = []
+    subs: list[tuple[str, int]] = []
+    count = 0
+    current: int | None = None
+    for line in lines:
+        if line.startswith("## "):
+            heading = line[3:].strip()
+            result.extend((f"#### [{heading}]({path}#{slug(heading)})", ""))
+            subs.append((heading, 0))
+            current = len(subs) - 1
+        elif ENTRY.match(line):
+            result.append(BADGE.sub("", line).rstrip())
+            count += 1
+            if current is not None:
+                name, sub_count = subs[current]
+                subs[current] = (name, sub_count + 1)
+    if not count:
+        raise ValueError(f"No software entries found in {path}")
+    return result, count, [sub for sub in subs if sub[1]]
+
+
+def build() -> str:
+    sections = []
+    for name, path in CATEGORIES:
+        entries, count, subs = index_lines(path)
+        sections.append((name, path, entries, count, subs))
+    total = sum(section[3] for section in sections)
+
+    output = [
+        "# awesome-software",
+        "",
+        "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->",
+        "",
+        f"按功能整理的软件与字体清单，共收录 {total} 项。首页列出全部条目；"
+        "点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。",
+        "",
+        "## 分类",
+        "",
+    ]
+    for name, path, _, count, subs in sections:
+        anchor = name.lower().replace(" ", "-")
+        output.append(f"- [{name}](#{anchor}) · {count} 项")
+        for sub, sub_count in subs:
+            output.append(f"  - [{sub}]({path}#{slug(sub)}) · {sub_count} 项")
+    output.extend(("", "## 软件与字体清单", ""))
+    for name, path, entries, count, _ in sections:
+        output.extend(
+            (
+                f"### [{name}]({path})",
+                "",
+                "<details>",
+                f"<summary>展开 {count} 项</summary>",
+                "",
+                *entries,
+                "",
+                "</details>",
+                "",
+            )
+        )
+    output.extend(
+        (
+            "## 相关资源",
+            "",
+            "软件下载站、系统镜像下载站与资料合集见 [相关资源](RESOURCES.md)。",
+            "",
+            "## 贡献",
+            "",
+            "欢迎推荐好用的开源或免费软件。添加条目的格式与分类规则请阅读 [贡献指南](CONTRIBUTING.md)。",
+            "",
+        )
+    )
+    return "\n".join(output)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true", help="fail if README.md is out of date")
+    args = parser.parse_args()
+    target = ROOT / "README.md"
+    generated = build()
+    if args.check:
+        if target.read_text(encoding="utf-8") != generated:
+            parser.exit(1, "README.md is out of date; run python scripts/build_readme.py\n")
+        print("README.md is up to date")
+    else:
+        target.write_text(generated, encoding="utf-8", newline="\n")
+        print("Updated README.md")
+
+
+if __name__ == "__main__":
+    main()

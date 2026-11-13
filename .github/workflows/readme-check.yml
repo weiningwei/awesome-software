@@ -1,0 +1,21 @@
+name: Check generated README
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-26.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Verify generated README
+        run: python3 scripts/build_readme.py --check
