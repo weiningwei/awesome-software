@@ -116,6 +116,7 @@
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | ✓ | ✓ | ✓ | ✗ |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | ✓ | ✓ | ✓ | ✓ |
 | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | ✗ | ✗ | ✗ | ✓ |
+| [ClashMi](https://github.com/KaringX/clashmi) | ✓ | ✓ | ✓ | ✓ |
 
 ✓ 支持；✗ 不支持；? 待核实。
 
@@ -128,6 +129,7 @@
 - [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/hiddify/hiddify-app?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiddify/hiddify-app?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-app?display_date=published_at&style=flat)
 - [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vernesong/OpenClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vernesong/OpenClash?display_date=published_at&style=flat)
 - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `Android` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/MetaCubeX/ClashMetaForAndroid?display_date=published_at&style=flat)
+- [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/KaringX/clashmi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KaringX/clashmi?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/KaringX/clashmi?display_date=published_at&style=flat)
 
 ## 激活
 
