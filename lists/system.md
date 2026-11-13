@@ -117,6 +117,8 @@
 | [Hiddify](https://github.com/hiddify/hiddify-app) | ✓ | ✓ | ✓ | ✓ |
 | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | ✗ | ✗ | ✗ | ✓ |
 | [ClashMi](https://github.com/KaringX/clashmi) | ✓ | ✓ | ✓ | ✓ |
+| [Pandora Box](https://github.com/snakem982/Pandora-Box) | ✓ | ✓ | ✓ | ✗ |
+| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) | ✓ | ✓ | ✓ | ✗ |
 
 ✓ 支持；✗ 不支持；? 待核实。
 
@@ -130,6 +132,8 @@
 - [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vernesong/OpenClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vernesong/OpenClash?display_date=published_at&style=flat)
 - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `Android` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/MetaCubeX/ClashMetaForAndroid?display_date=published_at&style=flat)
 - [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/KaringX/clashmi?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/KaringX/clashmi?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/KaringX/clashmi?display_date=published_at&style=flat)
+- [Pandora Box](https://github.com/snakem982/Pandora-Box) - 基于 mihomo 内核的跨平台代理客户端，支持订阅管理、配置切换与系统代理。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/snakem982/Pandora-Box?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/snakem982/Pandora-Box?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/snakem982/Pandora-Box?display_date=published_at&style=flat)
+- [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - 基于 Wails 与 Vue 3 的 mihomo 图形客户端，支持插件与自定义规则配置。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.Clash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/GUI-for-Cores/GUI.for.Clash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/GUI-for-Cores/GUI.for.Clash?display_date=published_at&style=flat)
 
 ## 激活
 
