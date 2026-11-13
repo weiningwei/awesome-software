@@ -115,6 +115,7 @@
 | [Clash Party](https://github.com/mihomo-party-org/clash-party) | ✓ | ✓ | ✓ | ✗ |
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | ✓ | ✓ | ✓ | ✗ |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | ✓ | ✓ | ✓ | ✓ |
+| [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | ✗ | ✗ | ✗ | ✓ |
 
 ✓ 支持；✗ 不支持；? 待核实。
 
@@ -126,6 +127,7 @@
 - [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - 基于 Tauri 与 mihomo 内核的跨平台 Clash 客户端，支持订阅切换、TUN 模式与规则配置。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/libnyanpasu/clash-nyanpasu?display_date=published_at&style=flat)
 - [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/hiddify/hiddify-app?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiddify/hiddify-app?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hiddify/hiddify-app?display_date=published_at&style=flat)
 - [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vernesong/OpenClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vernesong/OpenClash?display_date=published_at&style=flat)
+- [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `Android` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/MetaCubeX/ClashMetaForAndroid?display_date=published_at&style=flat)
 
 ## 激活
 
