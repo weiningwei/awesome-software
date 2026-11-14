@@ -141,3 +141,7 @@
 - [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - Windows/Office KMS 激活工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zbezj/HEU_KMS_Activator?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zbezj/HEU_KMS_Activator?display_date=published_at&style=flat)
 - [云萌](https://github.com/TGSAN/CMWTAT_Digital_Edition) - Windows 数字权利激活工具。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/TGSAN/CMWTAT_Digital_Edition?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/TGSAN/CMWTAT_Digital_Edition?display_date=published_at&style=flat)
 - [DragonKMS](http://www.yishimei.cn/network/319.html) - Windows KMS 激活工具。 `Windows`
+
+## 安卓应用运行
+
+- [ApkStart](https://github.com/RoutineMiku/apkstart) - Windows 上的安卓应用运行器，双击 APK 即安装并以独立窗口运行，内置 QEMU 运行时。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/RoutineMiku/apkstart?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/RoutineMiku/apkstart?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/RoutineMiku/apkstart?display_date=published_at&style=flat)
