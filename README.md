@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 286 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 290 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -13,10 +13,10 @@
 - [文件搜索与启动](#文件搜索与启动) · 7 项
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
-- [远程桌面](#远程桌面) · 2 项
-- [系统工具](#系统工具) · 88 项
-  - [压缩与解压](lists/system.md#压缩与解压) · 2 项
-  - [文件管理](lists/system.md#文件管理) · 2 项
+- [远程桌面](#远程桌面) · 3 项
+- [系统工具](#系统工具) · 90 项
+  - [压缩与解压](lists/system.md#压缩与解压) · 3 项
+  - [文件管理](lists/system.md#文件管理) · 3 项
   - [系统监控](lists/system.md#系统监控) · 5 项
   - [使用统计](lists/system.md#使用统计) · 3 项
   - [桌面美化](lists/system.md#桌面美化) · 10 项
@@ -29,10 +29,10 @@
   - [网络代理](lists/system.md#网络代理) · 12 项
   - [激活](lists/system.md#激活) · 4 项
   - [安卓应用运行](lists/system.md#安卓应用运行) · 3 项
-- [下载](#下载) · 24 项
+- [下载](#下载) · 25 项
   - [通用下载器](lists/download.md#通用下载器) · 10 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
-  - [网络加速](lists/download.md#网络加速) · 2 项
+  - [网络加速](lists/download.md#网络加速) · 3 项
 - [开发工具](#开发工具) · 46 项
   - [编辑器](lists/development.md#编辑器) · 8 项
   - [终端与 SSH](lists/development.md#终端与-ssh) · 12 项
@@ -137,26 +137,29 @@
 ### [远程桌面](lists/remote-desktop.md)
 
 <details>
-<summary>展开 2 项</summary>
+<summary>展开 3 项</summary>
 
 - [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 基于 RustDesk 的局域网远程桌面工具，仅在本地网络内直连，不经公网中转。 `跨平台` `AGPL-3.0`
 - [1Remote](https://github.com/1Remote/1Remote) - 统一管理 RDP、SSH、VNC、sFTP 等远程连接的会话管理器。 `Windows` `GPL-3.0`
+- [RustDesk](https://github.com/rustdesk/rustdesk) - 可自托管的开源远程桌面工具，可连接与远程控制其他设备，作为 TeamViewer 的替代。 `跨平台` `AGPL-3.0`
 
 </details>
 
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 88 项</summary>
+<summary>展开 90 项</summary>
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
 - [7zip](https://www.7-zip.org/) - 压缩与解压工具，支持 7z、ZIP 与 RAR 等格式。 `跨平台`
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 压缩包管理工具，支持自动解压与图片预览。 `Windows`
+- [NanaZip](https://github.com/M2Team/NanaZip) - 面向 Windows 11 的 7-Zip 衍生版本，提供现代化右键菜单与更多压缩格式支持。 `Windows` `MIT`
 #### [文件管理](lists/system.md#文件管理)
 
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代化的开源文件管理器，支持标签、分屏与扩展。 `跨平台` `GPL-3.0`
 - [Pulse](https://github.com/jimmgreen/pulse) - Windows 文件管理器，支持多窗格与可保存工作区、索引与拼音搜索、快速预览和批量重命名。 `Windows` `Apache-2.0`
+- [Files](https://github.com/files-community/Files) - Windows 现代化文件管理器，支持标签页、多窗格与云盘集成。 `Windows` `MIT`
 #### [系统监控](lists/system.md#系统监控)
 
 - [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0`
@@ -271,7 +274,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 24 项</summary>
+<summary>展开 25 项</summary>
 
 #### [通用下载器](lists/download.md#通用下载器)
 
@@ -303,6 +306,7 @@
 
 - [Xget](https://github.com/xixu-me/Xget) - 面向 GitHub 等开发者资源的下载加速代理。 `跨平台` `AGPL-3.0`
 - [fetch-github-hosts](https://github.com/Licoy/fetch-github-hosts) - 同步 GitHub hosts 的工具，支持图形界面与命令行。 `跨平台` `GPL-3.0`
+- [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 开源跨平台工具箱，可加速 Steam 社区与 GitHub 等服务的访问。 `跨平台` `GPL-3.0`
 
 </details>
 
