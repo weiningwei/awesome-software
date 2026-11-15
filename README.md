@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 284 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 286 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,7 +14,7 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 2 项
-- [系统工具](#系统工具) · 86 项
+- [系统工具](#系统工具) · 88 项
   - [压缩与解压](lists/system.md#压缩与解压) · 2 项
   - [文件管理](lists/system.md#文件管理) · 2 项
   - [系统监控](lists/system.md#系统监控) · 5 项
@@ -28,7 +28,7 @@
   - [启动盘制作](lists/system.md#启动盘制作) · 3 项
   - [网络代理](lists/system.md#网络代理) · 12 项
   - [激活](lists/system.md#激活) · 4 项
-  - [安卓应用运行](lists/system.md#安卓应用运行) · 1 项
+  - [安卓应用运行](lists/system.md#安卓应用运行) · 3 项
 - [下载](#下载) · 24 项
   - [通用下载器](lists/download.md#通用下载器) · 10 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
@@ -147,7 +147,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 86 项</summary>
+<summary>展开 88 项</summary>
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
@@ -263,6 +263,8 @@
 #### [安卓应用运行](lists/system.md#安卓应用运行)
 
 - [ApkStart](https://github.com/RoutineMiku/apkstart) - Windows 上的安卓应用运行器，双击 APK 即安装并以独立窗口运行，内置 QEMU 运行时。 `Windows` `MIT`
+- [WSABuilds](https://github.com/MustardChef/WSABuilds) - 提供集成 Google Play 与 Magisk 的 Windows Subsystem for Android 预编译版本，用于在 Windows 10 与 11 上运行安卓应用。 `Windows` `AGPL-3.0`
+- [Waydroid](https://github.com/waydroid/waydroid) - 基于容器在 Linux 上启动完整 Android 系统，并以桌面窗口运行安卓应用。 `Linux` `GPL-3.0`
 
 </details>
 
