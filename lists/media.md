@@ -24,6 +24,7 @@
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/chen310/BilibiliPotPlayer?style=flat)
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/bggRGjQaUbCoE/PiliPlus?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/bggRGjQaUbCoE/PiliPlus?display_date=published_at&style=flat)
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台` ![GitHub Repo stars](https://img.shields.io/github/stars/CKopoer/BiliSail?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/CKopoer/BiliSail?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/CKopoer/BiliSail?display_date=published_at&style=flat)
+- [TVBox Desktop](https://github.com/hgtuj5688/tvbox-desktop) - Windows 影视聚合客户端，兼容 TVBox 配置订阅格式，支持聚合搜索、电视直播与多线路播放。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/hgtuj5688/tvbox-desktop?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hgtuj5688/tvbox-desktop?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hgtuj5688/tvbox-desktop?display_date=published_at&style=flat)
 
 ## 视频剪辑与转码
 
