@@ -2,12 +2,12 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 291 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 293 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
-- [截图与录屏](#截图与录屏) · 12 项
-  - [截图](lists/screenshot-recording.md#截图) · 8 项
+- [截图与录屏](#截图与录屏) · 13 项
+  - [截图](lists/screenshot-recording.md#截图) · 9 项
   - [录屏](lists/screenshot-recording.md#录屏) · 4 项
 - [剪贴板](#剪贴板) · 4 项
 - [文件搜索与启动](#文件搜索与启动) · 7 项
@@ -29,8 +29,8 @@
   - [网络代理](lists/system.md#网络代理) · 12 项
   - [激活](lists/system.md#激活) · 4 项
   - [安卓应用运行](lists/system.md#安卓应用运行) · 3 项
-- [下载](#下载) · 25 项
-  - [通用下载器](lists/download.md#通用下载器) · 10 项
+- [下载](#下载) · 26 项
+  - [通用下载器](lists/download.md#通用下载器) · 11 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
   - [网络加速](lists/download.md#网络加速) · 3 项
 - [开发工具](#开发工具) · 46 项
@@ -59,7 +59,7 @@
 ### [截图与录屏](lists/screenshot-recording.md)
 
 <details>
-<summary>展开 12 项</summary>
+<summary>展开 13 项</summary>
 
 #### [截图](lists/screenshot-recording.md#截图)
 
@@ -71,6 +71,7 @@
 - [pear-rec](https://github.com/027xiguapi/pear-rec) - 截屏、录屏和录音软件。 `跨平台` `Apache-2.0`
 - [PixWit](https://github.com/yun-cun-li/PixWit) - 截图、录屏与简易视频剪辑工具，支持贴图、标注、OCR 与 GIF 转换。 `Windows` `GPL-3.0`
 - [jietuba](https://github.com/1003129155/jietuba) - Windows 截图工具，支持长截图、标注、OCR、翻译、钉图、GIF 录制与剪贴板历史。 `Windows` `MIT`
+- [sniplite](https://github.com/MrTangLuyao/sniplite) - 核心用汇编编写的轻量截图与贴图工具，支持长截图与 OCR。 `Windows` `MIT`
 #### [录屏](lists/screenshot-recording.md#录屏)
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕并逐帧编辑，导出 GIF 或视频。 `Windows` `MS-PL`
@@ -274,7 +275,7 @@
 ### [下载](lists/download.md)
 
 <details>
-<summary>展开 25 项</summary>
+<summary>展开 26 项</summary>
 
 #### [通用下载器](lists/download.md#通用下载器)
 
@@ -288,6 +289,7 @@
 - [Hydra](https://github.com/ja7ad/hydra) - 跨平台下载管理器，通过多连接与多镜像分片加速下载，支持 HTTP/FTP/Metalink 并提供命令行、TUI 与桌面 GUI。 `跨平台` `GPL-3.0`
 - [Plexo](https://github.com/anmolkapil/plexo) - 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT`
 - [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0`
+- [SwiftDL](https://github.com/harshsinghsv/swiftdl) - 用 Rust 与 Tauri 编写的跨平台下载管理器，支持多连接分片、断点续传与浏览器扩展。 `跨平台` `MIT`
 #### [视频与流媒体下载](lists/download.md#视频与流媒体下载)
 
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - 命令行 m3u8 下载工具，支持多线程与自动合并。 `Windows` `MIT`

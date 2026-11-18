@@ -14,6 +14,7 @@
 - [Hydra](https://github.com/ja7ad/hydra) - 跨平台下载管理器，通过多连接与多镜像分片加速下载，支持 HTTP/FTP/Metalink 并提供命令行、TUI 与桌面 GUI。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/ja7ad/hydra?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/ja7ad/hydra?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/ja7ad/hydra?display_date=published_at&style=flat)
 - [Plexo](https://github.com/anmolkapil/plexo) - 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo?style=flat)
 - [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/anefzaoui/misterdownloadmanager?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/anefzaoui/misterdownloadmanager?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/anefzaoui/misterdownloadmanager?display_date=published_at&style=flat)
+- [SwiftDL](https://github.com/harshsinghsv/swiftdl) - 用 Rust 与 Tauri 编写的跨平台下载管理器，支持多连接分片、断点续传与浏览器扩展。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/harshsinghsv/swiftdl?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/harshsinghsv/swiftdl?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/harshsinghsv/swiftdl?display_date=published_at&style=flat)
 
 ## 视频与流媒体下载
 
