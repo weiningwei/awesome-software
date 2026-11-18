@@ -53,6 +53,7 @@
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/xammen/BetterTrumpet?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/xammen/BetterTrumpet?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/xammen/BetterTrumpet?display_date=published_at&style=flat)
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/deskflow/deskflow?display_date=published_at&style=flat)
 - [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/zetaloop/keyviz?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zetaloop/keyviz?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zetaloop/keyviz?display_date=published_at&style=flat)
+- [FxSound](https://github.com/fxsound2/fxsound-app) - Windows 音频增强工具，提供均衡器、低音与环绕声效果、动态压缩及自动音量均衡。 `Windows` `AGPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/fxsound2/fxsound-app?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/fxsound2/fxsound-app?display_date=published_at&style=flat)
 
 ## 自动化与广告跳过
 

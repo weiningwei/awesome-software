@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 293 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 294 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,13 +14,13 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 90 项
+- [系统工具](#系统工具) · 91 项
   - [压缩与解压](lists/system.md#压缩与解压) · 3 项
   - [文件管理](lists/system.md#文件管理) · 3 项
   - [系统监控](lists/system.md#系统监控) · 5 项
   - [使用统计](lists/system.md#使用统计) · 3 项
   - [桌面美化](lists/system.md#桌面美化) · 10 项
-  - [窗口与桌面工具](lists/system.md#窗口与桌面工具) · 10 项
+  - [窗口与桌面工具](lists/system.md#窗口与桌面工具) · 11 项
   - [自动化与广告跳过](lists/system.md#自动化与广告跳过) · 4 项
   - [系统优化](lists/system.md#系统优化) · 8 项
   - [清理与卸载](lists/system.md#清理与卸载) · 16 项
@@ -149,7 +149,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 90 项</summary>
+<summary>展开 91 项</summary>
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
@@ -197,6 +197,7 @@
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT`
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0`
 - [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0`
+- [FxSound](https://github.com/fxsound2/fxsound-app) - Windows 音频增强工具，提供均衡器、低音与环绕声效果、动态压缩及自动音量均衡。 `Windows` `AGPL-3.0`
 #### [自动化与广告跳过](lists/system.md#自动化与广告跳过)
 
 - [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
