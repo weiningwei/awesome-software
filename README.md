@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 297 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 298 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,12 +14,12 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 91 项
+- [系统工具](#系统工具) · 92 项
   - [压缩与解压](lists/system.md#压缩与解压) · 3 项
   - [文件管理](lists/system.md#文件管理) · 3 项
   - [系统监控](lists/system.md#系统监控) · 5 项
   - [使用统计](lists/system.md#使用统计) · 3 项
-  - [桌面美化](lists/system.md#桌面美化) · 10 项
+  - [桌面美化](lists/system.md#桌面美化) · 11 项
   - [窗口与桌面工具](lists/system.md#窗口与桌面工具) · 11 项
   - [自动化与广告跳过](lists/system.md#自动化与广告跳过) · 4 项
   - [系统优化](lists/system.md#系统优化) · 8 项
@@ -150,7 +150,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 91 项</summary>
+<summary>展开 92 项</summary>
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
@@ -186,6 +186,7 @@
 - [BongoCat (ayangweb)](https://github.com/ayangweb/BongoCat) - 跨平台互动桌宠，根据键盘、鼠标或手柄操作同步猫咪动作，支持导入自定义模型。 `跨平台` `MIT`
 - [Cursors](https://github.com/rohzzn/cursors) - Windows 鼠标指针切换工具，内置 60 套方案，支持导入本地光标包与社区光标库。 `Windows` `MIT`
 - [MiniDock](https://github.com/wang01116/MiniDock) - 轻量的 Windows 11 风格 Dock 栏，可固定应用、文件夹与网页，支持毛玻璃背景、悬停放大、窗口预览与应用组。 `Windows`
+- [fly-island](https://github.com/flyl1u/fly-island) - Windows 轻量灵动岛工具，可查看 AI Agent 会话与额度、接收微信与邮件提醒，并集成同步歌词、文件中转、剪贴板历史与快捷翻译。 `Windows` `GPL-3.0`
 #### [窗口与桌面工具](lists/system.md#窗口与桌面工具)
 
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - 按住 Alt 键移动与缩放窗口。 `Windows` `GPL-3.0`
