@@ -16,6 +16,7 @@
 - [Notepad3](https://github.com/rizonesoft/Notepad3) - 基于 Scintilla 的轻量 Windows 文本编辑器。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/rizonesoft/Notepad3?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/rizonesoft/Notepad3?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/rizonesoft/Notepad3?display_date=published_at&style=flat)
 - [notepad4](https://github.com/zufuliu/notepad4) - Notepad2 的改进分支，支持语法高亮、代码折叠与自动补全。 `Windows` ![GitHub Repo stars](https://img.shields.io/github/stars/zufuliu/notepad4?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/zufuliu/notepad4?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/zufuliu/notepad4?display_date=published_at&style=flat)
 - [SideX](https://github.com/Sidenai/sidex) - 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Sidenai/sidex?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Sidenai/sidex?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Sidenai/sidex?display_date=published_at&style=flat)
+- [ImHex](https://github.com/WerWolv/ImHex) - 面向逆向工程与二进制分析的十六进制编辑器，支持自定义模式语言解析文件结构。 `跨平台` `GPL-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/WerWolv/ImHex?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/WerWolv/ImHex?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/WerWolv/ImHex?display_date=published_at&style=flat)
 
 ## 终端与 SSH
 
