@@ -4,6 +4,7 @@
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake?display_date=published_at&style=flat)
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DevToys-app/DevToys?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/DevToys-app/DevToys?display_date=published_at&style=flat)
+- [Kiri](https://github.com/libracoder/kiri) - 轻量容器运行时，可作为 Docker Desktop 与 OrbStack 的替代，兼容 docker CLI、Compose 与 buildx 并自带图形界面。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/libracoder/kiri?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/libracoder/kiri?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/libracoder/kiri?display_date=published_at&style=flat)
 
 ## 编辑器
 

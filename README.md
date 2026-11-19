@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 296 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 297 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -33,7 +33,7 @@
   - [通用下载器](lists/download.md#通用下载器) · 11 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
   - [网络加速](lists/download.md#网络加速) · 3 项
-- [开发工具](#开发工具) · 47 项
+- [开发工具](#开发工具) · 48 项
   - [编辑器](lists/development.md#编辑器) · 8 项
   - [终端与 SSH](lists/development.md#终端与-ssh) · 13 项
   - [Git GUI](lists/development.md#git-gui) · 12 项
@@ -317,10 +317,11 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 47 项</summary>
+<summary>展开 48 项</summary>
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT`
+- [Kiri](https://github.com/libracoder/kiri) - 轻量容器运行时，可作为 Docker Desktop 与 OrbStack 的替代，兼容 docker CLI、Compose 与 buildx 并自带图形界面。 `跨平台` `Apache-2.0`
 #### [编辑器](lists/development.md#编辑器)
 
 - [Sublime Text](https://www.sublimetext.com/) - 轻量的跨平台代码编辑器，支持多光标与插件扩展。 `跨平台`
