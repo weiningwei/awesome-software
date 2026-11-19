@@ -2,12 +2,12 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 295 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 296 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
-- [截图与录屏](#截图与录屏) · 13 项
-  - [截图](lists/screenshot-recording.md#截图) · 9 项
+- [截图与录屏](#截图与录屏) · 14 项
+  - [截图](lists/screenshot-recording.md#截图) · 10 项
   - [录屏](lists/screenshot-recording.md#录屏) · 4 项
 - [剪贴板](#剪贴板) · 4 项
 - [文件搜索与启动](#文件搜索与启动) · 7 项
@@ -59,7 +59,7 @@
 ### [截图与录屏](lists/screenshot-recording.md)
 
 <details>
-<summary>展开 13 项</summary>
+<summary>展开 14 项</summary>
 
 #### [截图](lists/screenshot-recording.md#截图)
 
@@ -72,6 +72,7 @@
 - [PixWit](https://github.com/yun-cun-li/PixWit) - 截图、录屏与简易视频剪辑工具，支持贴图、标注、OCR 与 GIF 转换。 `Windows` `GPL-3.0`
 - [jietuba](https://github.com/1003129155/jietuba) - Windows 截图工具，支持长截图、标注、OCR、翻译、钉图、GIF 录制与剪贴板历史。 `Windows` `MIT`
 - [sniplite](https://github.com/MrTangLuyao/sniplite) - 核心用汇编编写的轻量截图与贴图工具，支持长截图与 OCR。 `Windows` `MIT`
+- [Kiri](https://github.com/yuxino/Kiri) - 跨平台截图与录屏工具，内置标注编辑与本地 OCR 文字识别。 `跨平台` `MIT`
 #### [录屏](lists/screenshot-recording.md#录屏)
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕并逐帧编辑，导出 GIF 或视频。 `Windows` `MS-PL`
