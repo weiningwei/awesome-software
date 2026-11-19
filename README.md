@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 294 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 295 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -33,9 +33,9 @@
   - [通用下载器](lists/download.md#通用下载器) · 11 项
   - [视频与流媒体下载](lists/download.md#视频与流媒体下载) · 12 项
   - [网络加速](lists/download.md#网络加速) · 3 项
-- [开发工具](#开发工具) · 46 项
+- [开发工具](#开发工具) · 47 项
   - [编辑器](lists/development.md#编辑器) · 8 项
-  - [终端与 SSH](lists/development.md#终端与-ssh) · 12 项
+  - [终端与 SSH](lists/development.md#终端与-ssh) · 13 项
   - [Git GUI](lists/development.md#git-gui) · 12 项
   - [API 测试](lists/development.md#api-测试) · 4 项
   - [数据库](lists/development.md#数据库) · 5 项
@@ -316,7 +316,7 @@
 ### [开发工具](lists/development.md)
 
 <details>
-<summary>展开 46 项</summary>
+<summary>展开 47 项</summary>
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT`
@@ -344,6 +344,7 @@
 - [termora](https://github.com/TermoraDev/termora) - 跨平台 SSH/Telnet 终端客户端。 `跨平台`
 - [Netcatty](https://github.com/binaricat/Netcatty) - 集 SSH 工作区、SFTP 文件管理与终端会话于一体的桌面客户端。 `跨平台` `GPL-3.0`
 - [Pebrel](https://github.com/Kuddev/pebrel) - AI 原生、GPU 加速的 Windows 终端模拟器，支持 SSH、持久会话与分屏。 `Windows` `GPL-3.0`
+- [Motty](https://github.com/t8y2/motty) - 跨平台 SSH/SFTP 客户端，集成端口转发、VNC/RDP 连接与 AI 助手。 `跨平台` `Apache-2.0`
 #### [Git GUI](lists/development.md#git-gui)
 
 - [GitHub Desktop](https://github.com/desktop/desktop) - GitHub 官方 Git 图形客户端。 `跨平台` `MIT`
