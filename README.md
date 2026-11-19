@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 299 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 300 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -44,8 +44,8 @@
 - [AI 工具](#ai-工具) · 14 项
   - [聊天与助手](lists/ai.md#聊天与助手) · 5 项
   - [AI 编程工具](lists/ai.md#ai-编程工具) · 9 项
-- [多媒体](#多媒体) · 52 项
-  - [视频播放与观看](lists/media.md#视频播放与观看) · 20 项
+- [多媒体](#多媒体) · 53 项
+  - [视频播放与观看](lists/media.md#视频播放与观看) · 21 项
   - [视频剪辑与转码](lists/media.md#视频剪辑与转码) · 5 项
   - [直播](lists/media.md#直播) · 4 项
   - [音乐](lists/media.md#音乐) · 13 项
@@ -428,7 +428,7 @@
 ### [多媒体](lists/media.md)
 
 <details>
-<summary>展开 52 项</summary>
+<summary>展开 53 项</summary>
 
 #### [视频播放与观看](lists/media.md#视频播放与观看)
 
@@ -452,6 +452,7 @@
 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - 基于 Flutter 的第三方哔哩哔哩客户端。 `跨平台` `GPL-3.0`
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 - [TVBox Desktop](https://github.com/hgtuj5688/tvbox-desktop) - Windows 影视聚合客户端，兼容 TVBox 配置订阅格式，支持聚合搜索、电视直播与多线路播放。 `Windows` `MIT`
+- [LLPlayer](https://github.com/umlx5h/LLPlayer) - 面向语言学习的媒体播放器，支持双语字幕、Whisper 语音识别生成字幕与实时翻译。 `Windows` `GPL-3.0`
 #### [视频剪辑与转码](lists/media.md#视频剪辑与转码)
 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - 跨平台开源视频剪辑器。 `跨平台` `MIT`
