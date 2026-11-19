@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 300 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 301 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -10,7 +10,7 @@
   - [截图](lists/screenshot-recording.md#截图) · 10 项
   - [录屏](lists/screenshot-recording.md#录屏) · 4 项
 - [剪贴板](#剪贴板) · 4 项
-- [文件搜索与启动](#文件搜索与启动) · 7 项
+- [文件搜索与启动](#文件搜索与启动) · 8 项
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
@@ -97,7 +97,7 @@
 ### [文件搜索与启动](lists/search-launch.md)
 
 <details>
-<summary>展开 7 项</summary>
+<summary>展开 8 项</summary>
 
 - [Listary](https://www.listary.com/) - 搜索文件、快速跳转。 `Windows`
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 快速文件搜索和应用启动工具。 `Windows` `MIT`
@@ -106,6 +106,7 @@
 - [SwiftList](https://github.com/SwiftList/SwiftList) - 毫秒级本地文件搜索与启动工具。 `Windows` `MIT`
 - [Lertaro](https://github.com/Lertaro/Lertaro) - 全局文件搜索与生产力启动器，Listary 和 Everything 的开源替代。 `Windows` `MIT`
 - [PopDrop](https://github.com/hiforrest/PopDrop) - 按快捷键呼出置顶文件面板，集中查看、打开和拖放多个目录中的最新文件。 `Windows`
+- [Win顺（WinShun）](https://github.com/LingCore/WinShun) - Windows 快速搜索启动器，支持拼音搜索文件、Word/Excel/PDF 全文搜索、剪贴板历史与插件。 `Windows` `MIT`
 
 </details>
 
