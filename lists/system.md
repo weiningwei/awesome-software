@@ -110,19 +110,19 @@
 
 ## 网络代理
 
-| 软件 | Windows | macOS | Linux | Android |
-| --- | :---: | :---: | :---: | :---: |
-| [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✓ | ✓ | ✓ | ✗ |
-| [FlClash](https://github.com/chen08209/FlClash) | ✓ | ✓ | ✓ | ✓ |
-| [v2rayN](https://github.com/2dust/v2rayN) | ✓ | ✓ | ✓ | ✗ |
-| [sing-box](https://github.com/SagerNet/sing-box) | ✓ | ✓ | ✓ | ✓ |
-| [Clash Party](https://github.com/mihomo-party-org/clash-party) | ✓ | ✓ | ✓ | ✗ |
-| [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | ✓ | ✓ | ✓ | ✗ |
-| [Hiddify](https://github.com/hiddify/hiddify-app) | ✓ | ✓ | ✓ | ✓ |
-| [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | ✗ | ✗ | ✗ | ✓ |
-| [ClashMi](https://github.com/KaringX/clashmi) | ✓ | ✓ | ✓ | ✓ |
-| [Pandora Box](https://github.com/snakem982/Pandora-Box) | ✓ | ✓ | ✓ | ✗ |
-| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) | ✓ | ✓ | ✓ | ✗ |
+| 客户端 | Stars | 版本号 | 更新时间 | Windows | macOS | Linux | Android |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | ![Stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/clash-verge-rev/clash-verge-rev?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/clash-verge-rev/clash-verge-rev?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
+| [FlClash](https://github.com/chen08209/FlClash) | ![Stars](https://img.shields.io/github/stars/chen08209/FlClash?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/chen08209/FlClash?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/chen08209/FlClash?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✓ |
+| [v2rayN](https://github.com/2dust/v2rayN) | ![Stars](https://img.shields.io/github/stars/2dust/v2rayN?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/2dust/v2rayN?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/2dust/v2rayN?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
+| [sing-box](https://github.com/SagerNet/sing-box) | ![Stars](https://img.shields.io/github/stars/SagerNet/sing-box?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/SagerNet/sing-box?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/SagerNet/sing-box?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✓ |
+| [Clash Party](https://github.com/mihomo-party-org/clash-party) | ![Stars](https://img.shields.io/github/stars/mihomo-party-org/clash-party?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/mihomo-party-org/clash-party?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/mihomo-party-org/clash-party?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
+| [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | ![Stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/libnyanpasu/clash-nyanpasu?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/libnyanpasu/clash-nyanpasu?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
+| [Hiddify](https://github.com/hiddify/hiddify-app) | ![Stars](https://img.shields.io/github/stars/hiddify/hiddify-app?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/hiddify/hiddify-app?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/hiddify/hiddify-app?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✓ |
+| [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | ![Stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/MetaCubeX/ClashMetaForAndroid?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/MetaCubeX/ClashMetaForAndroid?display_date=published_at&label=&style=flat) | ✗ | ✗ | ✗ | ✓ |
+| [ClashMi](https://github.com/KaringX/clashmi) | ![Stars](https://img.shields.io/github/stars/KaringX/clashmi?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/KaringX/clashmi?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/KaringX/clashmi?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✓ |
+| [Pandora Box](https://github.com/snakem982/Pandora-Box) | ![Stars](https://img.shields.io/github/stars/snakem982/Pandora-Box?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/snakem982/Pandora-Box?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/snakem982/Pandora-Box?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
+| [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) | ![Stars](https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.Clash?label=&style=flat) | ![Ver](https://img.shields.io/github/v/release/GUI-for-Cores/GUI.for.Clash?label=&style=flat) | ![Date](https://img.shields.io/github/release-date/GUI-for-Cores/GUI.for.Clash?display_date=published_at&label=&style=flat) | ✓ | ✓ | ✓ | ✗ |
 
 ✓ 支持；✗ 不支持；? 待核实。
 
