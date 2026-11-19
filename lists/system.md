@@ -126,18 +126,18 @@
 
 ✓ 支持；✗ 不支持；? 待核实。
 
-- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - 基于 mihomo 内核的跨平台代理客户端，支持系统代理、TUN 模式与规则管理。 `跨平台` `GPL-3.0`
-- [FlClash](https://github.com/chen08209/FlClash) - 基于 Clash Meta 的跨平台代理客户端，支持 Windows、macOS、Linux 与 Android。 `跨平台` `GPL-3.0`
-- [v2rayN](https://github.com/2dust/v2rayN) - 支持 Xray、sing-box 等内核的跨平台代理客户端。 `跨平台` `GPL-3.0`
-- [sing-box](https://github.com/SagerNet/sing-box) - 用 Go 编写的通用代理平台，支持 Shadowsocks、VMess、VLESS、Trojan、Hysteria 等协议，可作客户端或服务端使用。 `跨平台` `GPL-3.0`
-- [Clash Party](https://github.com/mihomo-party-org/clash-party) - 基于 mihomo 内核的跨平台 Clash 图形客户端（原 Mihomo Party），支持订阅管理、TUN 模式与规则配置。 `跨平台` `GPL-3.0`
-- [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - 基于 Tauri 与 mihomo 内核的跨平台 Clash 客户端，支持订阅切换、TUN 模式与规则配置。 `跨平台` `GPL-3.0`
-- [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `跨平台` `GPL-3.0`
+- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - 基于 mihomo 内核的跨平台代理客户端，支持系统代理、TUN 模式与规则管理。 `GPL-3.0`
+- [FlClash](https://github.com/chen08209/FlClash) - 基于 Clash Meta 的跨平台代理客户端，支持 Windows、macOS、Linux 与 Android。 `GPL-3.0`
+- [v2rayN](https://github.com/2dust/v2rayN) - 支持 Xray、sing-box 等内核的跨平台代理客户端。 `GPL-3.0`
+- [sing-box](https://github.com/SagerNet/sing-box) - 用 Go 编写的通用代理平台，支持 Shadowsocks、VMess、VLESS、Trojan、Hysteria 等协议，可作客户端或服务端使用。 `GPL-3.0`
+- [Clash Party](https://github.com/mihomo-party-org/clash-party) - 基于 mihomo 内核的跨平台 Clash 图形客户端（原 Mihomo Party），支持订阅管理、TUN 模式与规则配置。 `GPL-3.0`
+- [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - 基于 Tauri 与 mihomo 内核的跨平台 Clash 客户端，支持订阅切换、TUN 模式与规则配置。 `GPL-3.0`
+- [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `GPL-3.0`
 - [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vernesong/OpenClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vernesong/OpenClash?display_date=published_at&style=flat)
-- [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `Android` `GPL-3.0`
-- [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `跨平台` `GPL-3.0`
-- [Pandora Box](https://github.com/snakem982/Pandora-Box) - 基于 mihomo 内核的跨平台代理客户端，支持订阅管理、配置切换与系统代理。 `跨平台` `GPL-3.0`
-- [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - 基于 Wails 与 Vue 3 的 mihomo 图形客户端，支持插件与自定义规则配置。 `跨平台` `GPL-3.0`
+- [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `GPL-3.0`
+- [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `GPL-3.0`
+- [Pandora Box](https://github.com/snakem982/Pandora-Box) - 基于 mihomo 内核的跨平台代理客户端，支持订阅管理、配置切换与系统代理。 `GPL-3.0`
+- [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - 基于 Wails 与 Vue 3 的 mihomo 图形客户端，支持插件与自定义规则配置。 `GPL-3.0`
 
 ## 激活
 
