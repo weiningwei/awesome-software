@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 302 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 301 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,7 +14,7 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 92 项
+- [系统工具](#系统工具) · 91 项
   - [压缩与解压](lists/system.md#压缩与解压) · 3 项
   - [文件管理](lists/system.md#文件管理) · 3 项
   - [系统监控](lists/system.md#系统监控) · 5 项
@@ -26,7 +26,7 @@
   - [清理与卸载](lists/system.md#清理与卸载) · 16 项
   - [包管理器](lists/system.md#包管理器) · 6 项
   - [启动盘制作](lists/system.md#启动盘制作) · 3 项
-  - [网络代理](lists/system.md#网络代理) · 12 项
+  - [网络代理](lists/system.md#网络代理) · 11 项
   - [激活](lists/system.md#激活) · 4 项
   - [安卓应用运行](lists/system.md#安卓应用运行) · 3 项
 - [下载](#下载) · 26 项
@@ -151,7 +151,7 @@
 ### [系统工具](lists/system.md)
 
 <details>
-<summary>展开 92 项</summary>
+<summary>展开 91 项</summary>
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
@@ -257,7 +257,6 @@
 - [Clash Party](https://github.com/mihomo-party-org/clash-party) - 基于 mihomo 内核的跨平台 Clash 图形客户端（原 Mihomo Party），支持订阅管理、TUN 模式与规则配置。 `GPL-3.0`
 - [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - 基于 Tauri 与 mihomo 内核的跨平台 Clash 客户端，支持订阅切换、TUN 模式与规则配置。 `GPL-3.0`
 - [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `GPL-3.0`
-- [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT`
 - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `GPL-3.0`
 - [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `GPL-3.0`
 - [Pandora Box](https://github.com/snakem982/Pandora-Box) - 基于 mihomo 内核的跨平台代理客户端，支持订阅管理、配置切换与系统代理。 `GPL-3.0`

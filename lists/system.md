@@ -133,7 +133,6 @@
 - [Clash Party](https://github.com/mihomo-party-org/clash-party) - 基于 mihomo 内核的跨平台 Clash 图形客户端（原 Mihomo Party），支持订阅管理、TUN 模式与规则配置。 `GPL-3.0`
 - [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - 基于 Tauri 与 mihomo 内核的跨平台 Clash 客户端，支持订阅切换、TUN 模式与规则配置。 `GPL-3.0`
 - [Hiddify](https://github.com/hiddify/hiddify-app) - 跨平台自动代理客户端，支持 Sing-box、Xray、TUIC、Hysteria、Reality、Trojan 与 SSH 等协议。 `GPL-3.0`
-- [OpenClash](https://github.com/vernesong/OpenClash) - 运行于 OpenWrt 路由器的 Clash 客户端插件，支持订阅管理与规则分流。 `OpenWrt` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash?style=flat) ![GitHub Release](https://img.shields.io/github/v/release/vernesong/OpenClash?style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/vernesong/OpenClash?display_date=published_at&style=flat)
 - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) - 基于 mihomo 内核的 Android Clash 客户端，支持订阅管理、TUN 模式与规则分流。 `GPL-3.0`
 - [ClashMi](https://github.com/KaringX/clashmi) - 基于 mihomo 内核的跨平台 Clash 客户端，覆盖 Windows、macOS、Linux、Android 与 iOS。 `GPL-3.0`
 - [Pandora Box](https://github.com/snakem982/Pandora-Box) - 基于 mihomo 内核的跨平台代理客户端，支持订阅管理、配置切换与系统代理。 `GPL-3.0`
