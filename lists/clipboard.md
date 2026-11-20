@@ -1,6 +1,6 @@
 # 剪贴板
 
-[返回首页](../README.md)
+[返回首页](../README.md#剪贴板)
 
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/hluk/CopyQ?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hluk/CopyQ?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hluk/CopyQ?label=&display_date=published_at&style=flat)
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 跨平台的剪贴板管理工具。 `跨平台` `Apache-2.0` ![GitHub Repo stars](https://img.shields.io/github/stars/EcoPasteHub/EcoPaste?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/EcoPasteHub/EcoPaste?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/EcoPasteHub/EcoPaste?label=&display_date=published_at&style=flat)

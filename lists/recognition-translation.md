@@ -1,6 +1,6 @@
 # 识别与翻译
 
-[返回首页](../README.md)
+[返回首页](../README.md#识别与翻译)
 
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 离线 OCR 工具，支持截图识别与批量处理。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/hiroi-sora/Umi-OCR?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/hiroi-sora/Umi-OCR?label=&display_date=published_at&style=flat)
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 划词翻译与 OCR 工具，支持多种翻译接口。 `跨平台` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/pot-app/pot-desktop?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/pot-app/pot-desktop?label=&display_date=published_at&style=flat)

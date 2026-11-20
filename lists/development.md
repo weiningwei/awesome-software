@@ -1,6 +1,6 @@
 # 开发工具
 
-[返回首页](../README.md)
+[返回首页](../README.md#开发工具)
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0` ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/tw93/Pake?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/tw93/Pake?label=&display_date=published_at&style=flat)
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/DevToys-app/DevToys?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/DevToys-app/DevToys?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/DevToys-app/DevToys?label=&display_date=published_at&style=flat)

@@ -1,6 +1,6 @@
 # 文件搜索与启动
 
-[返回首页](../README.md)
+[返回首页](../README.md#文件搜索与启动)
 
 - [Listary](https://www.listary.com/) - 搜索文件、快速跳转。 `Windows`
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 快速文件搜索和应用启动工具。 `Windows` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/Flow-Launcher/Flow.Launcher?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/Flow-Launcher/Flow.Launcher?label=&display_date=published_at&style=flat)
