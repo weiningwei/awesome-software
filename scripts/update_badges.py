@@ -29,8 +29,14 @@ DATE_BADGE = re.compile(
     r"\(https://img\.shields\.io/github/release-date/"
     r"(?P<owner>[^/?)]+)/(?P<repo>[^/?)]+)\?[^)]*\)"
 )
-# Olive green taken from the reference list's release-date badges.
-COLOR = "6aa718"
+# Blue-ish green so the date stands apart from the gold stars and blue version.
+COLOR = "1a7f37"
+STARS_BADGE = re.compile(
+    r"!\[(?P<alt>[^\]]*)\]"
+    r"\((?P<url>https://img\.shields\.io/github/stars/[^/?)]+/[^/?)]+)"
+    r"(?P<query>\?[^)]*)?\)"
+)
+STARS_COLOR = "bf8700"
 STATIC_BADGE = re.compile(
     r"!\[(?P<alt>[^\]]*)\]"
     r"\(https://img\.shields\.io/badge/"
@@ -58,6 +64,18 @@ def latest_release_date(slug: str, token: str | None) -> str | None:
         raise
     published = payload.get("published_at") or ""
     return published[:10] or None
+
+
+def set_color(match: re.Match[str], color: str) -> str:
+    """Return the same badge with its colour forced to `color`."""
+    query = match.group("query") or "?label=&style=flat"
+    params = [
+        piece
+        for piece in query.lstrip("?").split("&")
+        if piece and not piece.startswith("color=")
+    ]
+    params.append(f"color={color}")
+    return f"![{match.group('alt')}]({match.group('url')}?{'&'.join(params)})"
 
 
 def paint(match: re.Match[str]) -> str:
@@ -92,12 +110,17 @@ def rewrite(
             continue
         if sections and current not in sections:
             continue
-        if (
-            "img.shields.io/github/release-date/" not in line
-            and "img.shields.io/badge/" not in line
+        if not any(
+            marker in line
+            for marker in (
+                "img.shields.io/github/release-date/",
+                "img.shields.io/github/stars/",
+                "img.shields.io/badge/",
+            )
         ):
             continue
         updated = STATIC_BADGE.sub(paint, line)
+        updated = STARS_BADGE.sub(lambda m: set_color(m, STARS_COLOR), updated)
         updated = DATE_BADGE.sub(lambda m: badge(m, dates, token), updated)
         if updated != line:
             lines[index] = updated
