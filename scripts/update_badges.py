@@ -65,9 +65,10 @@ def badge(match: re.Match[str], dates: dict[str, str | None], token: str | None)
     return f"![{alt}](https://img.shields.io/badge/{date.replace('-', '--')}-{COLOR})"
 
 
-def rewrite(text: str, sections: set[str], token: str | None) -> tuple[str, int]:
+def rewrite(
+    text: str, sections: set[str], token: str | None, dates: dict[str, str | None]
+) -> tuple[str, int]:
     lines = text.split("\n")
-    dates: dict[str, str | None] = {}
     current: str | None = None
     changed = 0
     for index, line in enumerate(lines):
@@ -106,13 +107,14 @@ def main() -> int:
     args = parser.parse_args()
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     sections = {name.strip() for name in args.section}
+    dates: dict[str, str | None] = {}
     stale: list[tuple[Path, int]] = []
 
     for path in args.paths:
         target = path if path.is_absolute() else ROOT / path
         with open(target, "r", encoding="utf-8", newline="") as handle:
             text = handle.read()
-        updated, changed = rewrite(text, sections, token)
+        updated, changed = rewrite(text, sections, token, dates)
         if not changed:
             continue
         stale.append((target, changed))
@@ -121,7 +123,11 @@ def main() -> int:
                 handle.write(updated)
 
     for target, changed in stale:
-        print(f"{target.relative_to(ROOT)}: {changed} line(s) need formatted dates")
+        try:
+            shown = target.relative_to(ROOT)
+        except ValueError:
+            shown = target
+        print(f"{shown}: {changed} line(s) need formatted dates")
     if not stale:
         print("All release-date badges are already static")
     return 1 if (args.check and stale) else 0
