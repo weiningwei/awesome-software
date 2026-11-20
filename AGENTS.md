@@ -4,7 +4,7 @@
 
 This repository is a curated Markdown directory rather than an executable application:
 
-- `README.md` is the generated, badge-free index of every software entry, grouped into collapsible categories.
+- `README.md` is the generated, badge-free index of every software entry, grouped by category and subcategory.
 - `lists/*.md` contains the editable software entries, organized by functional category and subcategory.
 - `lists/android.md` contains the editable list of Android applications.
 - `scripts/build_readme.py` regenerates the README index from the category files in `lists/`.
