@@ -29,8 +29,8 @@ DATE_BADGE = re.compile(
     r"\(https://img\.shields\.io/github/release-date/"
     r"(?P<owner>[^/?)]+)/(?P<repo>[^/?)]+)\?[^)]*\)"
 )
-# Matches the colour shields.io uses for its own release-date badge (green).
-COLOR = "67ac09"
+# Olive green taken from the reference list's release-date badges.
+COLOR = "6aa718"
 STATIC_BADGE = re.compile(
     r"!\[(?P<alt>[^\]]*)\]"
     r"\(https://img\.shields\.io/badge/"
