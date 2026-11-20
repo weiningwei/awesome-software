@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 301 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 302 项。首页列出全部条目；点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -50,9 +50,9 @@
   - [直播](lists/media.md#直播) · 4 项
   - [音乐](lists/media.md#音乐) · 13 项
   - [图片](lists/media.md#图片) · 10 项
-- [文档与阅读](#文档与阅读) · 21 项
+- [文档与阅读](#文档与阅读) · 22 项
   - [PDF、电子书与文档](lists/documents.md#pdf电子书与文档) · 14 项
-  - [笔记与 Markdown](lists/documents.md#笔记与-markdown) · 7 项
+  - [笔记与 Markdown](lists/documents.md#笔记与-markdown) · 8 项
 
 ## 软件与字体清单
 
@@ -499,7 +499,7 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 21 项</summary>
+<summary>展开 22 项</summary>
 
 #### [PDF、电子书与文档](lists/documents.md#pdf电子书与文档)
 
@@ -526,6 +526,7 @@
 - [joplin](https://github.com/laurent22/joplin) - 跨平台开源笔记与待办应用。 `跨平台`
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 本地优先的开源协作工作区，集文档、表格、看板与 AI 于一体。 `跨平台` `AGPL-3.0`
 - [Glim](https://github.com/glimapp/glim) - macOS 文件查看器，支持 Markdown、源代码、Git 差异、PDF 与电子书阅读。 `macOS` `MIT`
+- [Quiet.md](https://github.com/s1dashu/quiet-md) - 本地优先的跨平台笔记应用，使用 Rust + GPUI 原生绘制，笔记以飞书 DocxXML 格式存储。 `跨平台` `MIT`
 
 </details>
 
