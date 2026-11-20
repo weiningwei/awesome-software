@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 302 项。首页列出全部条目；目录点击可跳到对应分类的折叠区域；展开后点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 301 项。首页列出全部条目；目录点击可跳到对应分类的折叠区域；展开后点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -50,8 +50,8 @@
   - [直播](#多媒体) · 4 项
   - [音乐](#多媒体) · 13 项
   - [图片](#多媒体) · 10 项
-- [文档与阅读](#文档与阅读) · 22 项
-  - [PDF、电子书与文档](#文档与阅读) · 14 项
+- [文档与阅读](#文档与阅读) · 21 项
+  - [PDF、电子书与文档](#文档与阅读) · 13 项
   - [笔记与 Markdown](#文档与阅读) · 8 项
 
 ## 软件与字体清单
@@ -499,7 +499,7 @@
 ### [文档与阅读](lists/documents.md)
 
 <details>
-<summary>展开 22 项</summary>
+<summary>展开 21 项</summary>
 
 #### [PDF、电子书与文档](lists/documents.md#pdf电子书与文档)
 
@@ -516,7 +516,6 @@
 - [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - PDF 查看与编辑器，支持标注、测量、OCR 与 DWG/DXF 导入。 `跨平台` `LGPL-3.0`
 - [PdfCraft](https://github.com/storytold/pdfcraft) - 纯 Rust 编写的开源 PDF 阅读与编辑器，支持页面重组、合并拆分与加密保护。 `跨平台` `MIT OR Apache-2.0`
 - [draw.io](https://github.com/jgraph/drawio-desktop) - draw.io 的官方桌面版，用于绘制流程图、架构图与白板，支持导出多种格式。 `跨平台` `GPL-3.0`
-- [legado](https://github.com/gedoor/legado) - 开源小说阅读器，阅读 3.0。 `Android`
 #### [笔记与 Markdown](lists/documents.md#笔记与-markdown)
 
 - [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
