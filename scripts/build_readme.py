@@ -79,7 +79,7 @@ def build() -> str:
         anchor = name.lower().replace(" ", "-")
         output.append(f"- [{name}](#{anchor}) · {count} 项")
         for sub, sub_count in subs:
-            output.append(f"  - [{sub}](#{anchor}) · {sub_count} 项")
+            output.append(f"  - [{sub}](#{slug(sub)}) · {sub_count} 项")
     output.extend(("", "## 软件与字体清单", ""))
     for name, path, entries, _, _ in sections:
         output.extend((f"### [{name}]({path})", "", BACK_TO_TOC, "", *entries, ""))
