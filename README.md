@@ -58,6 +58,8 @@
 
 ### [截图与录屏](lists/screenshot-recording.md)
 
+[↑ 回到目录](#分类)
+
 #### [截图](lists/screenshot-recording.md#截图)
 
 - [PixPin](https://pixpin.cn/) - 截图、贴图与长截图工具。 `Windows`
@@ -79,12 +81,16 @@
 
 ### [剪贴板](lists/clipboard.md)
 
+[↑ 回到目录](#分类)
+
 - [CopyQ](https://github.com/hluk/CopyQ) - 具有高级功能的剪贴板管理器。 `跨平台` `GPL-3.0`
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 跨平台的剪贴板管理工具。 `跨平台` `Apache-2.0`
 - [Ditto](https://github.com/sabrogden/Ditto) - Windows 剪贴板管理器，保存历史记录并支持检索。 `Windows` `GPL-3.0`
 - [QuickClipboard](https://github.com/mosheng1/QuickClipboard) - 剪贴板增强工具，支持截图贴图。 `Windows` `Apache-2.0`
 
 ### [文件搜索与启动](lists/search-launch.md)
+
+[↑ 回到目录](#分类)
 
 - [Listary](https://www.listary.com/) - 搜索文件、快速跳转。 `Windows`
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 快速文件搜索和应用启动工具。 `Windows` `MIT`
@@ -97,6 +103,8 @@
 
 ### [识别与翻译](lists/recognition-translation.md)
 
+[↑ 回到目录](#分类)
+
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 离线 OCR 工具，支持截图识别与批量处理。 `跨平台` `MIT`
 - [pot-desktop](https://github.com/pot-app/pot-desktop) - 划词翻译与 OCR 工具，支持多种翻译接口。 `跨平台` `GPL-3.0`
 - [TTime](https://github.com/InkTimeRecord/TTime) - 截图、划词、文字识别、AI、翻译软件。 `Windows`
@@ -108,17 +116,23 @@
 
 ### [局域网传输](lists/local-transfer.md)
 
+[↑ 回到目录](#分类)
+
 - [localsend](https://github.com/localsend/localsend) - 局域网跨设备文件传输工具，无需互联网连接。 `跨平台` `Apache-2.0`
 - [LANDrop](https://github.com/LANDrop/LANDrop) - 跨平台局域网传输工具，自动发现设备并支持拖放发送。 `跨平台` `BSD-3-Clause`
 - [DashBeam](https://github.com/tonyantony300/dashbeam) - 局域网与跨网络文件传输工具，支持 mDNS 设备发现、链接分享与浏览器免安装接收。 `跨平台` `AGPL-3.0`
 
 ### [远程桌面](lists/remote-desktop.md)
 
+[↑ 回到目录](#分类)
+
 - [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 基于 RustDesk 的局域网远程桌面工具，仅在本地网络内直连，不经公网中转。 `跨平台` `AGPL-3.0`
 - [1Remote](https://github.com/1Remote/1Remote) - 统一管理 RDP、SSH、VNC、sFTP 等远程连接的会话管理器。 `Windows` `GPL-3.0`
 - [RustDesk](https://github.com/rustdesk/rustdesk) - 可自托管的开源远程桌面工具，可连接与远程控制其他设备，作为 TeamViewer 的替代。 `跨平台` `AGPL-3.0`
 
 ### [系统工具](lists/system.md)
+
+[↑ 回到目录](#分类)
 
 #### [压缩与解压](lists/system.md#压缩与解压)
 
@@ -242,6 +256,8 @@
 
 ### [下载](lists/download.md)
 
+[↑ 回到目录](#分类)
+
 #### [通用下载器](lists/download.md#通用下载器)
 
 - [Motrix](https://github.com/agalwood/Motrix) - 基于 aria2 的多线程下载器，支持 HTTP/FTP/BT 与磁力链。 `跨平台` `MIT`
@@ -276,6 +292,8 @@
 - [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 开源跨平台工具箱，可加速 Steam 社区与 GitHub 等服务的访问。 `跨平台` `GPL-3.0`
 
 ### [开发工具](lists/development.md)
+
+[↑ 回到目录](#分类)
 
 - [Pake](https://github.com/tw93/Pake) - 网页生成轻量桌面应用。 `Windows` `GPL-3.0`
 - [DevToys](https://github.com/DevToys-app/DevToys) - 面向开发者的实用工具合集，内置 JSON/YAML 转换、编码解码、格式化、哈希生成等 30 余种小工具。 `跨平台` `MIT`
@@ -341,6 +359,8 @@
 
 ### [字体](lists/fonts.md)
 
+[↑ 回到目录](#分类)
+
 - [FiraCode](https://github.com/tonsky/FiraCode) - 带编程连字的等宽编程字体。 `跨平台` `OFL-1.1`
 - [maple-font](https://github.com/subframe7536/maple-font) - Maple Mono 等宽编程字体，含中文与连字。 `跨平台` `OFL-1.1`
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains 官方字体。 `跨平台` `OFL-1.1`
@@ -350,6 +370,8 @@
 - [monaspace](https://github.com/githubnext/monaspace) - GitHub 推出的等宽编程字体超级家族。 `跨平台` `OFL-1.1`
 
 ### [AI 工具](lists/ai.md)
+
+[↑ 回到目录](#分类)
 
 #### [聊天与助手](lists/ai.md#聊天与助手)
 
@@ -371,6 +393,8 @@
 - [magpie](https://github.com/yetone/magpie-releases) - 统一管理 Claude Code、Codex 等 AI 编程工具的模型与供应商，支持本地网关和故障切换。 `跨平台` `MIT`
 
 ### [多媒体](lists/media.md)
+
+[↑ 回到目录](#分类)
 
 #### [视频播放与观看](lists/media.md#视频播放与观看)
 
@@ -437,6 +461,8 @@
 - [果核看图](https://pic.ghxi.com/zh/) - Windows 图片查看器，支持 HEIC、AVIF、RAW、PSD 等格式与 ICC 色彩管理，提供绿色免安装版。 `Windows`
 
 ### [文档与阅读](lists/documents.md)
+
+[↑ 回到目录](#分类)
 
 #### [PDF、电子书与文档](lists/documents.md#pdf电子书与文档)
 

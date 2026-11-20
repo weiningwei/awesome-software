@@ -25,6 +25,7 @@ CATEGORIES = [
 ]
 BADGE = re.compile(r"\s*!\[[^]]*\]\(https://img\.shields\.io/[^)]*\)")
 ENTRY = re.compile(r"^- \[[^]]+\]\(https?://")
+BACK_TO_TOC = "[↑ 回到目录](#分类)"
 
 
 def slug(text: str) -> str:
@@ -81,7 +82,7 @@ def build() -> str:
             output.append(f"  - [{sub}](#{anchor}) · {sub_count} 项")
     output.extend(("", "## 软件与字体清单", ""))
     for name, path, entries, _, _ in sections:
-        output.extend((f"### [{name}]({path})", "", *entries, ""))
+        output.extend((f"### [{name}]({path})", "", BACK_TO_TOC, "", *entries, ""))
     output.extend(
         (
             "## 相关资源",
