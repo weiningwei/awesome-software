@@ -69,7 +69,7 @@ def build() -> str:
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->",
         "",
         f"按功能整理的软件与字体清单，共收录 {total} 项。首页列出全部条目；"
-        "点击分类标题可打开分类页面，点击子分类可直达对应章节，查看星标、最新版本与发布日期。",
+        "目录点击可跳到对应章节；点击正文标题可打开分类页，查看星标、最新版本与发布日期。",
         "",
         "## 分类",
         "",
@@ -78,7 +78,7 @@ def build() -> str:
         anchor = name.lower().replace(" ", "-")
         output.append(f"- [{name}](#{anchor}) · {count} 项")
         for sub, sub_count in subs:
-            output.append(f"  - [{sub}]({path}#{slug(sub)}) · {sub_count} 项")
+            output.append(f"  - [{sub}](#{slug(sub)}) · {sub_count} 项")
     output.extend(("", "## 软件与字体清单", ""))
     for name, path, entries, count, _ in sections:
         output.extend(
