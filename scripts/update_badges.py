@@ -29,7 +29,13 @@ DATE_BADGE = re.compile(
     r"\(https://img\.shields\.io/github/release-date/"
     r"(?P<owner>[^/?)]+)/(?P<repo>[^/?)]+)\?[^)]*\)"
 )
-COLOR = "blue"
+# Matches the colour shields.io uses for its own release-date badge (green).
+COLOR = "67ac09"
+STATIC_BADGE = re.compile(
+    r"!\[(?P<alt>[^\]]*)\]"
+    r"\(https://img\.shields\.io/badge/"
+    r"(?P<date>\d{4}--\d{2}--\d{2})-(?P<color>[0-9A-Za-z]+)\)"
+)
 
 
 def latest_release_date(slug: str, token: str | None) -> str | None:
@@ -52,6 +58,12 @@ def latest_release_date(slug: str, token: str | None) -> str | None:
         raise
     published = payload.get("published_at") or ""
     return published[:10] or None
+
+
+def paint(match: re.Match[str]) -> str:
+    """Repaint an existing static date badge so the palette stays uniform."""
+    alt = match.group("alt") or "Date"
+    return f"![{alt}](https://img.shields.io/badge/{match.group('date')}-{COLOR})"
 
 
 def badge(match: re.Match[str], dates: dict[str, str | None], token: str | None) -> str:
@@ -80,9 +92,13 @@ def rewrite(
             continue
         if sections and current not in sections:
             continue
-        if "img.shields.io/github/release-date/" not in line:
+        if (
+            "img.shields.io/github/release-date/" not in line
+            and "img.shields.io/badge/" not in line
+        ):
             continue
-        updated = DATE_BADGE.sub(lambda m: badge(m, dates, token), line)
+        updated = STATIC_BADGE.sub(paint, line)
+        updated = DATE_BADGE.sub(lambda m: badge(m, dates, token), updated)
         if updated != line:
             lines[index] = updated
             changed += 1
