@@ -69,7 +69,7 @@ def build() -> str:
         "<!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->",
         "",
         f"按功能整理的软件与字体清单，共收录 {total} 项。首页列出全部条目；"
-        "目录点击可跳到对应分类的折叠区域；展开后点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。",
+        "目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。",
         "",
         "## 分类",
         "",
@@ -80,20 +80,8 @@ def build() -> str:
         for sub, sub_count in subs:
             output.append(f"  - [{sub}](#{anchor}) · {sub_count} 项")
     output.extend(("", "## 软件与字体清单", ""))
-    for name, path, entries, count, _ in sections:
-        output.extend(
-            (
-                f"### [{name}]({path})",
-                "",
-                "<details>",
-                f"<summary>展开 {count} 项</summary>",
-                "",
-                *entries,
-                "",
-                "</details>",
-                "",
-            )
-        )
+    for name, path, entries, _, _ in sections:
+        output.extend((f"### [{name}]({path})", "", *entries, ""))
     output.extend(
         (
             "## 相关资源",
