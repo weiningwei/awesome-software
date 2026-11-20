@@ -1,6 +1,6 @@
 # 贡献指南 / Contributing
 
-感谢你为 awesome-software 推荐好用的开源软件！本指南说明条目的**标准格式**、**徽章约定**、**分类规则**与**提交流程**，新增条目请遵循此处规范。分类文件（`lists/*.md`）是软件与字体条目的维护位置；下载站等资料见 `RESOURCES.md`。`README.md` 中的折叠索引由脚本生成。
+感谢你为 awesome-software 推荐好用的开源软件！本指南说明条目的**标准格式**、**徽章约定**、**分类规则**与**提交流程**，新增条目请遵循此处规范。分类文件（`lists/*.md`）是软件与字体条目的维护位置；下载站等资料见 `RESOURCES.md`。`README.md` 中的索引由脚本生成。
 
 ## 条目格式标准
 
@@ -96,7 +96,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars 
 
 ```
 awesome-software/
-├── README.md             # 自动生成的无徽章折叠索引
+├── README.md             # 自动生成的无徽章索引
 ├── lists/                # 按功能分类的详细软件条目
 ├── scripts/build_readme.py  # 生成首页索引
 ├── CONTRIBUTING.md       # 本贡献指南

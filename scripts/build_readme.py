@@ -1,4 +1,4 @@
-"""Build the badge-free, collapsible README index from category Markdown files."""
+"""Build the badge-free README index from category Markdown files."""
 
 from __future__ import annotations
 
