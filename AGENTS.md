@@ -31,12 +31,12 @@ rg "软件名或仓库名" lists
 Use UTF-8 Markdown with two-space-friendly readable wrapping and consistent list syntax. Software entries follow:
 
 ```markdown
-| 软件 | Stars | 版本 | 发布日期 | 平台/协议 | 简介 |
-| --- | --- | --- | --- | --- | --- |
-| [Official Name](https://github.com/owner/repo) | ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat) | `平台` `SPDX-License` | 客观的一句话简介。 |
+| 软件 | Stars | 版本 | 发布日期 | 简介 |
+| --- | --- | --- | --- | --- |
+| [Official Name](https://github.com/owner/repo) | ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?display_date=published_at&style=flat) | 客观的一句话简介。 `平台` `SPDX-License` |
 ```
 
-Each subcategory is a fixed six-column table: software, Stars, version, release date, platform/license, description. Use the official software name linked to its repo, shields.io badges in the three badge columns, backtick labels such as `` `Windows` `` or `` `跨平台` ``, and a concise factual description ending in `。`. Leave a cell empty when it does not apply, and use only stars when the project has no GitHub Release. Append new rows to the end of the best-matching subcategory table. Never edit the generated README entries directly.
+Each subcategory is a fixed five-column table: software, Stars, version, release date, description. Use the official software name linked to its repo, shields.io badges in the three badge columns, and a concise factual description ending in `。`, followed by backtick platform/license labels such as `` `Windows` `` or `` `跨平台` ``. Leave a cell empty when it does not apply, and use only stars when the project has no GitHub Release. Append new rows to the end of the best-matching subcategory table. Never edit the generated README entries directly.
 
 ## Testing Guidelines
 

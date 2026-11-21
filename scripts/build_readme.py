@@ -23,7 +23,7 @@ CATEGORIES = [
     ("多媒体", "lists/media.md"),
     ("文档与阅读", "lists/documents.md"),
 ]
-ENTRY = re.compile(r"^\|\s*(\[[^\]]+\]\([^)]+\))\s*\|[^|]*\|[^|]*\|[^|]*\|([^|]*)\|(.*)\|\s*$")
+ENTRY = re.compile(r"^\|\s*(\[[^\]]+\]\([^)]+\))\s*\|[^|]*\|[^|]*\|[^|]*\|(.*)\|\s*$")
 BACK_TO_TOC = "[↑ 回到目录](#分类)"
 
 
@@ -46,10 +46,7 @@ def index_lines(path: str) -> tuple[list[str], int, list[tuple[str, int]]]:
             subs.append((heading, 0))
             current = len(subs) - 1
         elif match := ENTRY.match(line):
-            entry = f"- {match.group(1)} - {match.group(3).strip()}"
-            if tags := match.group(2).strip():
-                entry = f"{entry} {tags}"
-            result.append(entry)
+            result.append(f"- {match.group(1)} - {match.group(2).strip()}")
             count += 1
             if current is not None:
                 name, sub_count = subs[current]

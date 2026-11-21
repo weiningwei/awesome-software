@@ -4,12 +4,12 @@
 
 ## 条目格式标准
 
-每个子分类维护一张对照表，列固定为 **软件 / Stars / 版本 / 发布日期 / 平台/协议 / 简介**，同一列的徽章自然对齐，便于比较星标与版本（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
+每个子分类维护一张对照表，列固定为 **软件 / Stars / 版本 / 发布日期 / 简介**，平台与协议以反引号标签附在简介末尾，同一列的徽章自然对齐，便于比较星标与版本（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
 
 ```markdown
-| 软件 | Stars | 版本 | 发布日期 | 平台/协议 | 简介 |
-| --- | --- | --- | --- | --- | --- |
-| [软件名](仓库或主页链接) | ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat) | `平台` `开源协议` | 一句话简介。 |
+| 软件 | Stars | 版本 | 发布日期 | 简介 |
+| --- | --- | --- | --- | --- |
+| [软件名](仓库或主页链接) | ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat) | 一句话简介。 `平台` `开源协议` |
 ```
 
 ### 字段说明
@@ -19,17 +19,16 @@
 | 软件 | ✅ | 官方名称的链接；优先填 GitHub 仓库地址，官网也可 |
 | Stars | 🔶 | GitHub 项目的 stars 徽章；非 GitHub 项目留空 |
 | 版本 / 发布日期 | 🔶 | 有 GitHub Release 时填写对应徽章，没有则留空 |
-| 平台/协议 | 🔶 | 反引号标签：`Windows` / `macOS` / `Linux` / `跨平台` / `Web`，协议用 SPDX 标识如 `MIT` / `GPL-3.0` / `AGPL-3.0` |
-| 简介 | ✅ | 一句话客观描述功能，以句号（。）结尾，避免营销用语 |
+| 简介 | ✅ | 一句话客观描述功能，以句号（。）结尾，避免营销用语；末尾可附平台与协议标签 |
 
 > 🔶 = 建议填写，但非强制；存量条目正在逐步统一为该格式。
 
 ### 格式细则
 
-- 表头与分隔行固定为六列，不要增删列或调换顺序；同一子分类只维护一张表
+- 表头与分隔行固定为五列，不要增删列或调换顺序；同一子分类只维护一张表
 - 新增条目追加为表格最后一行；没有值的单元格留空，不要写 `-` 或 `无`
 - 单元格内不要出现 `|`，简介不换行；软件名与简介之间不再使用 ` - ` 分隔
-- 平台、协议用反引号（`` ` ``）包裹，多个标签以空格分隔
+- 平台、协议用反引号（`` ` ``）包裹，附在简介末尾，多个标签以空格分隔
 - 简介客观准确，不写「最好用」「神器」「必备」等主观评价
 - GitHub 条目填写 stars 徽章；有 Release 的条目再填写版本与发布日期徽章
 
@@ -37,7 +36,7 @@
 
 ✅ **正确**
 ```markdown
-| [LocalSend](https://github.com/localsend/localsend) | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat) | `跨平台` `MIT` | 局域网内跨设备文件传输工具。 |
+| [LocalSend](https://github.com/localsend/localsend) | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat) | 局域网内跨设备文件传输工具。 `跨平台` `MIT` |
 ```
 
 ❌ **错误**（问题：用列表项而非表格行、缺平台/协议、营销用语）
