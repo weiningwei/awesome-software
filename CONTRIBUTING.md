@@ -4,10 +4,10 @@
 
 ## 条目格式标准
 
-每款软件统一为「列表项 + 链接 + 简介 + 标签 + 可选的徽章」的形式（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
+每款软件统一为「列表项 + 链接 + 可选徽章 + 简介 + 标签」的形式（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
 
 ```markdown
-- [软件名](仓库或主页链接) - 一句话简介。 `平台` `开源协议` ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat)
+- [软件名](仓库或主页链接) - ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat) 一句话简介。 `平台` `开源协议`
 ```
 
 ### 字段说明
@@ -27,7 +27,8 @@
 ### 格式细则
 
 - 软件名与简介之间用 ` - `（空格 + 短横 + 空格）分隔，**不要用** `:` 或 `：`
-- 平台、协议用反引号（`` ` ``）包裹，放在简介之后、徽章之前
+- 平台、协议用反引号（`` ` ``）包裹，放在简介之后
+- 徽章紧跟名称与链接，放在简介之前，便于逐行对比星标与版本
 - 简介客观准确，不写「最好用」「神器」「必备」等主观评价
 - GitHub 条目使用 stars 徽章；有 Release 的条目再添加版本与发布日期徽章
 
@@ -35,7 +36,7 @@
 
 ✅ **正确**
 ```markdown
-- [LocalSend](https://github.com/localsend/localsend) - 局域网内跨设备文件传输工具。 `跨平台` `MIT` ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat)
+- [LocalSend](https://github.com/localsend/localsend) - ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat) 局域网内跨设备文件传输工具。 `跨平台` `MIT`
 ```
 
 ❌ **错误**（问题：用冒号分隔、缺平台/协议、营销用语）
@@ -45,7 +46,7 @@
 
 ## 徽章约定
 
-GitHub 条目使用 [shields.io](https://shields.io) 徽章，顺序为 **stars → 最新版本 → 发布日期**。如果项目没有 GitHub Release，只保留 stars 徽章：
+GitHub 条目使用 [shields.io](https://shields.io) 徽章，放在名称链接之后、简介之前，顺序为 **stars → 最新版本 → 发布日期**。如果项目没有 GitHub Release，只保留 stars 徽章：
 
 ```markdown
 ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat)
