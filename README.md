@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 308 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 309 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,7 +14,7 @@
 - [识别与翻译](#识别与翻译) · 9 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 93 项
+- [系统工具](#系统工具) · 94 项
   - [压缩与解压](#压缩与解压) · 3 项
   - [文件管理](#文件管理) · 3 项
   - [系统监控](#系统监控) · 5 项
@@ -22,7 +22,7 @@
   - [桌面美化](#桌面美化) · 11 项
   - [窗口与桌面工具](#窗口与桌面工具) · 11 项
   - [自动化与广告跳过](#自动化与广告跳过) · 4 项
-  - [系统优化](#系统优化) · 8 项
+  - [系统优化](#系统优化) · 9 项
   - [清理与卸载](#清理与卸载) · 16 项
   - [包管理器](#包管理器) · 6 项
   - [启动盘制作](#启动盘制作) · 3 项
@@ -202,6 +202,7 @@
 - [Windows-Defender-Manager](https://github.com/TwoSevenOneT/Windows-Defender-Manager) - 用于停止 Windows Defender 的工具，兼容 Windows 10/11。 `Windows`
 - [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - 免费的 Windows 系统优化工具，专注于性能、隐私和简洁性。 `Windows` `GPL-3.0`
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - PowerShell 脚本，用于移除 Windows 10/11 预装应用、禁用遥测并精简系统设置。 `Windows` `MIT`
+- [SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) - 将游戏着色器提前编译进显卡驱动缓存，减少首次游玩时的编译卡顿。 `Windows` `GPL-3.0`
 #### [清理与卸载](lists/system.md#清理与卸载)
 
 - [geek](https://geekuninstaller.com/) - 轻量级软件卸载工具，支持强制卸载与清理残留。 `Windows`
