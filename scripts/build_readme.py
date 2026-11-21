@@ -23,8 +23,7 @@ CATEGORIES = [
     ("多媒体", "lists/media.md"),
     ("文档与阅读", "lists/documents.md"),
 ]
-BADGE = re.compile(r"\s*!\[[^]]*\]\(https://img\.shields\.io/[^)]*\)")
-ENTRY = re.compile(r"^- \[[^]]+\]\(https?://")
+ENTRY = re.compile(r"^\|\s*(\[[^\]]+\]\([^)]+\))\s*\|[^|]*\|[^|]*\|[^|]*\|([^|]*)\|(.*)\|\s*$")
 BACK_TO_TOC = "[↑ 回到目录](#分类)"
 
 
@@ -46,8 +45,11 @@ def index_lines(path: str) -> tuple[list[str], int, list[tuple[str, int]]]:
             result.extend((f"#### [{heading}]({path}#{slug(heading)})", ""))
             subs.append((heading, 0))
             current = len(subs) - 1
-        elif ENTRY.match(line):
-            result.append(BADGE.sub("", line).rstrip())
+        elif match := ENTRY.match(line):
+            entry = f"- {match.group(1)} - {match.group(3).strip()}"
+            if tags := match.group(2).strip():
+                entry = f"{entry} {tags}"
+            result.append(entry)
             count += 1
             if current is not None:
                 name, sub_count = subs[current]

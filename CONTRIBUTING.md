@@ -4,49 +4,50 @@
 
 ## 条目格式标准
 
-每款软件统一为「列表项 + 链接 + 可选徽章 + 简介 + 标签」的形式（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
+每个子分类维护一张对照表，列固定为 **软件 / Stars / 版本 / 发布日期 / 平台/协议 / 简介**，同一列的徽章自然对齐，便于比较星标与版本（参考 [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 与 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 规范）：
 
 ```markdown
-- [软件名](仓库或主页链接) - ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat) 一句话简介。 `平台` `开源协议`
+| 软件 | Stars | 版本 | 发布日期 | 平台/协议 | 简介 |
+| --- | --- | --- | --- | --- | --- |
+| [软件名](仓库或主页链接) | ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat) | `平台` `开源协议` | 一句话简介。 |
 ```
 
 ### 字段说明
 
-| 字段 | 必填 | 说明 |
+| 列 | 必填 | 说明 |
 | --- | --- | --- |
-| 软件名 | ✅ | 作为链接文本，使用官方名称 |
-| 链接 | ✅ | 优先填 GitHub 仓库地址；官网也可 |
+| 软件 | ✅ | 官方名称的链接；优先填 GitHub 仓库地址，官网也可 |
+| Stars | 🔶 | GitHub 项目的 stars 徽章；非 GitHub 项目留空 |
+| 版本 / 发布日期 | 🔶 | 有 GitHub Release 时填写对应徽章，没有则留空 |
+| 平台/协议 | 🔶 | 反引号标签：`Windows` / `macOS` / `Linux` / `跨平台` / `Web`，协议用 SPDX 标识如 `MIT` / `GPL-3.0` / `AGPL-3.0` |
 | 简介 | ✅ | 一句话客观描述功能，以句号（。）结尾，避免营销用语 |
-| 平台 | 🔶 | 反引号标签：`Windows` / `macOS` / `Linux` / `跨平台` / `Web` |
-| 开源协议 | 🔶 | 使用 SPDX 标识，如 `MIT` / `GPL-3.0` / `AGPL-3.0` / `Unlicense` |
-| stars 徽章 | 🔶 | GitHub 项目添加，显示项目热度 |
-| 版本与发布日期徽章 | 🔶 | 有 GitHub Release 的项目添加，便于比较版本与发布时间 |
 
 > 🔶 = 建议填写，但非强制；存量条目正在逐步统一为该格式。
 
 ### 格式细则
 
-- 软件名与简介之间用 ` - `（空格 + 短横 + 空格）分隔，**不要用** `:` 或 `：`
-- 平台、协议用反引号（`` ` ``）包裹，放在简介之后
-- 徽章紧跟名称与链接，放在简介之前，便于逐行对比星标与版本
+- 表头与分隔行固定为六列，不要增删列或调换顺序；同一子分类只维护一张表
+- 新增条目追加为表格最后一行；没有值的单元格留空，不要写 `-` 或 `无`
+- 单元格内不要出现 `|`，简介不换行；软件名与简介之间不再使用 ` - ` 分隔
+- 平台、协议用反引号（`` ` ``）包裹，多个标签以空格分隔
 - 简介客观准确，不写「最好用」「神器」「必备」等主观评价
-- GitHub 条目使用 stars 徽章；有 Release 的条目再添加版本与发布日期徽章
+- GitHub 条目填写 stars 徽章；有 Release 的条目再填写版本与发布日期徽章
 
 ### 正反例对比
 
 ✅ **正确**
 ```markdown
-- [LocalSend](https://github.com/localsend/localsend) - ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat) 局域网内跨设备文件传输工具。 `跨平台` `MIT`
+| [LocalSend](https://github.com/localsend/localsend) | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/localsend/localsend?label=&style=flat) | ![GitHub Release Date](https://img.shields.io/github/release-date/localsend/localsend?label=&display_date=published_at&style=flat) | `跨平台` `MIT` | 局域网内跨设备文件传输工具。 |
 ```
 
-❌ **错误**（问题：用冒号分隔、缺平台/协议、营销用语）
+❌ **错误**（问题：用列表项而非表格行、缺平台/协议、营销用语）
 ```markdown
 - [localsend](https://github.com/localsend/localsend) : 超好用的局域网传文件神器
 ```
 
 ## 徽章约定
 
-GitHub 条目使用 [shields.io](https://shields.io) 徽章，放在名称链接之后、简介之前，顺序为 **stars → 最新版本 → 发布日期**。如果项目没有 GitHub Release，只保留 stars 徽章：
+GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → 版本 → 发布日期** 依次放在三列中。如果项目没有 GitHub Release，后两列留空，只填 stars 徽章：
 
 ```markdown
 ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat)
@@ -65,8 +66,8 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，放在名称链接
 ## 如何添加一款软件
 
 1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`
-2. 将新条目添加到该分类列表的**末尾**，不要直接修改 `README.md` 中的生成内容
-3. 按上述标准格式填写（至少包含：名称、链接、简介）
+2. 将新条目作为该子分类表格的**最后一行**追加，不要直接修改 `README.md` 中的生成内容
+3. 按上述列填写（至少包含：软件、简介）
 4. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
 5. 提交 Pull Request，标题形如 `Add 软件名` 或 `新增 软件名`
 
