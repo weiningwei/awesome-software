@@ -18,7 +18,7 @@
 | --- | --- | --- |
 | 软件 | ✅ | 官方名称的链接；优先填 GitHub 仓库地址，官网也可 |
 | Stars | 🔶 | GitHub 项目的 stars 徽章；非 GitHub 项目留空 |
-| 版本 / 发布日期 | 🔶 | 有 GitHub Release 时填写对应徽章，没有则留空 |
+| 版本 / 发布日期 | 🔶 | 有 GitHub Release 时填写版本徽章与静态日期徽章（`![Date](https://img.shields.io/badge/YYYY--MM--DD-1a7f37)`），没有则留空 |
 | 简介 | ✅ | 一句话客观描述功能，以句号（。）结尾，避免营销用语；末尾可附平台与协议标签 |
 
 > 🔶 = 建议填写，但非强制；存量条目正在逐步统一为该格式。
@@ -51,16 +51,16 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → �
 ```markdown
 ![GitHub Repo stars](https://img.shields.io/github/stars/owner/repo?label=&style=flat)
 ![GitHub Release](https://img.shields.io/github/v/release/owner/repo?label=&style=flat)
-![GitHub Release Date](https://img.shields.io/github/release-date/owner/repo?label=&display_date=published_at&style=flat)
+![Date](https://img.shields.io/badge/2026--11--03-1a7f37)
 ```
 
 - `owner/repo` 需替换为真实路径，且必须与条目链接指向同一仓库
 - 非 GitHub 项目（如官网、GitLab）不添加这些徽章
 - 徽章左标签留空（`label=`），只显示数值，避免重复出现 stars / release 字样
 - 无 GitHub Release 的项目不添加版本与发布日期徽章；不要添加 CI / build 状态等无关徽章
-- `display_date=published_at` 显示 Release 的发布时间；它不代表仓库最近提交时间
+- 发布日期使用静态 badge，日期取最新 Release 的发布时间（UTC），格式 `YYYY--MM--DD`，颜色固定 `1a7f37`；发版后需手动同步该日期
+- 静态日期 badge 不代表仓库最近提交时间，也不随 Release 自动更新
 - `README.md` 首页索引不显示逐项徽章，徽章仅保留在分类文件（`lists/*.md`）
-- release 日期徽章采用 shields.io 默认显示样式（仅月份，或非当年时显示 月份+年份，如 `may 2023`），目前不支持 `YYYY-MM-DD` 数字格式
 
 ## 如何添加一款软件
 
