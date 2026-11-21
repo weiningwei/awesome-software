@@ -57,7 +57,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → �
 - `owner/repo` 需替换为真实路径，且必须与条目链接指向同一仓库
 - 非 GitHub 项目（如官网、GitLab）不添加这些徽章
 - 徽章左标签留空（`label=`），只显示数值，避免重复出现 stars / release 字样
-- 无 GitHub Release 的项目不添加版本与发布日期徽章；不要添加 CI / build 状态等无关徽章
+- 无 GitHub Release 的项目不添加版本与发布日期徽章，这两列留空（`refresh_dates.py` 会清空）；不要添加 CI / build 状态等无关徽章
 - 发布日期使用静态 badge，日期取最新 Release 的发布时间（UTC），格式 `YYYY--MM--DD`，颜色固定 `1a7f37`；可用 `python scripts/refresh_dates.py` 批量同步
 - 刷新脚本兼容两种取数方式：`--mode graphql`（默认，批量）与 `--mode rest`（逐个仓库）；也兼容两种徽章写法：`--style static`（默认）与 `--style dynamic`
 - 静态日期 badge 不代表仓库最近提交时间，也不随 Release 自动更新

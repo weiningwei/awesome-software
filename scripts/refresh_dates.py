@@ -12,6 +12,7 @@ Usage:
     python scripts/refresh_dates.py --style dynamic # restore auto-updating badges
 
 Both badge styles are understood on input, so a file may mix them.
+Repositories without a release keep the version and date columns empty.
 """
 
 from __future__ import annotations
@@ -173,19 +174,18 @@ def rewrite(
             if len(cells) != 5:
                 print(f"Skipping malformed row in {path.name}:{index + 1}")
                 continue
-            had_date = bool(STATIC_DATE.search(cells[3]) or DYNAMIC_DATE.search(cells[3]))
-            if not had_date and not day:
-                continue
-            if style == "static":
-                cell = badge_static(day) if day else ""
-                if not day:
-                    without_date += 1
+            if day is None:
+                # No release: the version and date columns stay empty.
+                if not cells[2] and not cells[3]:
+                    continue
+                cells[2] = cells[3] = ""
+                without_date += 1
             else:
-                cell = badge_dynamic(repo)
-            if cells[3] == cell:
+                cells[3] = badge_static(day) if style == "static" else badge_dynamic(repo)
+            new_line = "| " + " | ".join(cells) + " |"
+            if new_line == line:
                 continue
-            cells[3] = cell
-            files[path][index] = "| " + " | ".join(cells) + " |"
+            files[path][index] = new_line
             changed += 1
     if not dry_run and changed:
         for path, lines in files.items():
@@ -220,7 +220,7 @@ def main() -> None:
     verb = "would change" if args.dry_run else "changed"
     print(f"{verb} {changed} rows")
     if args.style == "static":
-        print(f"{without_date} rows have no release date and were left empty")
+        print(f"{without_date} rows have no release and keep the version/date columns empty")
     if missing:
         print(f"{len(missing)} repositories returned no release, e.g. {', '.join(missing[:5])}")
     if failed:

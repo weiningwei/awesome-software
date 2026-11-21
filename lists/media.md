@@ -44,7 +44,7 @@
 | 软件 | Stars | 版本 | 发布日期 | 简介 |
 | --- | --- | --- | --- | --- |
 | [obs-studio](https://github.com/obsproject/obs-studio) | ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/obsproject/obs-studio?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--20-1a7f37) | 视频录制以及直播串流软件。 `跨平台` `GPL-2.0` |
-| [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/xiaoyaocz/dart_simple_live?label=&style=flat) | | 简简单单的看直播。 `跨平台` `GPL-3.0` |
+| [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live?label=&style=flat) |  |  | 简简单单的看直播。 `跨平台` `GPL-3.0` |
 | [dtv](https://github.com/chen-zeong/dtv) | ![GitHub Repo stars](https://img.shields.io/github/stars/chen-zeong/dtv?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/chen-zeong/dtv?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--08-1a7f37) | 跨平台直播桌面客户端。 `跨平台` `MIT` |
 | [pure_live](https://github.com/liuchuancong/pure_live) | ![GitHub Repo stars](https://img.shields.io/github/stars/liuchuancong/pure_live?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/liuchuancong/pure_live?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--10-1a7f37) | 聚合哔哩哔哩、虎牙、斗鱼等平台的直播客户端。 `跨平台` `AGPL-3.0` |
 
