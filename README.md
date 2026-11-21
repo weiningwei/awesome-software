@@ -2,12 +2,12 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 304 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 305 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
-- [截图与录屏](#截图与录屏) · 15 项
-  - [截图](#截图) · 11 项
+- [截图与录屏](#截图与录屏) · 16 项
+  - [截图](#截图) · 12 项
   - [录屏](#录屏) · 4 项
 - [剪贴板](#剪贴板) · 4 项
 - [文件搜索与启动](#文件搜索与启动) · 8 项
@@ -73,6 +73,7 @@
 - [sniplite](https://github.com/MrTangLuyao/sniplite) - 核心用汇编编写的轻量截图与贴图工具，支持长截图与 OCR。 `Windows` `MIT`
 - [Kiri](https://github.com/yuxino/Kiri) - 跨平台截图与录屏工具，内置标注编辑与本地 OCR 文字识别。 `跨平台` `MIT`
 - [QuickShot](https://github.com/cclank/quickshot) - 本地截图工具，支持悬停选取窗口、标注、美化与图片拼接。 `跨平台` `GPL-3.0`
+- [SnowAir](https://github.com/CM-idea/SnowAir) - 轻量的 Windows 截图与标注工具，支持长截图、录屏、贴图、OCR 与翻译。 `Windows` `Apache-2.0`
 #### [录屏](lists/screenshot-recording.md#录屏)
 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕并逐帧编辑，导出 GIF 或视频。 `Windows` `MS-PL`
