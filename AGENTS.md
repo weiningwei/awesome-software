@@ -20,11 +20,12 @@ No application build or run commands are configured. Before submitting documenta
 ```text
 python scripts/build_readme.py
 python scripts/build_readme.py --check
+python scripts/refresh_dates.py --dry-run
 git diff --check
 rg "软件名或仓库名" lists
 ```
 
-`git diff --check` catches whitespace errors; `rg` (ripgrep) helps prevent duplicate entries. If `rg` is unavailable, use `git grep` or editor search instead. Review the rendered Markdown and verify every external link manually when adding entries.
+`refresh_dates.py` refreshes the static release-date column (GraphQL batches by default, `--mode rest` per repository, `--style dynamic` for auto-updating badges); `git diff --check` catches whitespace errors; `rg` (ripgrep) helps prevent duplicate entries. If `rg` is unavailable, use `git grep` or editor search instead. Review the rendered Markdown and verify every external link manually when adding entries.
 
 ## Coding Style & Naming Conventions
 

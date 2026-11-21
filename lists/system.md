@@ -66,7 +66,7 @@
 | [BetterTrumpet](https://github.com/xammen/BetterTrumpet) | ![GitHub Repo stars](https://img.shields.io/github/stars/xammen/BetterTrumpet?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/xammen/BetterTrumpet?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--11-1a7f37) | Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT` |
 | [deskflow](https://github.com/deskflow/deskflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/deskflow/deskflow?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--01-1a7f37) | 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0` |
 | [Keyviz](https://github.com/zetaloop/keyviz) | ![GitHub Repo stars](https://img.shields.io/github/stars/zetaloop/keyviz?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/zetaloop/keyviz?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--02--02-1a7f37) | 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0` |
-| [FxSound](https://github.com/fxsound2/fxsound-app) | ![GitHub Repo stars](https://img.shields.io/github/stars/fxsound2/fxsound-app?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--09--17-1a7f37) |  | Windows 音频增强工具，提供均衡器、低音与环绕声效果、动态压缩及自动音量均衡。 `Windows` `AGPL-3.0` |
+| [FxSound](https://github.com/fxsound2/fxsound-app) | ![GitHub Repo stars](https://img.shields.io/github/stars/fxsound2/fxsound-app?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--09--17-1a7f37) | ![Date](https://img.shields.io/badge/2026--09--17-1a7f37) | Windows 音频增强工具，提供均衡器、低音与环绕声效果、动态压缩及自动音量均衡。 `Windows` `AGPL-3.0` |
 
 ## 自动化与广告跳过
 

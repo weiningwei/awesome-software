@@ -39,7 +39,7 @@
 | [termora](https://github.com/TermoraDev/termora) | ![GitHub Repo stars](https://img.shields.io/github/stars/TermoraDev/termora?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/TermoraDev/termora?label=&style=flat) | ![Date](https://img.shields.io/badge/2025--06--17-1a7f37) | 跨平台 SSH/Telnet 终端客户端。 `跨平台` |
 | [Netcatty](https://github.com/binaricat/Netcatty) | ![GitHub Repo stars](https://img.shields.io/github/stars/binaricat/Netcatty?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/binaricat/Netcatty?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--26-1a7f37) | 集 SSH 工作区、SFTP 文件管理与终端会话于一体的桌面客户端。 `跨平台` `GPL-3.0` |
 | [Pebrel](https://github.com/Kuddev/pebrel) | ![GitHub Repo stars](https://img.shields.io/github/stars/Kuddev/pebrel?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Kuddev/pebrel?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--20-1a7f37) | AI 原生、GPU 加速的 Windows 终端模拟器，支持 SSH、持久会话与分屏。 `Windows` `GPL-3.0` |
-| [Motty](https://github.com/t8y2/motty) | ![GitHub Repo stars](https://img.shields.io/github/stars/t8y2/motty?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/t8y2/motty?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--20-1a7f37) | 跨平台 SSH/SFTP 客户端，集成端口转发、VNC/RDP 连接与 AI 助手。 `跨平台` `Apache-2.0` |
+| [Motty](https://github.com/t8y2/motty) | ![GitHub Repo stars](https://img.shields.io/github/stars/t8y2/motty?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/t8y2/motty?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--21-1a7f37) | 跨平台 SSH/SFTP 客户端，集成端口转发、VNC/RDP 连接与 AI 助手。 `跨平台` `Apache-2.0` |
 
 ## Git GUI
 

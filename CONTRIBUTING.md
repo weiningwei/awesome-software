@@ -58,7 +58,8 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → �
 - 非 GitHub 项目（如官网、GitLab）不添加这些徽章
 - 徽章左标签留空（`label=`），只显示数值，避免重复出现 stars / release 字样
 - 无 GitHub Release 的项目不添加版本与发布日期徽章；不要添加 CI / build 状态等无关徽章
-- 发布日期使用静态 badge，日期取最新 Release 的发布时间（UTC），格式 `YYYY--MM--DD`，颜色固定 `1a7f37`；发版后需手动同步该日期
+- 发布日期使用静态 badge，日期取最新 Release 的发布时间（UTC），格式 `YYYY--MM--DD`，颜色固定 `1a7f37`；可用 `python scripts/refresh_dates.py` 批量同步
+- 刷新脚本兼容两种取数方式：`--mode graphql`（默认，批量）与 `--mode rest`（逐个仓库）；也兼容两种徽章写法：`--style static`（默认）与 `--style dynamic`
 - 静态日期 badge 不代表仓库最近提交时间，也不随 Release 自动更新
 - `README.md` 首页索引不显示逐项徽章，徽章仅保留在分类文件（`lists/*.md`）
 
@@ -67,8 +68,9 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → �
 1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`
 2. 将新条目作为该子分类表格的**最后一行**追加，不要直接修改 `README.md` 中的生成内容
 3. 按上述列填写（至少包含：软件、简介）
-4. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
-5. 提交 Pull Request，标题形如 `Add 软件名` 或 `新增 软件名`
+4. 运行 `python scripts/refresh_dates.py` 刷新发布日期：默认用 GraphQL 每批 50 个仓库查询，一次调用即可覆盖大部分条目；`--mode rest` 改为逐个仓库查询，`--style dynamic` 可切回自动更新的动态徽章
+5. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
+6. 提交 Pull Request，标题形如 `Add 软件名` 或 `新增 软件名`
 
 ## 分类标准
 
