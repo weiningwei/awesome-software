@@ -2,8 +2,8 @@ name: Refresh release dates
 
 on:
   schedule:
-    # 每周一 02:00 UTC（北京时间 10:00）
-    - cron: "0 2 * * 1"
+    # 每天 02:00 UTC（北京时间 10:00）
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
