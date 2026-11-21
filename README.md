@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 305 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 307 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,7 +14,7 @@
 - [识别与翻译](#识别与翻译) · 8 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 91 项
+- [系统工具](#系统工具) · 93 项
   - [压缩与解压](#压缩与解压) · 3 项
   - [文件管理](#文件管理) · 3 项
   - [系统监控](#系统监控) · 5 项
@@ -29,6 +29,7 @@
   - [网络代理](#网络代理) · 11 项
   - [激活](#激活) · 4 项
   - [安卓应用运行](#安卓应用运行) · 3 项
+  - [手机投屏](#手机投屏) · 2 项
 - [下载](#下载) · 26 项
   - [通用下载器](#通用下载器) · 11 项
   - [视频与流媒体下载](#视频与流媒体下载) · 12 项
@@ -255,6 +256,10 @@
 - [ApkStart](https://github.com/RoutineMiku/apkstart) - Windows 上的安卓应用运行器，双击 APK 即安装并以独立窗口运行，内置 QEMU 运行时。 `Windows` `MIT`
 - [WSABuilds](https://github.com/MustardChef/WSABuilds) - 提供集成 Google Play 与 Magisk 的 Windows Subsystem for Android 预编译版本，用于在 Windows 10 与 11 上运行安卓应用。 `Windows` `AGPL-3.0`
 - [Waydroid](https://github.com/waydroid/waydroid) - 基于容器在 Linux 上启动完整 Android 系统，并以桌面窗口运行安卓应用。 `Linux` `GPL-3.0`
+#### [手机投屏](lists/system.md#手机投屏)
+
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - 通过 USB 或 Wi-Fi 在电脑上实时显示并控制 Android 设备，支持键鼠映射与多设备管理。 `跨平台` `Apache-2.0`
+- [GameScrcpy](https://github.com/NuoRan/GameScrcpy) - 在 Windows 上用键盘、鼠标与手柄玩 Android 游戏，支持按键映射与 TypeScript 逻辑脚本。 `Windows` `Apache-2.0`
 
 ### [下载](lists/download.md)
 
