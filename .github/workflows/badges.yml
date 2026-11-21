@@ -22,19 +22,19 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Rewrite release dates as static badges
+      - name: Refresh release dates in every list
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/update_badges.py --section 网络代理 lists/system.md
+        run: python3 scripts/refresh_dates.py
 
       - name: Commit changes
         run: |
-          if git diff --quiet -- lists/system.md; then
+          if git diff --quiet -- lists; then
             echo "No release date changed"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lists/system.md
+          git add lists
           git commit -m "chore: refresh release dates"
           git push
