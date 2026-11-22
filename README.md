@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 311 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 312 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -42,9 +42,9 @@
   - [数据库](#数据库) · 5 项
   - [代码对比](#代码对比) · 3 项
 - [字体](#字体) · 7 项
-- [AI 工具](#ai-工具) · 14 项
+- [AI 工具](#ai-工具) · 15 项
   - [聊天与助手](#聊天与助手) · 5 项
-  - [AI 编程工具](#ai-编程工具) · 9 项
+  - [AI 编程工具](#ai-编程工具) · 10 项
 - [多媒体](#多媒体) · 55 项
   - [视频播放与观看](#视频播放与观看) · 21 项
   - [视频剪辑与转码](#视频剪辑与转码) · 6 项
@@ -402,6 +402,7 @@
 - [Orca](https://github.com/stablyai/orca) - 跨平台 AI 编程代理编排桌面应用，支持 Codex、Claude Code、OpenCode 等多代理并行运行于独立 Worktree。 `跨平台` `MIT`
 - [herdr](https://github.com/herdrdev/herdr) - 运行在终端内的 AI 编程代理会话管理器，支持分屏、断线重连与多机连接，可托管 Claude Code、Codex 等代理。 `跨平台` `Apache-2.0`
 - [magpie](https://github.com/yetone/magpie-releases) - 统一管理 Claude Code、Codex 等 AI 编程工具的模型与供应商，支持本地网关和故障切换。 `跨平台` `MIT`
+- [T3 Code](https://github.com/pingdotgg/t3code) - 在本机运行并统一操控 AI 编程代理的跨平台客户端，支持 Claude Code、Codex、Cursor 等代理，可从手机继续会话与审批。 `跨平台` `MIT`
 
 ### [多媒体](lists/media.md)
 
