@@ -66,6 +66,8 @@
 | [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) | ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop?label=&style=flat) | ![Date](https://img.shields.io/badge/2025--10--26-1a7f37) | 插件化、定制化、无广告的免费音乐播放器。 `跨平台` `AGPL-3.0` |
 | [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) | ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--12-1a7f37) | 音乐播放器模仿酷狗。 `跨平台` `GPL-3.0` |
 | [Folia-rust](https://github.com/Techuouo520/Folia-rust) | ![GitHub Repo stars](https://img.shields.io/github/stars/Techuouo520/Folia-rust?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Techuouo520/Folia-rust?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--19-1a7f37) | Folia 歌词可视化音乐播放器的原生 Rust 重写，使用 iced 与 wgpu 绘制界面与歌词动画。 `跨平台` `AGPL-3.0` |
+| [Pear Desktop](https://github.com/pear-devs/pear-desktop) | ![GitHub Repo stars](https://img.shields.io/github/stars/pear-devs/pear-desktop?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/pear-devs/pear-desktop?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--15-1a7f37) | YouTube Music 的第三方桌面客户端，基于 Electron 实现，支持插件扩展与主题定制。 `跨平台` `MIT` |
+| [MusicFree](https://github.com/maotoumao/MusicFree) | ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree?label=&style=flat) |  |  | 插件化、无广告的 Android 音乐播放器，可通过插件接入多个音源。 `Android` `AGPL-3.0` |
 
 ## 图片
 
