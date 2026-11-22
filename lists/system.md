@@ -132,6 +132,7 @@
 | [UniGetUI](https://github.com/marticliment/UniGetUI) | ![GitHub Repo stars](https://img.shields.io/github/stars/marticliment/UniGetUI?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/marticliment/UniGetUI?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--13-1a7f37) | 统一管理 winget/Chocolatey/Scoop 等多种包管理器的图形界面。 `Windows` `MIT` |
 | [F-Droid](https://github.com/f-droid/fdroidclient) | ![GitHub Repo stars](https://img.shields.io/github/stars/f-droid/fdroidclient?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/f-droid/fdroidclient?label=&style=flat) | ![Date](https://img.shields.io/badge/2024--01--24-1a7f37) | 开源 Android 应用商店。 `Android` `GPL-3.0` |
 | [Droid-ify](https://github.com/Droid-ify/client) | ![GitHub Repo stars](https://img.shields.io/github/stars/Droid-ify/client?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Droid-ify/client?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--09--12-1a7f37) | 基于 F-Droid 的现代化 Android 应用商店客户端。 `Android` `GPL-3.0` |
+| [mise](https://github.com/jdx/mise) | ![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/jdx/mise?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--21-1a7f37) | 开发工具版本管理器，统一安装并锁定 Node、Python、Go 等运行时版本，同时提供环境变量与任务运行功能。 `跨平台` `MIT` |
 
 ## 启动盘制作
 
