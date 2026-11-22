@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 312 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 317 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,13 +14,14 @@
 - [识别与翻译](#识别与翻译) · 10 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 94 项
+- [系统工具](#系统工具) · 99 项
   - [压缩与解压](#压缩与解压) · 3 项
   - [文件管理](#文件管理) · 3 项
   - [系统监控](#系统监控) · 5 项
   - [使用统计](#使用统计) · 3 项
   - [桌面美化](#桌面美化) · 11 项
-  - [窗口与桌面工具](#窗口与桌面工具) · 11 项
+  - [窗口与桌面工具](#窗口与桌面工具) · 10 项
+  - [输入法](#输入法) · 6 项
   - [自动化与广告跳过](#自动化与广告跳过) · 4 项
   - [系统优化](#系统优化) · 9 项
   - [清理与卸载](#清理与卸载) · 16 项
@@ -182,11 +183,18 @@
 - [InputTip](https://github.com/abgox/InputTip) - 输入法状态管理工具。 `Windows` `AGPL-3.0`
 - [RedDot](https://github.com/Autumn-one/RedDot) - 光标处显示中英文状态。 `Windows`
 - [PeekDesktop](https://github.com/shanselman/PeekDesktop) - 点击桌面或任务栏空白处即可显示桌面，将 macOS Sonoma 的这一特性带到 Windows。 `Windows` `MIT`
-- [WindInput](https://github.com/huanfeng/WindInput) - 轻量、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼和双拼。 `跨平台` `MIT`
 - [BetterTrumpet](https://github.com/xammen/BetterTrumpet) - Windows 音量控制工具，EarTrumpet 的增强分支，支持主题、媒体控制、音频配置档案与命令行。 `Windows` `MIT`
 - [deskflow](https://github.com/deskflow/deskflow) - 局域网共享鼠标和键盘。 `跨平台` `GPL-2.0`
 - [Keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具，可实时显示按键和鼠标操作。 `跨平台` `GPL-3.0`
 - [FxSound](https://github.com/fxsound2/fxsound-app) - Windows 音频增强工具，提供均衡器、低音与环绕声效果、动态压缩及自动音量均衡。 `Windows` `AGPL-3.0`
+#### [输入法](lists/system.md#输入法)
+
+- [WindInput](https://github.com/huanfeng/WindInput) - 轻量、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼和双拼。 `跨平台` `MIT`
+- [雾凇拼音](https://github.com/iDvel/rime-ice) - Rime 输入法配置方案，提供全拼与双拼方案及长期维护的简体中文词库。 `跨平台` `GPL-3.0`
+- [白霜拼音](https://github.com/gaboolic/rime-frost) - Rime 输入方案与简体中文词库，在雾凇拼音配置基础上重建字频与词频，支持全拼与双拼。 `跨平台` `GPL-3.0`
+- [青简](https://github.com/qingjian-team/qingjian) - 用 Rust 开发的拼音输入法，在候选词旁显示所学习语言的译词。 `跨平台` `GPL-3.0`
+- [语燕输入法](https://github.com/gurecn/YuyanIme) - 基于 Rime 引擎的 Android 中文输入法，支持九宫格、全键、双拼、手写与悬浮键盘。 `Android` `BSD-3-Clause`
+- [水杉输入法](https://github.com/metasequoiaime/msime-windows) - 面向 Windows 10/11 的开源中文输入法，采用 TSF 框架实现。 `Windows` `GPL-3.0`
 #### [自动化与广告跳过](lists/system.md#自动化与广告跳过)
 
 - [gkd](https://github.com/gkd-kit/gkd) - 基于无障碍服务的 Android 全局手势自动化工具。 `Android` `GPL-3.0`
