@@ -2,8 +2,8 @@ name: Refresh release dates and star order
 
 on:
   schedule:
-    # 每天 02:00 UTC（北京时间 10:00）
-    - cron: "0 2 * * *"
+    # 每天 02:17 UTC（北京时间 10:17）
+    - cron: "17 2 * * *"
   workflow_dispatch:
 
 permissions:
