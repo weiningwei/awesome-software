@@ -22,6 +22,7 @@
 | [SideX](https://github.com/Sidenai/sidex) | ![GitHub Repo stars](https://img.shields.io/github/stars/Sidenai/sidex?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Sidenai/sidex?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--04--12-1a7f37) | 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT` |
 | [ImHex](https://github.com/WerWolv/ImHex) | ![GitHub Repo stars](https://img.shields.io/github/stars/WerWolv/ImHex?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/WerWolv/ImHex?label=&style=flat) | ![Date](https://img.shields.io/badge/2025--12--21-1a7f37) | 面向逆向工程与二进制分析的十六进制编辑器，支持自定义模式语言解析文件结构。 `跨平台` `GPL-2.0` |
 | [Winc](https://github.com/DEEIX-AI/winc) | ![GitHub Repo stars](https://img.shields.io/github/stars/DEEIX-AI/winc?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/DEEIX-AI/winc?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--21-1a7f37) | 用 Rust 构建的跨平台代码编辑器，自带渲染引擎，启动快、内存占用低，支持多光标、查找替换与并排对比。 `跨平台` `Apache-2.0` |
+| [Lithe](https://github.com/1lck/Lithe-IDEA) | ![GitHub Repo stars](https://img.shields.io/github/stars/1lck/Lithe-IDEA?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/1lck/Lithe-IDEA?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--22-1a7f37) | 轻量级跨平台原生 IDE，核心使用 Rust 与 Go 编写，插件与服务按需加载。 `跨平台` `Apache-2.0` |
 
 ## 终端与 SSH
 

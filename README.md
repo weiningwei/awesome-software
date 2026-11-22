@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 319 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 320 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -35,8 +35,8 @@
   - [通用下载器](#通用下载器) · 11 项
   - [视频与流媒体下载](#视频与流媒体下载) · 12 项
   - [网络加速](#网络加速) · 3 项
-- [开发工具](#开发工具) · 50 项
-  - [编辑器](#编辑器) · 10 项
+- [开发工具](#开发工具) · 51 项
+  - [编辑器](#编辑器) · 11 项
   - [终端与 SSH](#终端与-ssh) · 13 项
   - [Git GUI](#git-gui) · 12 项
   - [API 测试](#api-测试) · 4 项
@@ -329,6 +329,7 @@
 - [SideX](https://github.com/Sidenai/sidex) - 基于 Tauri 重新构建的 VS Code，保持相同架构，体积减小约 96%。 `跨平台` `MIT`
 - [ImHex](https://github.com/WerWolv/ImHex) - 面向逆向工程与二进制分析的十六进制编辑器，支持自定义模式语言解析文件结构。 `跨平台` `GPL-2.0`
 - [Winc](https://github.com/DEEIX-AI/winc) - 用 Rust 构建的跨平台代码编辑器，自带渲染引擎，启动快、内存占用低，支持多光标、查找替换与并排对比。 `跨平台` `Apache-2.0`
+- [Lithe](https://github.com/1lck/Lithe-IDEA) - 轻量级跨平台原生 IDE，核心使用 Rust 与 Go 编写，插件与服务按需加载。 `跨平台` `Apache-2.0`
 #### [终端与 SSH](lists/development.md#终端与-ssh)
 
 - [terminal](https://github.com/microsoft/terminal) - Windows Terminal。 `Windows` `MIT`
