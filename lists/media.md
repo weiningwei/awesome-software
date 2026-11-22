@@ -68,6 +68,8 @@
 | [Folia-rust](https://github.com/Techuouo520/Folia-rust) | ![GitHub Repo stars](https://img.shields.io/github/stars/Techuouo520/Folia-rust?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Techuouo520/Folia-rust?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--19-1a7f37) | Folia 歌词可视化音乐播放器的原生 Rust 重写，使用 iced 与 wgpu 绘制界面与歌词动画。 `跨平台` `AGPL-3.0` |
 | [Pear Desktop](https://github.com/pear-devs/pear-desktop) | ![GitHub Repo stars](https://img.shields.io/github/stars/pear-devs/pear-desktop?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/pear-devs/pear-desktop?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--15-1a7f37) | YouTube Music 的第三方桌面客户端，基于 Electron 实现，支持插件扩展与主题定制。 `跨平台` `MIT` |
 | [MusicFree](https://github.com/maotoumao/MusicFree) | ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree?label=&style=flat) |  |  | 插件化、无广告的 Android 音乐播放器，可通过插件接入多个音源。 `Android` `AGPL-3.0` |
+| [Nuclear](https://github.com/nukeop/nuclear) | ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/nukeop/nuclear?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--19-1a7f37) | 免费音乐流媒体播放器，可从多个在线音源搜索并播放音乐。 `跨平台` `AGPL-3.0` |
+| [Feishin](https://github.com/jeffvli/feishin) | ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/jeffvli/feishin?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--09--15-1a7f37) | 自托管音乐服务器桌面客户端，支持 Navidrome、Jellyfin 与 Subsonic 兼容服务。 `跨平台` `GPL-3.0` |
 
 ## 图片
 
