@@ -23,6 +23,7 @@ import re
 import subprocess
 import sys
 import time
+from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -155,15 +156,26 @@ def collect_dates(repos: list[str], mode: str, batch_size: int) -> tuple[dict[st
     return dates, set()
 
 
+def display_date(cell: str) -> str:
+    match = re.search(r"badge/(\d{4})--(\d{2})--(\d{2})-", cell)
+    if match:
+        return "-".join(match.groups())
+    if DYNAMIC_DATE.search(cell):
+        return "dynamic"
+    return "empty"
+
+
 def rewrite(
     style: str,
     dates: dict[str, str],
     files: dict[Path, list[str]],
     dry_run: bool,
     failed: set[str],
-) -> tuple[int, int]:
+) -> tuple[int, int, list[str]]:
     changed = 0
     without_date = 0
+    changes: list[str] = []
+    dirty: set[Path] = set()
     for repo, occurrences in rows_with_repos(files).items():
         if repo in failed:
             continue
@@ -174,6 +186,7 @@ def rewrite(
             if len(cells) != 5:
                 print(f"Skipping malformed row in {path.name}:{index + 1}")
                 continue
+            before = display_date(cells[3])
             if day is None:
                 # No release: the version and date columns stay empty.
                 if not cells[2] and not cells[3]:
@@ -185,12 +198,16 @@ def rewrite(
             new_line = "| " + " | ".join(cells) + " |"
             if new_line == line:
                 continue
+            name = re.match(r"\[[^\]]+\]", cells[0])
+            label = name.group(0)[1:-1] if name else repo
+            changes.append(f"- {label} ({path.name}): {before} -> {display_date(cells[3])}")
             files[path][index] = new_line
+            dirty.add(path)
             changed += 1
-    if not dry_run and changed:
-        for path, lines in files.items():
-            path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
-    return changed, without_date
+    if not dry_run and dirty:
+        for path in dirty:
+            path.write_text("\n".join(files[path]) + "\n", encoding="utf-8", newline="\n")
+    return changed, without_date, changes
 
 
 def main() -> None:
@@ -209,6 +226,12 @@ def main() -> None:
     )
     parser.add_argument("--batch-size", type=int, default=50)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--log",
+        type=Path,
+        metavar="PATH",
+        help="write the run summary and every changed row to this file",
+    )
     args = parser.parse_args()
 
     files = read_lists()
@@ -216,15 +239,41 @@ def main() -> None:
     print(f"{len(repos)} repositories in {len(files)} list files")
     dates, failed = collect_dates(repos, args.mode, args.batch_size)
     missing = [repo for repo in repos if repo not in dates and repo not in failed]
-    changed, without_date = rewrite(args.style, dates, files, args.dry_run, failed)
+    changed, without_date, changes = rewrite(args.style, dates, files, args.dry_run, failed)
     verb = "would change" if args.dry_run else "changed"
-    print(f"{verb} {changed} rows")
+    summary = [
+        f"repositories: {len(repos)}",
+        f"files: {len(files)}",
+        f"changed rows: {changed}",
+    ]
+    if args.dry_run:
+        summary.append("mode: dry run")
     if args.style == "static":
+        summary.append(f"rows without a release: {without_date}")
         print(f"{without_date} rows have no release and keep the version/date columns empty")
     if missing:
+        summary.append(f"repositories without a release: {len(missing)}")
         print(f"{len(missing)} repositories returned no release, e.g. {', '.join(missing[:5])}")
     if failed:
+        summary.append(f"repositories left untouched: {len(failed)}")
         print(f"{len(failed)} repositories could not be queried and were left untouched")
+    print(f"{verb} {changed} rows")
+    if args.log:
+        stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        lines = [
+            f"# Release date refresh {stamp}",
+            "",
+            "## Summary",
+            "",
+            *[f"- {item}" for item in summary],
+            "",
+            "## Changes",
+            "",
+            *(changes or ["- none"]),
+            "",
+        ]
+        args.log.write_text("\n".join(lines), encoding="utf-8", newline="\n")
+        print(f"Log written to {args.log}")
 
 
 if __name__ == "__main__":

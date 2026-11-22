@@ -25,7 +25,14 @@ jobs:
       - name: Refresh release dates in every list
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/refresh_dates.py
+        run: python3 scripts/refresh_dates.py --log "$RUNNER_TEMP/refresh-dates.log"
+
+      - name: Publish run summary
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/refresh-dates.log" ]; then
+            cat "$RUNNER_TEMP/refresh-dates.log" >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Commit changes
         run: |

@@ -68,7 +68,7 @@ GitHub 条目使用 [shields.io](https://shields.io) 徽章，按 **Stars → �
 1. 在 `README.md` 中找到最匹配的**分类 / 子分类**，打开对应的 `lists/*.md`
 2. 将新条目作为该子分类表格的**最后一行**追加，不要直接修改 `README.md` 中的生成内容
 3. 按上述列填写（至少包含：软件、简介）
-4. 运行 `python scripts/refresh_dates.py` 刷新发布日期：默认用 GraphQL 每批 50 个仓库查询，一次调用即可覆盖大部分条目；`--mode rest` 改为逐个仓库查询，`--style dynamic` 可切回自动更新的动态徽章
+4. 运行 `python scripts/refresh_dates.py` 刷新发布日期：默认用 GraphQL 每批 50 个仓库查询，一次调用即可覆盖大部分条目；`--mode rest` 改为逐个仓库查询，`--style dynamic` 可切回自动更新的动态徽章，`--log run.log` 把摘要与逐条变更写入日志
 5. 运行 `python scripts/build_readme.py` 更新首页，再运行 `python scripts/build_readme.py --check` 和 `git diff --check`
 6. 提交 Pull Request，标题形如 `Add 软件名` 或 `新增 软件名`
 
