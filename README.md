@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 318 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 319 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -46,11 +46,11 @@
 - [AI 工具](#ai-工具) · 15 项
   - [聊天与助手](#聊天与助手) · 5 项
   - [AI 编程工具](#ai-编程工具) · 10 项
-- [多媒体](#多媒体) · 55 项
+- [多媒体](#多媒体) · 56 项
   - [视频播放与观看](#视频播放与观看) · 21 项
   - [视频剪辑与转码](#视频剪辑与转码) · 6 项
   - [直播](#直播) · 4 项
-  - [音乐](#音乐) · 13 项
+  - [音乐](#音乐) · 14 项
   - [图片](#图片) · 11 项
 - [文档与阅读](#文档与阅读) · 21 项
   - [PDF、电子书与文档](#pdf电子书与文档) · 13 项
@@ -469,6 +469,7 @@
 - [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 常见音频格式的音频播放器。 `跨平台` `GPL-3.0`
 - [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器。 `跨平台` `AGPL-3.0`
 - [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) - 音乐播放器模仿酷狗。 `跨平台` `GPL-3.0`
+- [Folia-rust](https://github.com/Techuouo520/Folia-rust) - Folia 歌词可视化音乐播放器的原生 Rust 重写，使用 iced 与 wgpu 绘制界面与歌词动画。 `跨平台` `AGPL-3.0`
 #### [图片](lists/media.md#图片)
 
 - [HoneyView](https://www.bandisoft.com/honeyview/) - Windows 图片查看器。 `Windows`

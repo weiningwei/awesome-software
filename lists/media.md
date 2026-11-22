@@ -65,6 +65,7 @@
 | [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/zhongyang219/MusicPlayer2?label=&style=flat) | ![Date](https://img.shields.io/badge/2025--12--27-1a7f37) | 常见音频格式的音频播放器。 `跨平台` `GPL-3.0` |
 | [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) | ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFreeDesktop?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/maotoumao/MusicFreeDesktop?label=&style=flat) | ![Date](https://img.shields.io/badge/2025--10--26-1a7f37) | 插件化、定制化、无广告的免费音乐播放器。 `跨平台` `AGPL-3.0` |
 | [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) | ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicplayer?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Greedysky/TTKMusicplayer?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--12-1a7f37) | 音乐播放器模仿酷狗。 `跨平台` `GPL-3.0` |
+| [Folia-rust](https://github.com/Techuouo520/Folia-rust) | ![GitHub Repo stars](https://img.shields.io/github/stars/Techuouo520/Folia-rust?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/Techuouo520/Folia-rust?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--19-1a7f37) | Folia 歌词可视化音乐播放器的原生 Rust 重写，使用 iced 与 wgpu 绘制界面与歌词动画。 `跨平台` `AGPL-3.0` |
 
 ## 图片
 
