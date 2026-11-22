@@ -1,4 +1,4 @@
-name: Refresh release dates
+name: Refresh release dates and star order
 
 on:
   schedule:
@@ -27,21 +27,31 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/refresh_dates.py --log "$RUNNER_TEMP/refresh-dates.log"
 
+      - name: Sort every list by stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sort_entries.py --log "$RUNNER_TEMP/sort-stars.log"
+
+      - name: Regenerate README
+        run: python3 scripts/build_readme.py
+
       - name: Publish run summary
         if: always()
         run: |
-          if [ -f "$RUNNER_TEMP/refresh-dates.log" ]; then
-            cat "$RUNNER_TEMP/refresh-dates.log" >> "$GITHUB_STEP_SUMMARY"
-          fi
+          for log in refresh-dates sort-stars; do
+            if [ -f "$RUNNER_TEMP/$log.log" ]; then
+              cat "$RUNNER_TEMP/$log.log" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
 
       - name: Commit changes
         run: |
-          if git diff --quiet -- lists; then
-            echo "No release date changed"
+          if git diff --quiet -- lists README.md; then
+            echo "No release date or star order changed"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lists
-          git commit -m "chore: refresh release dates"
+          git add lists README.md
+          git commit -m "chore: refresh release dates and star order"
           git push
