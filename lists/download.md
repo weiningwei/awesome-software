@@ -16,7 +16,7 @@
 | [Plexo](https://github.com/anmolkapil/plexo) | ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo?label=&style=flat) |  | ![Date](https://img.shields.io/badge/2026--10--11-1a7f37) | 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT` |
 | [Varia](https://github.com/giantpinkrobots/varia) | ![GitHub Repo stars](https://img.shields.io/github/stars/giantpinkrobots/varia?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/giantpinkrobots/varia?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--18-1a7f37) | aria2 与 yt-dlp 的图形前端下载管理器，支持普通文件、BT 种子与视频/音频流下载。 `跨平台` `MPL-2.0` |
 | [Hydra](https://github.com/ja7ad/hydra) | ![GitHub Repo stars](https://img.shields.io/github/stars/ja7ad/hydra?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/ja7ad/hydra?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--10--25-1a7f37) | 跨平台下载管理器，通过多连接与多镜像分片加速下载，支持 HTTP/FTP/Metalink 并提供命令行、TUI 与桌面 GUI。 `跨平台` `GPL-3.0` |
-| [SwiftDL](https://github.com/harshsinghsv/swiftdl) | ![GitHub Repo stars](https://img.shields.io/github/stars/harshsinghsv/swiftdl?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/harshsinghsv/swiftdl?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--17-1a7f37) | 用 Rust 与 Tauri 编写的跨平台下载管理器，支持多连接分片、断点续传与浏览器扩展。 `跨平台` `MIT` |
+| [SwiftDL](https://github.com/harshsinghsv/swiftdl) | ![GitHub Repo stars](https://img.shields.io/github/stars/harshsinghsv/swiftdl?label=&style=flat) | ![GitHub Release](https://img.shields.io/github/v/release/harshsinghsv/swiftdl?label=&style=flat) | ![Date](https://img.shields.io/badge/2026--11--23-1a7f37) | 用 Rust 与 Tauri 编写的跨平台下载管理器，支持多连接分片、断点续传与浏览器扩展。 `跨平台` `MIT` |
 
 ## 视频与流媒体下载
 

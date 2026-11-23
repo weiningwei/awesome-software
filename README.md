@@ -218,8 +218,8 @@
 - [Bulk-Crap-Uninstaller/BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - 支持批量卸载应用程序。 `Windows` `Apache-2.0`
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - 基于 DISM 的 Windows 系统优化与清理工具。 `Windows` `MIT`
 - [DriverStore Explorer](https://github.com/lostindark/DriverStoreExplorer) - Windows 驱动仓库管理工具，可枚举、导出并删除已安装的驱动包。 `Windows` `GPL-2.0`
-- [bleachbit](https://github.com/bleachbit/bleachbit) - 跨平台系统清理与磁盘空间释放工具。 `跨平台` `GPL-3.0`
 - [FluentCleaner](https://github.com/builtbybel/FluentCleaner) - 基于 WinUI 3 的 Windows 系统清理工具（支持终端控制和多数据库）。 `Windows` `MIT`
+- [bleachbit](https://github.com/bleachbit/bleachbit) - 跨平台系统清理与磁盘空间释放工具。 `跨平台` `GPL-3.0`
 - [MangoDisk](https://github.com/harry0703/MangoDisk) - 以安全为首要考量的磁盘清理与磁盘空间分析工具。 `跨平台` `GPL-3.0`
 - [WindirStat](https://github.com/windirstat/windirstat) - 磁盘空间使用统计查看与清理工具。 `Windows` `GPL-2.0`
 - [disktree](https://github.com/tobi/disktree) - 跨平台磁盘空间分析工具，以矩形树图展示占用并支持标记后安全删除。 `跨平台` `MIT`
