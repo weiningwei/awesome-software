@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 325 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 326 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -35,10 +35,10 @@
   - [通用下载器](#通用下载器) · 11 项
   - [视频与流媒体下载](#视频与流媒体下载) · 12 项
   - [网络加速](#网络加速) · 3 项
-- [开发工具](#开发工具) · 51 项
+- [开发工具](#开发工具) · 52 项
   - [编辑器](#编辑器) · 11 项
   - [终端与 SSH](#终端与-ssh) · 13 项
-  - [Git GUI](#git-gui) · 12 项
+  - [Git GUI](#git-gui) · 13 项
   - [API 测试](#api-测试) · 4 项
   - [数据库](#数据库) · 5 项
   - [代码对比](#代码对比) · 3 项
@@ -357,6 +357,7 @@
 - [serie](https://github.com/lusingander/serie) - 跨平台 Git 历史可视化客户端。 `跨平台` `MIT`
 - [Guitar](https://github.com/soramimi/Guitar) - 基于 Qt 的跨平台 Git 图形客户端。 `跨平台` `GPL-2.0`
 - [megit](https://github.com/eclipsesource/megit) - 基于 Eclipse 的 Git 图形客户端。 `跨平台` `EPL-2.0`
+- [AngKorGit](https://github.com/cheat2001/angkorgit) - 基于 Tauri 与 Rust 构建的跨平台 Git 图形客户端，提供提交图、差异对比与冲突解决。 `跨平台` `MIT`
 - [RemoteGit](https://github.com/adammery/remotegit) - 面向存放在 SSH 服务器上的仓库的 Git 图形客户端，可查看改动、差异、历史与分支并执行提交、推送和拉取。 `Windows` `macOS`
 - [GitYak](https://github.com/Eflyax/GitYak) - 可通过 SSH 操作远程服务器与本地仓库的跨平台 Git 图形客户端。 `跨平台`
 - [Sublime Merge](https://www.sublimemerge.com/) - Sublime Text 同厂的 Git 客户端，支持三向合并与逐行暂存。 `跨平台`
