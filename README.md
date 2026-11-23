@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 326 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 327 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -52,9 +52,9 @@
   - [直播](#直播) · 4 项
   - [音乐](#音乐) · 18 项
   - [图片](#图片) · 11 项
-- [文档与阅读](#文档与阅读) · 21 项
+- [文档与阅读](#文档与阅读) · 22 项
   - [PDF、电子书与文档](#pdf电子书与文档) · 13 项
-  - [笔记与 Markdown](#笔记与-markdown) · 8 项
+  - [笔记与 Markdown](#笔记与-markdown) · 9 项
 
 ## 软件与字体清单
 
@@ -519,6 +519,7 @@
 - [Quiet.md](https://github.com/s1dashu/quiet-md) - 本地优先的跨平台笔记应用，使用 Rust + GPUI 原生绘制，笔记以飞书 DocxXML 格式存储。 `跨平台` `MIT`
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - 本地优先的跨平台 Markdown 编辑器，支持 WYSIWYG 所见即所得与源码双模式编辑，内置 AI 助手与多格式导出。 `跨平台` `AGPL-3.0`
 - [Glim](https://github.com/glimapp/glim) - macOS 文件查看器，支持 Markdown、源代码、Git 差异、PDF 与电子书阅读。 `macOS` `MIT`
+- [Vellora](https://github.com/mirad-tech/vellora) - Windows Markdown 阅读与编辑器，支持渲染预览、源码模式、目录导航与搜索替换。 `Windows` `MIT`
 - [Typora](https://typora.io/) - 跨平台 Markdown 编辑器，所见即所得。 `跨平台`
 
 ## 相关资源
