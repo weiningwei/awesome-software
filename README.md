@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 324 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 325 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -14,10 +14,10 @@
 - [识别与翻译](#识别与翻译) · 10 项
 - [局域网传输](#局域网传输) · 3 项
 - [远程桌面](#远程桌面) · 3 项
-- [系统工具](#系统工具) · 100 项
+- [系统工具](#系统工具) · 101 项
   - [压缩与解压](#压缩与解压) · 3 项
   - [文件管理](#文件管理) · 3 项
-  - [系统监控](#系统监控) · 5 项
+  - [系统监控](#系统监控) · 6 项
   - [使用统计](#使用统计) · 3 项
   - [桌面美化](#桌面美化) · 11 项
   - [窗口与桌面工具](#窗口与桌面工具) · 10 项
@@ -154,6 +154,7 @@
 
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 桌面悬浮窗，显示网速、CPU 与内存占用。 `Windows`
 - [memreduct](https://github.com/henrypp/memreduct) - 内存监视和清理工具。 `Windows` `GPL-3.0`
+- [Argus](https://github.com/Ray-lea/Argus) - 使用 Rust 与 GPUI 构建的 Windows 任务管理器，提供进程、性能与资源占用的实时视图。 `Windows` `AGPL-3.0`
 - [NexBox](https://github.com/MuLiuSaMa/NexBox) - 面向 PC 玩家的性能工具箱，集成硬件与帧率监控、游戏内叠加显示、系统优化和准心等辅助功能。 `Windows` `GPL-3.0`
 - [Monit](https://github.com/fzf404/Monit) - 可自定义的 macOS 桌面小组件。 `macOS` `MIT`
 - [Voltide](https://github.com/sdparklab/Voltide) - Windows 托盘工具，显示 2.4G 无线键鼠、耳机与手柄的电量，无需安装厂商软件。 `Windows` `MIT`
