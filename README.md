@@ -2,7 +2,7 @@
 
 <!-- 由 scripts/build_readme.py 生成；请编辑 lists/*.md。 -->
 
-按功能整理的软件与字体清单，共收录 328 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 329 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -46,8 +46,8 @@
 - [AI 工具](#ai-工具) · 15 项
   - [聊天与助手](#聊天与助手) · 5 项
   - [AI 编程工具](#ai-编程工具) · 10 项
-- [多媒体](#多媒体) · 60 项
-  - [视频播放与观看](#视频播放与观看) · 21 项
+- [多媒体](#多媒体) · 61 项
+  - [视频播放与观看](#视频播放与观看) · 22 项
   - [视频剪辑与转码](#视频剪辑与转码) · 6 项
   - [直播](#直播) · 4 项
   - [音乐](#音乐) · 18 项
@@ -440,6 +440,7 @@
 - [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) - mpv 播放器的 Windows 预编译构建。 `跨平台`
 - [红果短剧 TV](https://github.com/aston314/hongguo-tv-releases) - 第三方红果短剧客户端，支持 Android TV、webOS、macOS、Windows 与 Linux。 `跨平台`
 - [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0`
+- [Transub Player](https://github.com/dlsandy/Transub-Player) - Windows 视频播放器，内置语音识别实时生成字幕，并翻译为双语对照显示。 `Windows`
 - [TVBox Desktop](https://github.com/hgtuj5688/tvbox-desktop) - Windows 影视聚合客户端，兼容 TVBox 配置订阅格式，支持聚合搜索、电视直播与多线路播放。 `Windows` `MIT`
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 - [弹弹play](https://github.com/kaedei/dandanplay) - 全功能本地视频+弹幕播放器。 `Windows` `Apache-2.0`
