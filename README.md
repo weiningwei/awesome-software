@@ -225,8 +225,8 @@
 - [disktree](https://github.com/tobi/disktree) - 跨平台磁盘空间分析工具，以矩形树图展示占用并支持标记后安全删除。 `跨平台` `MIT`
 - [LightC](https://github.com/Chunyu33/light-c) - C 盘清理工具，快速定位并删除冗余文件。 `Windows`
 - [QDirStat](https://github.com/shundhammer/qdirstat) - 基于 Qt 的磁盘空间使用统计查看工具。 `Linux` `GPL-2.0`
-- [RogueCleaner](https://github.com/aakk007/RogueCleaner) - 流氓软件克星，扫描并清理右键菜单、自启项、计划任务、服务与浏览器插件等残留。 `Windows` `MIT`
 - [WhoShitsOnMyC](https://github.com/Kami958/WhoShitsonMyC) - 磁盘空间变化对比轻量小工具，通过快照对比找出占用空间的文件。 `Windows` `GPL-3.0`
+- [RogueCleaner](https://github.com/aakk007/RogueCleaner) - 流氓软件克星，扫描并清理右键菜单、自启项、计划任务、服务与浏览器插件等残留。 `Windows` `MIT`
 - [C盘管家](https://github.com/YGTQ3/disk-butler) - Windows 磁盘空间分析与清理工具，通过直读 NTFS MFT 秒级统计占用。 `Windows` `MIT`
 - [NcduWin](https://github.com/xiaodingfeng/ncdu-win-qt) - 基于 Qt 6 的磁盘空间分析工具，直接读取 NTFS MFT 快速扫描，提供 ncdu 风格文件列表与矩形树图，并支持重复文件查找与垃圾清理。 `Windows` `MIT`
 - [geek](https://geekuninstaller.com/) - 轻量级软件卸载工具，支持强制卸载与清理残留。 `Windows`
@@ -435,8 +435,8 @@
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件。 `Windows`
 - [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - 全功能弹幕播放器。 `Windows` `GPL-3.0`
 - [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) - mpv 播放器的 Windows 预编译构建。 `跨平台`
-- [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0`
 - [红果短剧 TV](https://github.com/aston314/hongguo-tv-releases) - 第三方红果短剧客户端，支持 Android TV、webOS、macOS、Windows 与 Linux。 `跨平台`
+- [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0`
 - [TVBox Desktop](https://github.com/hgtuj5688/tvbox-desktop) - Windows 影视聚合客户端，兼容 TVBox 配置订阅格式，支持聚合搜索、电视直播与多线路播放。 `Windows` `MIT`
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 - [弹弹play](https://github.com/kaedei/dandanplay) - 全功能本地视频+弹幕播放器。 `Windows` `Apache-2.0`
