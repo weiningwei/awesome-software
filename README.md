@@ -73,9 +73,9 @@
 - [SnowAir](https://github.com/CM-idea/SnowAir) - 轻量的 Windows 截图与标注工具，支持长截图、录屏、贴图、OCR 与翻译。 `Windows` `Apache-2.0`
 - [Kiri](https://github.com/yuxino/Kiri) - 跨平台截图与录屏工具，内置标注编辑与本地 OCR 文字识别。 `跨平台` `MIT`
 - [jietuba](https://github.com/1003129155/jietuba) - Windows 截图工具，支持长截图、标注、OCR、翻译、钉图、GIF 录制与剪贴板历史。 `Windows` `MIT`
+- [sniplite](https://github.com/MrTangLuyao/sniplite) - 核心用汇编编写的轻量截图与贴图工具，支持长截图与 OCR。 `Windows` `MIT`
 - [PixWit](https://github.com/yun-cun-li/PixWit) - 截图、录屏与简易视频剪辑工具，支持贴图、标注、OCR 与 GIF 转换。 `Windows` `GPL-3.0`
 - [SnapCut（简截）](https://github.com/jiuwanzi-hui/Screenshot) - Windows 与 macOS 截图工作台，支持框选截图、长截图、区域录屏、钉图取色、标注、OCR 与翻译。 `跨平台` `非商业许可`
-- [sniplite](https://github.com/MrTangLuyao/sniplite) - 核心用汇编编写的轻量截图与贴图工具，支持长截图与 OCR。 `Windows` `MIT`
 - [QuickShot](https://github.com/cclank/quickshot) - 本地截图工具，支持悬停选取窗口、标注、美化与图片拼接。 `跨平台` `GPL-3.0`
 - [PixPin](https://pixpin.cn/) - 截图、贴图与长截图工具。 `Windows`
 - [Snipaste](https://www.snipaste.com/) - 截图与贴图工具，支持标注与取色。 `Windows`
