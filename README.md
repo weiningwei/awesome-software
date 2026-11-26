@@ -67,8 +67,8 @@
 #### [截图](lists/screenshot-recording.md#截图)
 
 - [ShareX](https://github.com/ShareX/ShareX) - Windows 截图与录屏工具，支持上传、OCR 与自动化流程。 `Windows` `GPL-3.0`
-- [eSearch](https://github.com/xushengfeng/eSearch) - 截屏、离线 OCR 与以图搜图工具。 `Windows` `GPL-3.0`
 - [snow-shot](https://github.com/mg-chao/snow-shot) - 截图与录屏工具，支持标注、长截图、贴图与离线 OCR。 `跨平台` `GPL-3.0`
+- [eSearch](https://github.com/xushengfeng/eSearch) - 截屏、离线 OCR 与以图搜图工具。 `Windows` `GPL-3.0`
 - [pear-rec](https://github.com/027xiguapi/pear-rec) - 截屏、录屏和录音软件。 `跨平台` `Apache-2.0`
 - [SnowAir](https://github.com/CM-idea/SnowAir) - 轻量的 Windows 截图与标注工具，支持长截图、录屏、贴图、OCR 与翻译。 `Windows` `Apache-2.0`
 - [Kiri](https://github.com/yuxino/Kiri) - 跨平台截图与录屏工具，内置标注编辑与本地 OCR 文字识别。 `跨平台` `MIT`
@@ -286,8 +286,8 @@
 - [Motrix](https://github.com/agalwood/Motrix) - 基于 aria2 的多线程下载器，支持 HTTP/FTP/BT 与磁力链。 `跨平台` `MIT`
 - [gopeed](https://github.com/GopeedLab/gopeed) - Go 编写的跨平台下载器，支持 HTTP/BT/磁力链与扩展。 `跨平台` `GPL-3.0`
 - [ab-download-manager](https://github.com/amir1376/ab-download-manager) - 多线程下载管理器。 `Windows` `Apache-2.0`
-- [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0`
 - [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - 全协议下载器，支持 HTTP/BT/FTP/M3U8/DASH/eD2k 及 YouTube/B站/GitHub/HF 解析。 `跨平台` `GPL-3.0`
+- [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0`
 - [Rayburst](https://github.com/AnInsomniacy/rayburst) - 全功能下载管理器。 `跨平台` `MIT`
 - [FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent/磁力链/HLS/DASH。 `跨平台` `AGPL-3.0`
 - [Plexo](https://github.com/anmolkapil/plexo) - 通过合并多个网络连接并行加速下载的下载器。 `跨平台` `MIT`
