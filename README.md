@@ -4,7 +4,7 @@
 
 > 本文件由 `scripts/build_readme.py` 从 `lists/*.md` 生成，请勿直接编辑；新增或修改条目请修改 `lists/` 下的对应分类文件。
 
-按功能整理的软件与字体清单，共收录 332 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
+按功能整理的软件与字体清单，共收录 333 项。首页列出全部条目；目录点击可跳到对应分类；点击分类或子分类标题可打开分类页，查看星标、最新版本与发布日期。
 
 ## 分类
 
@@ -15,7 +15,7 @@
 - [文件搜索与启动](#文件搜索与启动) · 8 项
 - [识别与翻译](#识别与翻译) · 10 项
 - [局域网传输](#局域网传输) · 3 项
-- [远程桌面](#远程桌面) · 4 项
+- [远程桌面](#远程桌面) · 5 项
 - [系统工具](#系统工具) · 102 项
   - [压缩与解压](#压缩与解压) · 3 项
   - [文件管理](#文件管理) · 3 项
@@ -138,6 +138,7 @@
 - [RustDesk](https://github.com/rustdesk/rustdesk) - 可自托管的开源远程桌面工具，可连接与远程控制其他设备，作为 TeamViewer 的替代。 `跨平台` `AGPL-3.0`
 - [CrossDesk](https://github.com/kunkundi/crossdesk) - 轻量级跨平台远程桌面工具，支持 Web 客户端访问。 `跨平台` `GPL-3.0`
 - [1Remote](https://github.com/1Remote/1Remote) - 统一管理 RDP、SSH、VNC、sFTP 等远程连接的会话管理器。 `Windows` `GPL-3.0`
+- [AirHand](https://github.com/sqlpxc/airhand) - 基于 QUIC 传输的跨平台远程桌面工具，支持硬件编解码，最高 120 fps。 `跨平台` `MIT`
 - [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 基于 RustDesk 的局域网远程桌面工具，仅在本地网络内直连，不经公网中转。 `跨平台` `AGPL-3.0`
 
 ### [系统工具](lists/system.md)
