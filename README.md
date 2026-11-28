@@ -286,8 +286,8 @@
 
 - [Motrix](https://github.com/agalwood/Motrix) - 基于 aria2 的多线程下载器，支持 HTTP/FTP/BT 与磁力链。 `跨平台` `MIT`
 - [gopeed](https://github.com/GopeedLab/gopeed) - Go 编写的跨平台下载器，支持 HTTP/BT/磁力链与扩展。 `跨平台` `GPL-3.0`
-- [ab-download-manager](https://github.com/amir1376/ab-download-manager) - 多线程下载管理器。 `Windows` `Apache-2.0`
 - [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - 全协议下载器，支持 HTTP/BT/FTP/M3U8/DASH/eD2k 及 YouTube/B站/GitHub/HF 解析。 `跨平台` `GPL-3.0`
+- [ab-download-manager](https://github.com/amir1376/ab-download-manager) - 多线程下载管理器。 `Windows` `Apache-2.0`
 - [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) - 用 Rust 编写的跨平台下载管理器，支持 HTTP 下载与 BitTorrent（磁力链接、种子文件），并提供浏览器扩展。 `跨平台` `GPL-3.0`
 - [Rayburst](https://github.com/AnInsomniacy/rayburst) - 全功能下载管理器。 `跨平台` `MIT`
 - [FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent/磁力链/HLS/DASH。 `跨平台` `AGPL-3.0`
@@ -443,8 +443,8 @@
 - [mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) - mpv 播放器的 Windows 预编译构建。 `跨平台`
 - [红果短剧 TV](https://github.com/aston314/hongguo-tv-releases) - 第三方红果短剧客户端，支持 Android TV、webOS、macOS、Windows 与 Linux。 `跨平台`
 - [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) - 基于 mpv 的现代化、易于使用的视频播放器。 `Windows` `GPL-3.0`
-- [Transub Player](https://github.com/dlsandy/Transub-Player) - Windows 视频播放器，内置语音识别实时生成字幕，并翻译为双语对照显示。 `Windows`
 - [TVBox Desktop](https://github.com/hgtuj5688/tvbox-desktop) - Windows 影视聚合客户端，兼容 TVBox 配置订阅格式，支持聚合搜索、电视直播与多线路播放。 `Windows` `MIT`
+- [Transub Player](https://github.com/dlsandy/Transub-Player) - Windows 视频播放器，内置语音识别实时生成字幕，并翻译为双语对照显示。 `Windows`
 - [BiliSail（哔帆）](https://github.com/CKopoer/BiliSail) - 支持视频、直播和离线播放的第三方哔哩哔哩客户端。 `跨平台`
 - [弹弹play](https://github.com/kaedei/dandanplay) - 全功能本地视频+弹幕播放器。 `Windows` `Apache-2.0`
 - [Potplayer](https://potplayer.daum.net/) - Windows 视频播放器，支持硬件解码与多种字幕格式。 `Windows`
